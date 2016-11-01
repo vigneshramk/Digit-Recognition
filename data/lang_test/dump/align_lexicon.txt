@@ -1,0 +1,3177 @@
+a a_S
+aa aa_S
+aad'udur'ai aa_B dx_I u_I d_I u_I rx_I ai_E
+aad'ung~ga aa_B dx_I u_I ng_I g_I a_E
+aagadavar aa_B g_I a_I d_I a_I v_I a_I r_E
+aagavillai aa_B g_I a_I v_I i_I ll_I ai_E
+aagiyavar'r'aal aa_B g_I i_I y_I a_I v_I a_I rx_I rx_I aa_I l_E
+aakchait' aa_B k_I c_I ai_I tx_E
+aakiyavai aa_B k_I i_I y_I a_I v_I ai_E
+aal't'eik aa_B lx_I tx_I ee_I k_E
+aalang~kot't'aaram aa_B l_I a_I ng_I k_I o_I tx_I tx_I aa_I r_I a_I m_E
+aam aa_B m_E
+aamaa aa_B m_I aa_E
+aamaam aa_B m_I aa_I m_E
+aamai aa_B m_I ai_E
+aamanatu aa_B m_I a_I n_I a_I t_I eu_E
+aamand~akku aa_B m_I a_I nx_I a_I k_I k_I eu_E
+aamand~akkukkot't'ai aa_B m_I a_I nx_I a_I k_I k_I u_I k_I k_I o_I tx_I tx_I ai_E
+aamand~akkukot't'ai aa_B m_I a_I nx_I a_I k_I k_I u_I k_I o_I tx_I tx_I ai_E
+aamand~akkum aa_B m_I a_I nx_I a_I k_I k_I u_I m_E
+aamand~ukku aa_B m_I a_I nx_I u_I k_I k_I eu_E
+aan aa_B n_E
+aanavar aa_B n_I a_I v_I a_I r_E
+aan~tiraa aa_B n_I t_I i_I r_I aa_E
+aap aa_B p_E
+aappand~nd~it't'aa aa_B p_I p_I a_I nx_I nx_I i_I tx_I tx_I aa_E
+aappil' aa_B p_I p_I i_I lx_E
+aar aa_B r_E
+aar'i aa_B rx_I i_E
+aar'nuur'r'u aa_B rx_I n_I uu_I rx_I rx_I eu_E
+aar'n~uutti aa_B rx_I n_I uu_I t_I t_I i_E
+aar'u aa_B rx_I eu_E
+aar'ung~ga aa_B rx_I u_I ng_I g_I a_E
+aaraayi aa_B r_I aa_I y_I i_E
+aaramba aa_B r_I a_I m_I b_I a_E
+aarambachugaadaara aa_B r_I a_I m_I b_I a_I c_I u_I g_I aa_I d_I aa_I r_I a_E
+aarampa aa_B r_I a_I m_I p_I a_E
+aaranj~chi aa_B r_I a_I nj_I c_I i_E
+aaranj~chipazham aa_B r_I a_I nj_I c_I i_I p_I a_I zh_I a_I m_E
+aaranj~chu aa_B r_I a_I nj_I c_I eu_E
+aaranj~chupalam aa_B r_I a_I nj_I c_I u_I p_I a_I l_I a_I m_E
+aaranj~chupazham aa_B r_I a_I nj_I c_I u_I p_I a_I zh_I a_I m_E
+aaranj~chuppazham aa_B r_I a_I nj_I c_I u_I p_I p_I a_I zh_I a_I m_E
+aareses aa_B r_I e_I s_I e_I s_E
+aaron aa_B r_I o_I n_E
+aaspattiri aa_B s_I p_I a_I t_I t_I i_I r_I i_E
+aaspattirikku aa_B s_I p_I a_I t_I t_I i_I r_I i_I k_I k_I eu_E
+aaspit't'al aa_B s_I p_I i_I tx_I tx_I a_I l_E
+aaspit't'alung~ga aa_B s_I p_I i_I tx_I tx_I a_I l_I u_I ng_I g_I a_E
+aat'utur'ai aa_B tx_I u_I t_I u_I rx_I ai_E
+aattu aa_B t_I t_I eu_E
+aattukud'i aa_B t_I t_I u_I k_I u_I dx_I i_E
+aattupaalam aa_B t_I t_I u_I p_I aa_I l_I a_I m_E
+aavand~attang~ aa_B v_I a_I nx_I a_I t_I t_I a_I ng_E
+aay aa_B y_E
+aayalkud'i aa_B y_I a_I l_I k_I u_I dx_I i_E
+aayil aa_B y_I i_I l_E
+aayiram aa_B y_I i_I r_I a_I m_E
+aayiratti aa_B y_I i_I r_I a_I t_I t_I i_E
+aayirattiyon aa_B y_I i_I r_I a_I t_I t_I i_I y_I o_I n_E
+aayirattompootu aa_B y_I i_I r_I a_I t_I t_I o_I m_I p_I oo_I t_I eu_E
+aayirattu aa_B y_I i_I r_I a_I t_I t_I eu_E
+aayirattuompootu aa_B y_I i_I r_I a_I t_I t_I u_I o_I m_I p_I oo_I t_I eu_E
+aaypaad'i aa_B y_I p_I aa_I dx_I i_E
+aayvoor aa_B y_I v_I oo_I r_E
+achchu a_B c_I c_I eu_E
+achchuvel'l'am a_B c_I c_I u_I v_I e_I lx_I lx_I a_I m_E
+achchuvellam a_B c_I c_I u_I v_I e_I ll_I a_I m_E
+achookpayirilam a_B c_I oo_I k_I p_I a_I y_I i_I r_I i_I l_I a_I m_E
+ad'ai a_B dx_I ai_E
+ad'at'chi a_B dx_I a_I tx_I c_I i_E
+ad'i a_B dx_I i_E
+ad'ikkir'atu a_B dx_I i_I k_I k_I i_I rx_I a_I t_I eu_E
+ad'ikkir'atulla a_B dx_I i_I k_I k_I i_I rx_I a_I t_I u_I ll_I a_E
+ad'ikkutu a_B dx_I i_I k_I k_I u_I t_I eu_E
+ad'uchchut'u a_B dx_I u_I c_I c_I u_I tx_I eu_E
+ad'uttatu a_B dx_I u_I t_I t_I a_I t_I eu_E
+ah a_B h_E
+ai ai_S
+aiaar ai_B aa_I r_E
+aikkaay ai_B k_I k_I aa_I y_E
+aimatti ai_B m_I a_I t_I t_I i_E
+aimbatti ai_B m_I b_I a_I t_I t_I i_E
+aimbatu ai_B m_I b_I a_I t_I eu_E
+aimpatti ai_B m_I p_I a_I t_I t_I i_E
+aimpattin~aalu ai_B m_I p_I a_I t_I t_I i_I n_I aa_I l_I eu_E
+aimpattu ai_B m_I p_I a_I t_I t_I eu_E
+aimpatu ai_B m_I p_I a_I t_I eu_E
+ain~taa ai_B n_I t_I aa_E
+ain~tu ai_B n_I t_I eu_E
+ain~uur'u ai_B n_I uu_I rx_I eu_E
+ain~uur'upaa ai_B n_I uu_I rx_I u_I p_I aa_E
+ain~uutti ai_B n_I uu_I t_I t_I i_E
+aipiit'i ai_B p_I ii_I tx_I i_E
+aiyaluur ai_B y_I a_I l_I uu_I r_E
+aiyoo ai_B y_I oo_E
+aiyoot'eks ai_B y_I oo_I tx_I e_I k_I s_E
+akbar a_B k_I b_I a_I r_E
+akka a_B k_I k_I a_E
+al a_B l_E
+al'avu a_B lx_I a_I v_I eu_E
+alai a_B l_I ai_E
+alang~gaanattappirivu a_B l_I a_I ng_I g_I aa_I n_I a_I t_I t_I a_I p_I p_I i_I r_I i_I v_I eu_E
+alchar a_B l_I c_I a_I r_E
+alkirait' a_B l_I k_I i_I r_I ai_I tx_E
+alland~ai a_B ll_I a_I nx_I ai_E
+allatu a_B ll_I a_I t_I eu_E
+alu a_B l_I eu_E
+aluvalakattula a_B l_I u_I v_I a_I l_I a_I k_I a_I t_I t_I u_I l_I a_E
+am a_B m_E
+ama a_B m_I a_E
+amba a_B m_I b_I a_E
+ambatti a_B m_I b_I a_I t_I t_I i_E
+ambatu a_B m_I b_I a_I t_I eu_E
+ambu a_B m_I b_I eu_E
+ammaa a_B m_I m_I aa_E
+ammaachchipuram a_B m_I m_I aa_I c_I c_I i_I p_I u_I r_I a_I m_E
+ammai a_B m_I m_I ai_E
+amman a_B m_I m_I a_I n_E
+ammooniyaa a_B m_I m_I oo_I n_I i_I y_I aa_E
+amooniyaa a_B m_I oo_I n_I i_I y_I aa_E
+ampal a_B m_I p_I a_I l_E
+ampatet't'u a_B m_I p_I a_I t_I e_I tx_I tx_I eu_E
+ampatn~aalu a_B m_I p_I a_I t_I n_I aa_I l_I eu_E
+ampattaar'u a_B m_I p_I a_I t_I t_I aa_I rx_I eu_E
+ampattaaru a_B m_I p_I a_I t_I t_I aa_I r_I eu_E
+ampattanj~chu a_B m_I p_I a_I t_I t_I a_I nj_I c_I eu_E
+ampattet't'u a_B m_I p_I a_I t_I t_I e_I tx_I tx_I eu_E
+ampatti a_B m_I p_I a_I t_I t_I i_E
+ampattin~aalu a_B m_I p_I a_I t_I t_I i_I n_I aa_I l_I eu_E
+ampattirend~t'u a_B m_I p_I a_I t_I t_I i_I r_I e_I nx_I tx_I eu_E
+ampattiyaar'u a_B m_I p_I a_I t_I t_I i_I y_I aa_I rx_I eu_E
+ampattiyanj~chu a_B m_I p_I a_I t_I t_I i_I y_I a_I nj_I c_I eu_E
+ampattiyet't'u a_B m_I p_I a_I t_I t_I i_I y_I e_I tx_I tx_I eu_E
+ampatu a_B m_I p_I a_I t_I eu_E
+amuchchiyuur a_B m_I u_I c_I c_I i_I y_I uu_I r_E
+anan~ a_B n_I a_I n_E
+and~d'u a_B nx_I dx_I eu_E
+and~nd~aa a_B nx_I nx_I aa_E
+and~nd~aachiyod'a a_B nx_I nx_I aa_I c_I i_I y_I o_I dx_I a_E
+and~nd~ei a_B nx_I nx_I ee_E
+ang~ga a_B ng_I g_I a_E
+ang~gakud'u a_B ng_I g_I a_I k_I u_I dx_I eu_E
+ang~kaat'i a_B ng_I k_I aa_I tx_I i_E
+anj~chal a_B nj_I c_I a_I l_E
+anj~charai a_B nj_I c_I a_I r_I ai_E
+anj~charammaa a_B nj_I c_I a_I r_I a_I m_I m_I aa_E
+anj~chi a_B nj_I c_I i_E
+anj~chu a_B nj_I c_I eu_E
+annaachchi a_B n_I n_I aa_I c_I c_I i_E
+annaachchipalam a_B n_I n_I aa_I c_I c_I i_I p_I a_I l_I a_I m_E
+annaachchipazham a_B n_I n_I aa_I c_I c_I i_I p_I a_I zh_I a_I m_E
+annaachipazham a_B n_I n_I aa_I c_I i_I p_I a_I zh_I a_I m_E
+annaachippazham a_B n_I n_I aa_I c_I i_I p_I p_I a_I zh_I a_I m_E
+annai a_B n_I n_I ai_E
+an~ta a_B n_I t_I a_E
+an~tinaa a_B n_I t_I i_I n_I aa_E
+api a_B p_I i_E
+appa a_B p_I p_I a_E
+appaa a_B p_I p_I aa_E
+appad'inu a_B p_I p_I a_I dx_I i_I n_I eu_E
+appad'iyei a_B p_I p_I a_I dx_I i_I y_I ee_E
+appal'am a_B p_I p_I a_I lx_I a_I m_E
+appalloo a_B p_I p_I a_I ll_I oo_E
+appar'a a_B p_I p_I a_I rx_I a_E
+appat'iinaa a_B p_I p_I a_I tx_I ii_I n_I aa_E
+appat'itana a_B p_I p_I a_I tx_I i_I t_I a_I n_I a_E
+appat'iyaa a_B p_I p_I a_I tx_I i_I y_I aa_E
+appur'am a_B p_I p_I u_I rx_I a_I m_E
+apput'inaa a_B p_I p_I u_I tx_I i_I n_I aa_E
+ar a_B r_E
+ar'an~uur'u a_B rx_I a_I n_I uu_I rx_I eu_E
+ar'an~uutti a_B rx_I a_I n_I uu_I t_I t_I i_E
+ar'an~uuttinuppatu a_B rx_I a_I n_I uu_I t_I t_I i_I n_I u_I p_I p_I a_I t_I eu_E
+ar'avai a_B rx_I a_I v_I ai_E
+ar'avatti a_B rx_I a_I v_I a_I t_I t_I i_E
+ar'ikkai a_B rx_I i_I k_I k_I ai_E
+ar'ikkappat't'ul'l'atu a_B rx_I i_I k_I k_I a_I p_I p_I a_I tx_I tx_I u_I lx_I lx_I a_I t_I eu_E
+ar'ippu a_B rx_I i_I p_I p_I eu_E
+ar'ivippu a_B rx_I i_I v_I i_I p_I p_I eu_E
+ar'nuutti a_B rx_I n_I uu_I t_I t_I i_E
+ar'u a_B rx_I eu_E
+ar'ubatti a_B rx_I u_I b_I a_I t_I t_I i_E
+ar'ukil a_B rx_I u_I k_I i_I l_E
+ar'un~uuru a_B rx_I u_I n_I uu_I r_I eu_E
+ar'un~uutti a_B rx_I u_I n_I uu_I t_I t_I i_E
+ar'upattet't'u a_B rx_I u_I p_I a_I t_I t_I e_I tx_I tx_I eu_E
+ar'upatti a_B rx_I u_I p_I a_I t_I t_I i_E
+ar'uvattanj~chi a_B rx_I u_I v_I a_I t_I t_I a_I nj_I c_I i_E
+ar'uvatti a_B rx_I u_I v_I a_I t_I t_I i_E
+ar'uvattimuunu a_B rx_I u_I v_I a_I t_I t_I i_I m_I uu_I n_I eu_E
+ar'uvattinaalu a_B rx_I u_I v_I a_I t_I t_I i_I n_I aa_I l_I eu_E
+ar'uvattin~aanku a_B rx_I u_I v_I a_I t_I t_I i_I n_I aa_I n_I k_I eu_E
+ar'uvattirend~t'u a_B rx_I u_I v_I a_I t_I t_I i_I r_I e_I nx_I tx_I eu_E
+ar'uvattiyonnu a_B rx_I u_I v_I a_I t_I t_I i_I y_I o_I n_I n_I eu_E
+ar'uvattonnu a_B rx_I u_I v_I a_I t_I t_I o_I n_I n_I eu_E
+ar'uvatu a_B rx_I u_I v_I a_I t_I eu_E
+arachaang~ga a_B r_I a_I c_I aa_I ng_I g_I a_E
+arachot'ataang~ka a_B r_I a_I c_I o_I tx_I a_I t_I aa_I ng_I k_I a_E
+arachu a_B r_I a_I c_I eu_E
+arachumaruttuvamanai a_B r_I a_I c_I u_I m_I a_I r_I u_I t_I t_I u_I v_I a_I m_I a_I n_I ai_E
+arachumeilit'a a_B r_I a_I c_I u_I m_I ee_I l_I i_I tx_I a_E
+aragu a_B r_I a_I g_I eu_E
+arai a_B r_I ai_E
+arakkaay a_B r_I a_I k_I k_I aa_I y_E
+aral'i a_B r_I a_I lx_I i_E
+aranuutti a_B r_I a_I n_I uu_I t_I t_I i_E
+arban a_B r_I b_I a_I n_E
+ari a_B r_I i_E
+arichchirukku a_B r_I i_I c_I c_I i_I r_I u_I k_I k_I eu_E
+arichi a_B r_I i_I c_I i_E
+arichippoo a_B r_I i_I c_I i_I p_I p_I oo_E
+arikil a_B r_I i_I k_I i_I l_E
+arippu a_B r_I i_I p_I p_I eu_E
+arittal a_B r_I i_I t_I t_I a_I l_E
+ariyaluur a_B r_I i_I y_I a_I l_I uu_I r_E
+ariyappuuchchi a_B r_I i_I y_I a_I p_I p_I uu_I c_I c_I i_E
+arugil a_B r_I u_I g_I i_I l_E
+arukil a_B r_I u_I k_I i_I l_E
+arukilul'l'a a_B r_I u_I k_I i_I l_I u_I lx_I lx_I a_E
+aruppukkoot't'ai a_B r_I u_I p_I p_I u_I k_I k_I oo_I tx_I tx_I ai_E
+aruttichiir a_B r_I u_I t_I t_I i_I c_I ii_I r_E
+aruvatti a_B r_I u_I v_I a_I t_I t_I i_E
+at' a_B tx_E
+at'a a_B tx_I a_E
+at'aku a_B tx_I a_I k_I eu_E
+at'ichchaa a_B tx_I i_I c_I c_I aa_E
+at'ikkanum a_B tx_I i_I k_I k_I a_I n_I u_I m_E
+at'ikkar'atu a_B tx_I i_I k_I k_I a_I rx_I a_I t_I eu_E
+at'ikkutu a_B tx_I i_I k_I k_I u_I t_I eu_E
+at'utaan a_B tx_I u_I t_I aa_I n_E
+at'uttatu a_B tx_I u_I t_I t_I a_I t_I eu_E
+ataa a_B t_I aa_E
+ataan a_B t_I aa_I n_E
+atai a_B t_I ai_E
+atalaiyuur a_B t_I a_I l_I ai_I y_I uu_I r_E
+atellaam a_B t_I e_I ll_I aa_I m_E
+ati a_B t_I i_E
+atigamaa a_B t_I i_I g_I a_I m_I aa_E
+atika a_B t_I i_I k_I a_E
+atikal'avilul'l'a a_B t_I i_I k_I a_I lx_I a_I v_I i_I l_I u_I lx_I lx_I a_E
+atikamaaka a_B t_I i_I k_I a_I m_I aa_I k_I a_E
+attaluran a_B t_I t_I a_I l_I u_I r_I a_I n_E
+attikkizhang~gu a_B t_I t_I i_I k_I k_I i_I zh_I a_I ng_I g_I eu_E
+attu a_B t_I t_I eu_E
+atu a_B t_I eu_E
+atukkellaam a_B t_I u_I k_I k_I e_I ll_I aa_I m_E
+atula a_B t_I u_I l_I a_E
+atuvum a_B t_I u_I v_I u_I m_E
+avan a_B v_I a_I n_E
+avar a_B v_I a_I r_E
+avarai a_B v_I a_I r_I ai_E
+avaraik a_B v_I a_I r_I ai_I k_E
+avaraikkaay a_B v_I a_I r_I ai_I k_I k_I aa_I y_E
+avaraikkot't'ai a_B v_I a_I r_I ai_I k_I k_I o_I tx_I tx_I ai_E
+avarak a_B v_I a_I r_I a_I k_E
+avarakkaay a_B v_I a_I r_I a_I k_I k_I aa_I y_E
+avarakkaaytaan a_B v_I a_I r_I a_I k_I k_I aa_I y_I t_I aa_I n_E
+avarakot't'a a_B v_I a_I r_I a_I k_I o_I tx_I tx_I a_E
+avartaan a_B v_I a_I r_I t_I aa_I n_E
+avati a_B v_I a_I t_I i_E
+avi a_B v_I i_E
+avung~ka a_B v_I u_I ng_I k_I a_E
+avunj~chu a_B v_I u_I nj_I c_I eu_E
+avval'avu a_B v_I v_I a_I lx_I a_I v_I eu_E
+ayaluur a_B y_I a_I l_I uu_I r_E
+ayyoo a_B y_I y_I oo_E
+azhugal a_B zh_I u_I g_I a_I l_E
+azhugu a_B zh_I u_I g_I eu_E
+baachi b_B aa_I c_I i_E
+batti b_B a_I t_I t_I i_E
+battu b_B a_I t_I t_I eu_E
+batu b_B a_I t_I eu_E
+bi b_B i_E
+cevat't'ai s_B e_I v_I a_I tx_I tx_I ai_E
+cha s_B a_E
+chaagupad'i s_B aa_I g_I u_I p_I a_I dx_I i_E
+chaakupad'ipannirukkoom s_B aa_I k_I u_I p_I a_I dx_I i_I p_I a_I n_I n_I i_I r_I u_I k_I k_I oo_I m_E
+chaakupat'i s_B aa_I k_I u_I p_I a_I tx_I i_E
+chaaman~ti s_B aa_I m_I a_I n_I t_I i_E
+chaaman~tippuukkal' s_B aa_I m_I a_I n_I t_I i_I p_I p_I uu_I k_I k_I a_I lx_E
+chaampal s_B aa_I m_I p_I a_I l_E
+chaap s_B aa_I p_E
+chaar s_B aa_I r_E
+chaataarnd~amaa s_B aa_I t_I aa_I r_I nx_I a_I m_I aa_E
+chaatarand~a s_B aa_I t_I a_I r_I a_I nx_I a_E
+chaattukkod'i s_B aa_I t_I t_I u_I k_I k_I o_I dx_I i_E
+chaattukkot'i s_B aa_I t_I t_I u_I k_I k_I o_I tx_I i_E
+chaattukkut'i s_B aa_I t_I t_I u_I k_I k_I u_I tx_I i_E
+chaattukut'i s_B aa_I t_I t_I u_I k_I u_I tx_I i_E
+chaattuur s_B aa_I t_I t_I uu_I r_E
+chaayakkud'i s_B aa_I y_I a_I k_I k_I u_I dx_I i_E
+chaayalkud'i s_B aa_I y_I a_I l_I k_I u_I dx_I i_E
+chaayar'kut'i s_B aa_I y_I a_I rx_I k_I u_I tx_I i_E
+chaayim s_B aa_I y_I i_I m_E
+chabati s_B a_I b_I a_I t_I i_E
+chachchint'end~t'ulkkar s_B a_I c_I c_I i_I n_I tx_I e_I nx_I tx_I u_I l_I k_I k_I a_I r_E
+chagati s_B a_I g_I a_I t_I i_E
+chaibar s_B ai_I b_I a_I r_E
+chaibaru s_B ai_I b_I a_I r_I eu_E
+chaikizhang~gu s_B ai_I k_I i_I zh_I a_I ng_I g_I eu_E
+chaikkal'aa s_B ai_I k_I k_I a_I lx_I aa_E
+chaipar s_B ai_I p_I a_I r_E
+chakati s_B a_I k_I a_I t_I i_E
+chakkarai s_B a_I k_I k_I a_I r_I ai_E
+chakkaraival'l'i s_B a_I k_I k_I a_I r_I ai_I v_I a_I lx_I lx_I i_E
+chakkaraival'l'ikkizhang~gu s_B a_I k_I k_I a_I r_I ai_I v_I a_I lx_I lx_I i_I k_I k_I i_I zh_I a_I ng_I g_I eu_E
+chakkaraival'l'ikkizhang~ku s_B a_I k_I k_I a_I r_I ai_I v_I a_I lx_I lx_I i_I k_I k_I i_I zh_I a_I ng_I k_I eu_E
+chakku s_B a_I k_I k_I eu_E
+chakti s_B a_I k_I t_I i_E
+chal s_B a_I l_E
+chal'i s_B a_I lx_I i_E
+chalpar s_B a_I l_I p_I a_I r_E
+chalpeid'u s_B a_I l_I p_I ee_I dx_I eu_E
+chalpeit' s_B a_I l_I p_I ee_I tx_E
+cham s_B a_I m_E
+chambaa s_B a_I m_I b_I aa_E
+chambanaarkooyil s_B a_I m_I b_I a_I n_I aa_I r_I k_I oo_I y_I i_I l_E
+chammaa s_B a_I m_I m_I aa_E
+champaa s_B a_I m_I p_I aa_E
+champaakoovil s_B a_I m_I p_I aa_I k_I oo_I v_I i_I l_E
+chand~mukam s_B a_I nx_I m_I u_I k_I a_I m_E
+chand~t'ai s_B a_I nx_I tx_I ai_E
+chang~gam s_B a_I ng_I g_I a_I m_E
+chang~kam s_B a_I ng_I k_I a_I m_E
+channam s_B a_I n_I n_I a_I m_E
+chann~iyuus s_B a_I n_I n_I i_I y_I uu_I s_E
+chan~tai s_B a_I n_I t_I ai_E
+chan~taikal'in s_B a_I n_I t_I ai_I k_I a_I lx_I i_I n_E
+chan~taiyil s_B a_I n_I t_I ai_I y_I i_I l_E
+chan~taiyila s_B a_I n_I t_I ai_I y_I i_I l_I a_E
+chan~taiyit'a s_B a_I n_I t_I ai_I y_I i_I tx_I a_E
+chan~tikaa s_B a_I n_I t_I i_I k_I aa_E
+chan~tu s_B a_I n_I t_I eu_E
+chapar s_B a_I p_I a_I r_E
+chapati s_B a_I p_I a_I t_I i_E
+chapi s_B a_I p_I i_E
+chapipooyal s_B a_I p_I i_I p_I oo_I y_I a_I l_E
+chappal s_B a_I p_I p_I a_I l_E
+chappoot't'aa s_B a_I p_I p_I oo_I tx_I tx_I aa_E
+char s_B a_I r_E
+chari s_B a_I r_I i_E
+charing~ga s_B a_I r_I i_I ng_I g_I a_E
+chariyaa s_B a_I r_I i_I y_I aa_E
+chariyaaga s_B a_I r_I i_I y_I aa_I g_I a_E
+charkkarai s_B a_I r_I k_I k_I a_I r_I ai_E
+charukal s_B a_I r_I u_I k_I a_I l_E
+chati s_B a_I t_I i_E
+chattam s_B a_I t_I t_I a_I m_E
+chattuur s_B a_I t_I t_I uu_I r_E
+chau s_B a_I eu_E
+chav s_B a_I v_E
+chavad'i s_B a_I v_I a_I dx_I i_E
+chavan s_B a_I v_I a_I n_E
+chavant'i s_B a_I v_I a_I n_I tx_I i_E
+chavati s_B a_I v_I a_I t_I i_E
+chavchav s_B a_I v_I c_I a_I v_E
+chavi s_B a_I v_I i_E
+chavii s_B a_I v_I ii_E
+chavund~d'u s_B a_I v_I u_I nx_I dx_I eu_E
+chavuri s_B a_I v_I u_I r_I i_E
+chavuti s_B a_I v_I u_I t_I i_E
+chcha c_B c_I a_E
+che s_B e_E
+chei s_B ee_E
+cheigaan~tippuu s_B ee_I g_I aa_I n_I t_I i_I p_I p_I u_I eu_E
+cheilam s_B ee_I l_I a_I m_E
+cheilattiraat'chai s_B ee_I l_I a_I t_I t_I i_I r_I aa_I tx_I c_I ai_E
+cheilpoon s_B ee_I l_I p_I oo_I n_E
+cheimaikkizhang~gu s_B ee_I m_I ai_I k_I k_I i_I zh_I a_I ng_I g_I eu_E
+cheimakkizhang~ku s_B ee_I m_I a_I k_I k_I i_I zh_I a_I ng_I k_I eu_E
+cheinaik s_B ee_I n_I ai_I k_E
+cheinaikkilang~ku s_B ee_I n_I ai_I k_I k_I i_I l_I a_I ng_I k_I eu_E
+cheinaikkizhang~gu s_B ee_I n_I ai_I k_I k_I i_I zh_I a_I ng_I g_I eu_E
+cheinaikkizhang~ku s_B ee_I n_I ai_I k_I k_I i_I zh_I a_I ng_I k_I eu_E
+cheinakkizhang~ku s_B ee_I n_I a_I k_I k_I i_I zh_I a_I ng_I k_I eu_E
+cheippang~kizhang~gu s_B ee_I p_I p_I a_I ng_I k_I i_I zh_I a_I ng_I g_I eu_E
+cheippang~kizhang~ku s_B ee_I p_I p_I a_I ng_I k_I i_I zh_I a_I ng_I k_I eu_E
+cheippazham s_B ee_I p_I p_I a_I zh_I a_I m_E
+cheir s_B ee_I r_E
+cheir'i s_B ee_I rx_I i_E
+cheiram s_B ee_I r_I a_I m_E
+cheittu s_B ee_I t_I t_I eu_E
+cheivan s_B ee_I v_I a_I n_E
+chekar s_B e_I k_I a_I r_E
+chel s_B e_I l_E
+chelchiyas s_B e_I l_I c_I i_I y_I a_I s_E
+chellu s_B e_I ll_I eu_E
+chelp s_B e_I l_I p_E
+chelpoon s_B e_I l_I p_I oo_I n_E
+chemmand~nd~il s_B e_I m_I m_I a_I nx_I nx_I i_I l_E
+chempat't'a s_B e_I m_I p_I a_I tx_I tx_I a_E
+chempat't'apayiraa s_B e_I m_I p_I a_I tx_I tx_I a_I p_I a_I y_I i_I r_I aa_E
+chempat't'appayir'u s_B e_I m_I p_I a_I tx_I tx_I a_I p_I p_I a_I y_I i_I rx_I eu_E
+chempulippu s_B e_I m_I p_I u_I l_I i_I p_I p_I eu_E
+cheng~galpat't'u s_B e_I ng_I g_I a_I l_I p_I a_I tx_I tx_I eu_E
+chennai s_B e_I n_I n_I ai_E
+chent'imiit't'ar s_B e_I n_I tx_I i_I m_I ii_I tx_I tx_I a_I r_E
+chen~takai s_B e_I n_I t_I a_I k_I ai_E
+chepputoovar s_B e_I p_I p_I u_I t_I oo_I v_I a_I r_E
+chering~ga s_B e_I r_I i_I ng_I g_I a_E
+cherivut'ru s_B e_I r_I i_I v_I u_I tx_I r_I eu_E
+cherunj~cheiri s_B e_I r_I u_I nj_I c_I ee_I r_I i_E
+chevan s_B e_I v_I a_I n_E
+chevan~ti s_B e_I v_I a_I n_I t_I i_E
+chevvaalai s_B e_I v_I v_I aa_I l_I ai_E
+chevvaazhai s_B e_I v_I v_I aa_I zh_I ai_E
+chey s_B e_I y_E
+cheygir'oom s_B e_I y_I g_I i_I rx_I oo_I m_E
+cheykir'oom s_B e_I y_I k_I i_I rx_I oo_I m_E
+cheyti s_B e_I y_I t_I i_E
+cheytittaal' s_B e_I y_I t_I i_I t_I t_I aa_I lx_E
+cheytu s_B e_I y_I t_I eu_E
+cheyyamaat't'aam s_B e_I y_I y_I a_I m_I aa_I tx_I tx_I aa_I m_E
+cheyyir'oom s_B e_I y_I y_I i_I rx_I oo_I m_E
+chi s_B i_E
+chichan s_B i_I c_I a_I n_E
+chichi s_B i_I c_I i_E
+chid'i s_B i_I dx_I i_E
+chiemvi s_B i_I e_I m_I v_I i_E
+chigappu s_B i_I g_I a_I p_I p_I eu_E
+chigappuch s_B i_I g_I a_I p_I p_I u_I c_E
+chigappuchchool'am s_B i_I g_I a_I p_I p_I u_I c_I c_I oo_I lx_I a_I m_E
+chii s_B ii_E
+chiichan s_B ii_I c_I a_I n_E
+chiikkaram s_B ii_I k_I k_I a_I r_I a_I m_E
+chiikkiram s_B ii_I k_I k_I i_I r_I a_I m_E
+chiikku s_B ii_I k_I k_I eu_E
+chiilakka s_B ii_I l_I a_I k_I k_I a_E
+chiilattiraat'chai s_B ii_I l_I a_I t_I t_I i_I r_I aa_I tx_I c_I ai_E
+chiip s_B ii_I p_E
+chiippu s_B ii_I p_I p_I eu_E
+chiirgaazhi s_B ii_I r_I g_I aa_I zh_I i_E
+chiiriyal s_B ii_I r_I i_I y_I a_I l_E
+chiiroo s_B ii_I r_I oo_E
+chiis s_B ii_I s_E
+chiit'lat' s_B ii_I tx_I l_I a_I tx_E
+chiit'les s_B ii_I tx_I l_I e_I s_E
+chiitaa s_B ii_I t_I aa_E
+chiitaapalam s_B ii_I t_I aa_I p_I a_I l_I a_I m_E
+chiitaapazham s_B ii_I t_I aa_I p_I a_I zh_I a_I m_E
+chiitaappazham s_B ii_I t_I aa_I p_I p_I a_I zh_I a_I m_E
+chiittaappazham s_B ii_I t_I t_I aa_I p_I p_I a_I zh_I a_I m_E
+chikappu s_B i_I k_I a_I p_I p_I eu_E
+chikkan s_B i_I k_I k_I a_I n_E
+chikkankuniyaa s_B i_I k_I k_I a_I n_I k_I u_I n_I i_I y_I aa_E
+chikkel s_B i_I k_I k_I e_I l_E
+chikken s_B i_I k_I k_I e_I n_E
+chiks s_B i_I k_I s_E
+chikst'i s_B i_I k_I s_I tx_I i_E
+chila s_B i_I l_I a_E
+chilappayir'u s_B i_I l_I a_I p_I p_I a_I y_I i_I rx_I eu_E
+chilippai s_B i_I l_I i_I p_I p_I ai_E
+chillar'aiyaaka s_B i_I ll_I a_I rx_I ai_I y_I aa_I k_I a_E
+chillarai s_B i_I ll_I a_I r_I ai_E
+chillaraimur'aiyil s_B i_I ll_I a_I r_I ai_I m_I u_I rx_I ai_I y_I i_I l_E
+chillaraiyaa s_B i_I ll_I a_I r_I ai_I y_I aa_E
+chimma s_B i_I m_I m_I a_E
+chinnatambi s_B i_I n_I n_I a_I t_I a_I m_I b_I i_E
+chinnatu s_B i_I n_I n_I a_I t_I eu_E
+chippas s_B i_I p_I p_I a_I s_E
+chir'iyatu s_B i_I rx_I i_I y_I a_I t_I eu_E
+chir'u s_B i_I rx_I eu_E
+chir'upuumand~i s_B i_I rx_I u_I p_I uu_I m_I a_I nx_I i_E
+chir'yatu s_B i_I rx_I y_I a_I t_I eu_E
+chirappal'l'i s_B i_I r_I a_I p_I p_I a_I lx_I lx_I i_E
+chiratta s_B i_I r_I a_I t_I t_I a_E
+chirichchaa s_B i_I r_I i_I c_I c_I aa_E
+chit't'ikku s_B i_I tx_I tx_I i_I k_I k_I eu_E
+chitik s_B i_I t_I i_I k_E
+chittirai s_B i_I t_I t_I i_I r_I ai_E
+chiva s_B i_I v_I a_E
+chivagang~gai s_B i_I v_I a_I g_I a_I ng_I g_I ai_E
+chivakang~kai s_B i_I v_I a_I k_I a_I ng_I k_I ai_E
+chivapaay s_B i_I v_I a_I p_I aa_I y_E
+chivappu s_B i_I v_I a_I p_I p_I eu_E
+chiyam s_B i_I y_I a_I m_E
+chochait't'i s_B o_I c_I ai_I tx_I tx_I i_E
+cholit'iing~kal'eing~ka s_B o_I l_I i_I tx_I ii_I ng_I k_I a_I lx_I ee_I ng_I k_I a_E
+cholla s_B o_I ll_I a_E
+chollacholluchchei s_B o_I ll_I a_I c_I o_I ll_I u_I c_I c_I ee_E
+chollachollutu s_B o_I ll_I a_I c_I o_I ll_I u_I t_I eu_E
+chollanum s_B o_I ll_I a_I n_I u_I m_E
+chollar'atu s_B o_I ll_I a_I rx_I a_I t_I eu_E
+chollarata s_B o_I ll_I a_I r_I a_I t_I a_E
+chollavaa s_B o_I ll_I a_I v_I aa_E
+chollaveind~t'um s_B o_I ll_I a_I v_I ee_I nx_I tx_I u_I m_E
+chollavum s_B o_I ll_I a_I v_I u_I m_E
+cholli s_B o_I ll_I i_E
+chollit't'ein s_B o_I ll_I i_I tx_I tx_I ee_I n_E
+cholliyaachchu s_B o_I ll_I i_I y_I aa_I c_I c_I eu_E
+cholliyachchu s_B o_I ll_I i_I y_I a_I c_I c_I eu_E
+chollu s_B o_I ll_I eu_E
+chollumpootu s_B o_I ll_I u_I m_I p_I oo_I t_I eu_E
+chollung~ga s_B o_I ll_I u_I ng_I g_I a_E
+chollung~ka s_B o_I ll_I u_I ng_I k_I a_E
+cholluppaa s_B o_I ll_I u_I p_I p_I aa_E
+chollur'ein s_B o_I ll_I u_I rx_I ee_I n_E
+chollutu s_B o_I ll_I u_I t_I eu_E
+cholluvaang~ka s_B o_I ll_I u_I v_I aa_I ng_I k_I a_E
+cholluvoom s_B o_I ll_I u_I v_I oo_I m_E
+cholluvum s_B o_I ll_I u_I v_I u_I m_E
+cholnam s_B o_I l_I n_I a_I m_E
+cholr'atu s_B o_I l_I rx_I a_I t_I eu_E
+chonnatu s_B o_I n_I n_I a_I t_I eu_E
+chon~tattil s_B o_I n_I t_I a_I t_I t_I i_I l_E
+choo s_B oo_E
+choochait't'i s_B oo_I c_I ai_I tx_I tx_I i_E
+chood'iyam s_B oo_I dx_I i_I y_I a_I m_E
+chookai s_B oo_I k_I ai_E
+chool'a s_B oo_I lx_I a_E
+chool'aamis s_B oo_I lx_I aa_I m_I i_I s_E
+chool'ai s_B oo_I lx_I ai_E
+chool'am s_B oo_I lx_I a_I m_E
+chool'appuuchchi s_B oo_I lx_I a_I p_I p_I uu_I c_I c_I i_E
+chool'avan~taan s_B oo_I lx_I a_I v_I a_I n_I t_I aa_I n_E
+choolai s_B oo_I l_I ai_E
+choona s_B oo_I n_I a_E
+choonaa s_B oo_I n_I aa_E
+choot'aa s_B oo_I tx_I aa_E
+chooyaa s_B oo_I y_I aa_E
+chooyaapiins s_B oo_I y_I aa_I p_I ii_I n_I s_E
+chorakkaay s_B o_I r_I a_I k_I k_I aa_I y_E
+chosait't'i s_B o_I s_I ai_I tx_I tx_I i_E
+chu s_B eu_E
+chuchi s_B u_I c_I i_E
+chugaataara s_B u_I g_I aa_I t_I aa_I r_I a_E
+chukaataara s_B u_I k_I aa_I t_I aa_I r_I a_E
+chulang~gaay s_B u_I l_I a_I ng_I g_I aa_I y_E
+chumaai s_B u_I m_I a_I ai_E
+chumaar s_B u_I m_I aa_I r_E
+chumaaraaga s_B u_I m_I aa_I r_I aa_I g_I a_E
+chumaga s_B u_I m_I a_I g_I a_E
+chummaa s_B u_I m_I m_I aa_E
+chuppar s_B u_I p_I p_I a_I r_E
+churai s_B u_I r_I ai_E
+churaikkaay s_B u_I r_I ai_I k_I k_I aa_I y_E
+churakkaay s_B u_I r_I a_I k_I k_I aa_I y_E
+churam s_B u_I r_I a_I m_E
+churi s_B u_I r_I i_E
+churood'u s_B u_I r_I oo_I dx_I eu_E
+churukkam s_B u_I r_I u_I k_I k_I a_I m_E
+churul s_B u_I r_I u_I l_E
+churung~ganatu s_B u_I r_I u_I ng_I g_I a_I n_I a_I t_I eu_E
+churut't'i s_B u_I r_I u_I tx_I tx_I i_E
+churut't'u s_B u_I r_I u_I tx_I tx_I eu_E
+churut't'ukal' s_B u_I r_I u_I tx_I tx_I u_I k_I a_I lx_E
+churut't'utal s_B u_I r_I u_I tx_I tx_I u_I t_I a_I l_E
+churuti s_B u_I r_I u_I t_I i_E
+chutti s_B u_I t_I t_I i_E
+chuuriya s_B uu_I r_I i_I y_I a_E
+chuuriyagaan~ti s_B uu_I r_I i_I y_I a_I g_I aa_I n_I t_I i_E
+chuuriyagaan~tippuu s_B uu_I r_I i_I y_I a_I g_I aa_I n_I t_I i_I p_I p_I u_I eu_E
+chuuriyagaan~tivitai s_B uu_I r_I i_I y_I a_I g_I aa_I n_I t_I i_I v_I i_I t_I ai_E
+chuuriyakaan~ti s_B uu_I r_I i_I y_I a_I k_I aa_I n_I t_I i_E
+chuuriyakaan~tippuu s_B uu_I r_I i_I y_I a_I k_I aa_I n_I t_I i_I p_I p_I u_I eu_E
+chuuriyakaan~tipuu s_B uu_I r_I i_I y_I a_I k_I aa_I n_I t_I i_I p_I u_I eu_E
+chuuriyan s_B uu_I r_I i_I y_I a_I n_E
+chuuru s_B uu_I r_I eu_E
+chuuzhn~ta s_B uu_I zh_I n_I t_I a_E
+chuya s_B u_I y_I a_E
+chuyamaattaa s_B u_I y_I a_I m_I aa_I t_I t_I aa_E
+curoom s_B u_I r_I oo_I m_E
+cuur'avum s_B uu_I rx_I a_I v_I u_I m_E
+cuut't'ur'avu s_B uu_I tx_I tx_I u_I rx_I a_I v_I eu_E
+d'aachchar dx_B aa_I c_I c_I a_I r_E
+d'aipaa dx_B ai_I p_I aa_E
+d'aipaayd'u dx_B ai_I p_I aa_I y_I dx_I eu_E
+d'akt'ar dx_B a_I k_I tx_I a_I r_E
+d'amakkaraan dx_B a_I m_I a_I k_I k_I a_I r_I aa_I n_E
+d'an dx_B a_I n_E
+d'en dx_B e_I n_E
+d'eng~gu dx_B e_I ng_I g_I eu_E
+d'i dx_B i_E
+d'igiri dx_B i_I g_I i_I r_I i_E
+d'ii dx_B ii_E
+d'ist'irik dx_B i_I s_I tx_I i_I r_I i_I k_E
+d'iyaa dx_B i_I y_I aa_E
+d'iyil dx_B i_I y_I i_I l_E
+d'u dx_B eu_E
+darmapuri d_B a_I r_I m_I a_I p_I u_I r_I i_E
+darpuuchand~i d_B a_I r_I p_I uu_I c_I a_I nx_I i_E
+darumapuram d_B a_I r_I u_I m_I a_I p_I u_I r_I a_I m_E
+di d_B i_E
+dind~d'ukkal d_B i_I nx_I dx_I u_I k_I k_I a_I l_E
+dind~d'uppeirai d_B i_I nx_I dx_I u_I p_I p_I ee_I r_I ai_E
+durai d_B u_I r_I ai_E
+e e_S
+ech e_B c_E
+echent'i e_B c_I e_I n_I tx_I i_E
+echipi e_B c_I i_I p_I i_E
+echt'i e_B c_I tx_I i_E
+edhu e_B d_I eu_E
+ee ee_S
+eest'i ee_B s_I tx_I i_E
+ei ee_S
+eichichi ee_B c_I i_I c_I i_E
+eijenchiis ee_B j_I e_I n_I c_I ii_I s_E
+eijent' ee_B j_I e_I n_I tx_E
+eikkaalas ee_B k_I k_I aa_I l_I a_I s_E
+eikkar ee_B k_I k_I a_I r_E
+eikkaraa ee_B k_I k_I a_I r_I aa_E
+eikkarmaa ee_B k_I k_I a_I r_I m_I aa_E
+eikkaru ee_B k_I k_I a_I r_I eu_E
+eila ee_B l_I a_E
+eilakkaay ee_B l_I a_I k_I k_I aa_I y_E
+eilamjaati ee_B l_I a_I m_I j_I aa_I t_I i_E
+eilattuur ee_B l_I a_I t_I t_I uu_I r_E
+eilu ee_B l_I eu_E
+eim ee_B m_E
+eimmaa ee_B m_I m_I aa_E
+ein ee_B n_E
+eind~i ee_B nx_I i_E
+ein~tu ee_B n_I t_I eu_E
+eipichi ee_B p_I i_I c_I i_E
+eippam ee_B p_I p_I a_I m_E
+eir ee_B r_E
+eir'r'umatiyil ee_B rx_I rx_I u_I m_I a_I t_I i_I y_I i_I l_E
+eiral ee_B r_I a_I l_E
+eirala ee_B r_I a_I l_I a_E
+eirar ee_B r_I a_I r_E
+eiriyel ee_B r_I i_I y_I e_I l_E
+eit'ipi ee_B tx_I i_I p_I i_E
+eit'it'i ee_B tx_I i_I tx_I i_E
+eituvumillai ee_B t_I u_I v_I u_I m_I i_I ll_I ai_E
+eiy ee_B y_E
+eizhi ee_B zh_I i_E
+eizhu ee_B zh_I eu_E
+eizhun~uutti ee_B zh_I u_I n_I uu_I t_I t_I i_E
+ek e_B k_E
+ekkaalas e_B k_I k_I aa_I l_I a_I s_E
+eks e_B k_I s_E
+el e_B l_E
+el' e_B lx_E
+el'l'u e_B lx_I lx_I eu_E
+elaar e_B l_I aa_I r_E
+elaare e_B l_I aa_I r_I e_E
+eleichit'i e_B l_I ee_I c_I i_I tx_I i_E
+eli e_B l_I i_E
+elichchurut't'u e_B l_I i_I c_I c_I u_I r_I u_I tx_I tx_I eu_E
+ella e_B ll_I a_E
+ellaam e_B ll_I aa_I m_E
+ellaamei e_B ll_I aa_I m_I ee_E
+ellaattayum e_B ll_I aa_I t_I t_I a_I y_I u_I m_E
+ellai e_B ll_I ai_E
+elt'it'i e_B l_I tx_I i_I tx_I i_E
+elumi e_B l_I u_I m_I i_E
+elumichcha e_B l_I u_I m_I i_I c_I c_I a_E
+elumichchai e_B l_I u_I m_I i_I c_I c_I ai_E
+elumichchaippazham e_B l_I u_I m_I i_I c_I c_I ai_I p_I p_I a_I zh_I a_I m_E
+elumichcham e_B l_I u_I m_I i_I c_I c_I a_I m_E
+elumichchampalam e_B l_I u_I m_I i_I c_I c_I a_I m_I p_I a_I l_I a_I m_E
+elumichchampazham e_B l_I u_I m_I i_I c_I c_I a_I m_I p_I a_I zh_I a_I m_E
+elumichchapazham e_B l_I u_I m_I i_I c_I c_I a_I p_I a_I zh_I a_I m_E
+elumpichchai e_B l_I u_I m_I p_I i_I c_I c_I ai_E
+em e_B m_E
+embattanj~chi e_B m_I b_I a_I t_I t_I a_I nj_I c_I i_E
+embatti e_B m_I b_I a_I t_I t_I i_E
+emchiyu e_B m_I c_I i_I y_I eu_E
+empal'aasnaa e_B m_I p_I a_I lx_I aa_I s_I n_I aa_E
+empattaar'u e_B m_I p_I a_I t_I t_I aa_I rx_I eu_E
+empatti e_B m_I p_I a_I t_I t_I i_E
+empilichcham e_B m_I p_I i_I l_I i_I c_I c_I a_I m_E
+en e_B n_E
+ena e_B n_I a_E
+enakku e_B n_I a_I k_I k_I eu_E
+enbatti e_B n_I b_I a_I t_I t_I i_E
+enbatu e_B n_I b_I a_I t_I eu_E
+enchichi e_B n_I c_I i_I c_I i_E
+enchit'ipi e_B n_I c_I i_I tx_I i_I p_I i_E
+enchiyu e_B n_I c_I i_I y_I eu_E
+end~ e_B nx_E
+end~d'esanyapaan e_B nx_I dx_I e_I s_I a_I n_I y_I a_I p_I aa_I n_E
+end~d'oochalpaam e_B nx_I dx_I oo_I c_I a_I l_I p_I aa_I m_E
+end~d'oochalpaan e_B nx_I dx_I oo_I c_I a_I l_I p_I aa_I n_E
+end~d'oocham e_B nx_I dx_I oo_I c_I a_I m_E
+end~nd~a e_B nx_I nx_I a_E
+end~nd~ai e_B nx_I nx_I ai_E
+end~nd~ey e_B nx_I nx_I e_I y_E
+end~nd~uutti e_B nx_I nx_I uu_I t_I t_I i_E
+end~patti e_B nx_I p_I a_I t_I t_I i_E
+end~pattu e_B nx_I p_I a_I t_I t_I eu_E
+end~patu e_B nx_I p_I a_I t_I eu_E
+eng~ga e_B ng_I g_I a_E
+eng~gil'tu e_B ng_I g_I i_I lx_I t_I eu_E
+eng~ka e_B ng_I k_I a_E
+eng~kal'ukku e_B ng_I k_I a_I lx_I u_I k_I k_I eu_E
+enkit't'a e_B n_I k_I i_I tx_I tx_I a_E
+enna e_B n_I n_I a_E
+ennaa e_B n_I n_I aa_E
+ennaachchu e_B n_I n_I aa_I c_I c_I eu_E
+ennaang~ga e_B n_I n_I aa_I ng_I g_I a_E
+ennaang~maa e_B n_I n_I aa_I ng_I m_I aa_E
+ennaat'a e_B n_I n_I aa_I tx_I a_E
+ennaatu e_B n_I n_I aa_I t_I eu_E
+ennaikkutaa e_B n_I n_I ai_I k_I k_I u_I t_I aa_E
+ennaiyaa e_B n_I n_I ai_I y_I aa_E
+ennamoo e_B n_I n_I a_I m_I oo_E
+ennang~ga e_B n_I n_I a_I ng_I g_I a_E
+ennannaa e_B n_I n_I a_I n_I n_I aa_E
+ennanuyirukku e_B n_I n_I a_I n_I u_I y_I i_I r_I u_I k_I k_I eu_E
+ennappaa e_B n_I n_I a_I p_I p_I aa_E
+ennat'aa e_B n_I n_I a_I tx_I aa_E
+ennatu e_B n_I n_I a_I t_I eu_E
+ennavoo e_B n_I n_I a_I v_I oo_E
+ennei e_B n_I n_I ee_E
+ennenna e_B n_I n_I e_I n_I n_I a_E
+ennumoo e_B n_I n_I u_I m_I oo_E
+enpatai e_B n_I p_I a_I t_I ai_E
+enpatti e_B n_I p_I a_I t_I t_I i_E
+enpatu e_B n_I p_I a_I t_I eu_E
+enr'a e_B n_I rx_I a_E
+enr'avai e_B n_I rx_I a_I v_I ai_E
+enr'avum e_B n_I rx_I a_I v_I u_I m_E
+enr'u e_B n_I rx_I eu_E
+enr'um e_B n_I rx_I u_I m_E
+ent'it'i e_B n_I tx_I i_I tx_I i_E
+ent'oo e_B n_I tx_I oo_E
+ent'oosalpaan e_B n_I tx_I oo_I s_I a_I l_I p_I aa_I n_E
+en~ta e_B n_I t_I a_E
+ep e_B p_E
+epichi e_B p_I i_I c_I i_E
+epit'i e_B p_I i_I tx_I i_E
+eppa e_B p_I p_I a_E
+eppoong~guraan e_B p_I p_I oo_I ng_I g_I u_I r_I aa_I n_E
+eppovumei e_B p_I p_I o_I v_I u_I m_I ee_E
+er'anuuruupaa e_B rx_I a_I n_I uu_I r_I uu_I p_I aa_E
+er'ital e_B rx_I i_I t_I a_I l_E
+er'r'u e_B rx_I rx_I eu_E
+erand~utti e_B r_I a_I nx_I u_I t_I t_I i_E
+eranutti e_B r_I a_I n_I u_I t_I t_I i_E
+eranuutti e_B r_I a_I n_I uu_I t_I t_I i_E
+eran~uur'u e_B r_I a_I n_I uu_I rx_I eu_E
+eran~uutti e_B r_I a_I n_I uu_I t_I t_I i_E
+erumapat't'i e_B r_I u_I m_I a_I p_I a_I tx_I tx_I i_E
+eruvu e_B r_I u_I v_I eu_E
+es e_B s_E
+eschi e_B s_I c_I i_E
+est'i e_B s_I tx_I i_E
+et' e_B tx_E
+et'i e_B tx_I i_E
+et'ichi e_B tx_I i_I c_I i_E
+et'ipi e_B tx_I i_I p_I i_E
+et'it'i e_B tx_I i_I tx_I i_E
+et'n~uutti e_B tx_I n_I uu_I t_I t_I i_E
+et't'a e_B tx_I tx_I a_E
+et't'i e_B tx_I tx_I i_E
+et't'u e_B tx_I tx_I eu_E
+et'ukka e_B tx_I u_I k_I k_I a_E
+et'ukkanummei e_B tx_I u_I k_I k_I a_I n_I u_I m_I m_I ee_E
+et'ukkappoorein e_B tx_I u_I k_I k_I a_I p_I p_I oo_I r_I ee_I n_E
+etirpaarttu e_B t_I i_I r_I p_I aa_I r_I t_I t_I eu_E
+ettanavaang~nataa e_B t_I t_I a_I n_I a_I v_I aa_I ng_I n_I a_I t_I aa_E
+etu e_B t_I eu_E
+etukku e_B t_I u_I k_I k_I eu_E
+etula e_B t_I u_I l_I a_E
+etum e_B t_I u_I m_E
+etunaa e_B t_I u_I n_I aa_E
+etuvum e_B t_I u_I v_I u_I m_E
+etuvumillai e_B t_I u_I v_I u_I m_I i_I ll_I ai_E
+ev e_B v_E
+evl'oo e_B v_I lx_I oo_E
+eyit' e_B y_I i_I tx_E
+eyit't'i e_B y_I i_I tx_I tx_I i_E
+eyt' e_B y_I tx_E
+eyt'chevan e_B y_I tx_I c_I e_I v_I a_I n_E
+eyt'i e_B y_I tx_I i_E
+eyt'por e_B y_I tx_I p_I o_I r_E
+eyt't'i e_B y_I tx_I tx_I i_E
+ezhubatti e_B zh_I u_I b_I a_I t_I t_I i_E
+ezhubatu e_B zh_I u_I b_I a_I t_I eu_E
+ezhun~uutti e_B zh_I u_I n_I uu_I t_I t_I i_E
+ezhupatti e_B zh_I u_I p_I a_I t_I t_I i_E
+ezhuvattanj~chi e_B zh_I u_I v_I a_I t_I t_I a_I nj_I c_I i_E
+ezhuvatti e_B zh_I u_I v_I a_I t_I t_I i_E
+ezhuvattiyeizhu e_B zh_I u_I v_I a_I t_I t_I i_I y_I ee_I zh_I eu_E
+ezhuvattiyonpatu e_B zh_I u_I v_I a_I t_I t_I i_I y_I o_I n_I p_I a_I t_I eu_E
+ezhuvattompootu e_B zh_I u_I v_I a_I t_I t_I o_I m_I p_I oo_I t_I eu_E
+ezhuvatu e_B zh_I u_I v_I a_I t_I eu_E
+gajan~tiran g_B a_I j_I a_I n_I t_I i_I r_I a_I n_E
+goodumai g_B oo_I d_I u_I m_I ai_E
+haaspatiri h_B aa_I s_I p_I a_I t_I i_I r_I i_E
+haaspit'al h_B aa_I s_I p_I i_I tx_I a_I l_E
+haaspit't'al h_B aa_I s_I p_I i_I tx_I tx_I a_I l_E
+haay h_B aa_I y_E
+hach h_B a_I c_E
+haipil h_B ai_I p_I i_I l_E
+haipirit' h_B ai_I p_I i_I r_I i_I tx_E
+haiprit' h_B ai_I p_I r_I i_I tx_E
+haloo h_B a_I l_I oo_E
+haniichaa h_B a_I n_I ii_I c_I aa_E
+hech h_B e_I c_E
+hekt'ar h_B e_I k_I tx_I a_I r_E
+heloo h_B e_I l_I oo_E
+hiloo h_B i_I l_I oo_E
+holchelaa h_B o_I l_I c_I e_I l_I aa_E
+hoolt'eil h_B oo_I l_I tx_I ee_I l_E
+i i_S
+id'ai i_B dx_I ai_E
+id'ain~tulakkarutalam i_B dx_I ai_I n_I t_I u_I l_I a_I k_I k_I a_I r_I u_I t_I a_I l_I a_I m_E
+id'aittaragargal' i_B dx_I ai_I t_I t_I a_I r_I a_I g_I a_I r_I g_I a_I lx_E
+id'aittaragarid'am i_B dx_I ai_I t_I t_I a_I r_I a_I g_I a_I r_I i_I dx_I a_I m_E
+id'i i_B dx_I i_E
+ii i_B i_E
+iirarkal' i_B i_I r_I a_I r_I k_I a_I lx_E
+iiroot'u i_B i_I r_I oo_I tx_I eu_E
+iiroot'ung~ga i_B i_I r_I oo_I tx_I u_I ng_I g_I a_E
+il i_B l_E
+il'am i_B lx_I a_I m_E
+il'ampil'l'ai i_B lx_I a_I m_I p_I i_I lx_I lx_I ai_E
+il'an~iir i_B lx_I a_I n_I ii_I r_E
+il'l'ai i_B lx_I lx_I ai_E
+ila i_B l_I a_E
+ilai i_B l_I ai_E
+ilaichcheng~kool i_B l_I ai_I c_I c_I e_I ng_I k_I oo_I l_E
+ilaichchurut't'al i_B l_I ai_I c_I c_I u_I r_I u_I tx_I tx_I a_I l_E
+ilaichchurut't'u i_B l_I ai_I c_I c_I u_I r_I u_I tx_I tx_I eu_E
+ilaichchurut't'uppuzhu i_B l_I ai_I c_I c_I u_I r_I u_I tx_I tx_I u_I p_I p_I u_I zh_I eu_E
+ilaichurut't'u i_B l_I ai_I c_I u_I r_I u_I tx_I tx_I eu_E
+ilaik i_B l_I ai_I k_E
+ilaikaalkarikam i_B l_I ai_I k_I aa_I l_I k_I a_I r_I i_I k_I a_I m_E
+ilaikkaaykar'igal' i_B l_I ai_I k_I k_I aa_I y_I k_I a_I rx_I i_I g_I a_I lx_E
+ilaikkaaykar'ikal' i_B l_I ai_I k_I k_I aa_I y_I k_I a_I rx_I i_I k_I a_I lx_E
+ilaikkarukal' i_B l_I ai_I k_I k_I a_I r_I u_I k_I a_I lx_E
+ilaikkiiral i_B l_I ai_I k_I k_I ii_I r_I a_I l_E
+ilaikkolli i_B l_I ai_I k_I k_I o_I ll_I i_E
+ilaikurut't'u i_B l_I ai_I k_I u_I r_I u_I tx_I tx_I eu_E
+ilaipeinaa i_B l_I ai_I p_I ee_I n_I aa_E
+ilaippein i_B l_I ai_I p_I p_I ee_I n_E
+ilaippul'l'i i_B l_I ai_I p_I p_I u_I lx_I lx_I i_E
+illa i_B ll_I a_E
+illaata i_B ll_I aa_I t_I a_E
+illai i_B ll_I ai_E
+illaichchurut't'uppuzhuvaal i_B ll_I ai_I c_I c_I u_I r_I u_I tx_I tx_I u_I p_I p_I u_I zh_I u_I v_I aa_I l_E
+illaing~ga i_B ll_I ai_I ng_I g_I a_E
+illaiyei i_B ll_I ai_I y_I ee_E
+illat'aa i_B ll_I a_I tx_I aa_E
+illiing~ga i_B ll_I ii_I ng_I g_I a_E
+illing~ i_B ll_I i_I ng_E
+ind~t'iyan i_B nx_I tx_I i_I y_I a_I n_E
+ing~ga i_B ng_I g_I a_E
+ing~gal i_B ng_I g_I a_I l_E
+ing~giliis i_B ng_I g_I i_I l_I ii_I s_E
+ing~ka i_B ng_I k_I a_E
+ing~kul'l'a i_B ng_I k_I u_I lx_I lx_I a_E
+ing~t'u i_B ng_I tx_I eu_E
+inippu i_B n_I i_I p_I p_I eu_E
+inj~chi i_B nj_I c_I i_E
+innaamalai i_B n_I n_I aa_I m_I a_I l_I ai_E
+innaikku i_B n_I n_I ai_I k_I k_I eu_E
+innam i_B n_I n_I a_I m_E
+innum i_B n_I n_I u_I m_E
+inr'u i_B n_I rx_I eu_E
+int'iyan i_B n_I tx_I i_I y_I a_I n_E
+in~ta i_B n_I t_I a_E
+in~tiyan i_B n_I t_I i_I y_I a_I n_E
+in~tu i_B n_I t_I eu_E
+ippa i_B p_I p_I a_E
+ipparaperiyatu i_B p_I p_I a_I r_I a_I p_I e_I r_I i_I y_I a_I t_I eu_E
+ippoo i_B p_I p_I oo_E
+ippootaikku i_B p_I p_I oo_I t_I ai_I k_I k_I eu_E
+ippozhutu i_B p_I p_I o_I zh_I u_I t_I eu_E
+ir'an~uutti i_B rx_I a_I n_I uu_I t_I t_I i_E
+ir'uvatti i_B rx_I u_I v_I a_I t_I t_I i_E
+ir'uvatu i_B rx_I u_I v_I a_I t_I eu_E
+iran i_B r_I a_I n_E
+irand~t'aaka i_B r_I a_I nx_I tx_I aa_I k_I a_E
+irand~t'u i_B r_I a_I nx_I tx_I eu_E
+irand~uutti i_B r_I a_I nx_I uu_I t_I t_I i_E
+iran~uur'u i_B r_I a_I n_I uu_I rx_I eu_E
+iran~uutti i_B r_I a_I n_I uu_I t_I t_I i_E
+iravatu i_B r_I a_I v_I a_I t_I eu_E
+iravu i_B r_I a_I v_I eu_E
+irend~d'u i_B r_I e_I nx_I dx_I eu_E
+irend~t'aayiratti i_B r_I e_I nx_I tx_I aa_I y_I i_I r_I a_I t_I t_I i_E
+irend~t'u i_B r_I e_I nx_I tx_I eu_E
+irend~tu i_B r_I e_I nx_I t_I eu_E
+irubatti i_B r_I u_I b_I a_I t_I t_I i_E
+irubatu i_B r_I u_I b_I a_I t_I eu_E
+irukkaa i_B r_I u_I k_I k_I aa_E
+irukkeinla i_B r_I u_I k_I k_I ee_I n_I l_I a_E
+irukkinr'ana i_B r_I u_I k_I k_I i_I n_I rx_I a_I n_I a_E
+irukkir'atu i_B r_I u_I k_I k_I i_I rx_I a_I t_I eu_E
+irukkoom i_B r_I u_I k_I k_I oo_I m_E
+irukku i_B r_I u_I k_I k_I eu_E
+irukkum i_B r_I u_I k_I k_I u_I m_E
+irukkutu i_B r_I u_I k_I k_I u_I t_I eu_E
+irumal i_B r_I u_I m_I a_I l_E
+irunuur'u i_B r_I u_I n_I uu_I rx_I eu_E
+irun~uutti i_B r_I u_I n_I uu_I t_I t_I i_E
+irupattaar'u i_B r_I u_I p_I a_I t_I t_I aa_I rx_I eu_E
+irupattain~tu i_B r_I u_I p_I a_I t_I t_I ai_I n_I t_I eu_E
+irupatti i_B r_I u_I p_I a_I t_I t_I i_E
+irupattin~aalu i_B r_I u_I p_I a_I t_I t_I i_I n_I aa_I l_I eu_E
+irupatu i_B r_I u_I p_I a_I t_I eu_E
+iruppoom i_B r_I u_I p_I p_I oo_I m_E
+iruvaakuur i_B r_I u_I v_I aa_I k_I uu_I r_E
+iruvatompootu i_B r_I u_I v_I a_I t_I o_I m_I p_I oo_I t_I eu_E
+iruvattaar'u i_B r_I u_I v_I a_I t_I t_I aa_I rx_I eu_E
+iruvattanj~chu i_B r_I u_I v_I a_I t_I t_I a_I nj_I c_I eu_E
+iruvattar'u i_B r_I u_I v_I a_I t_I t_I a_I rx_I eu_E
+iruvatti i_B r_I u_I v_I a_I t_I t_I i_E
+iruvattimuunu i_B r_I u_I v_I a_I t_I t_I i_I m_I uu_I n_I eu_E
+iruvattin~aalu i_B r_I u_I v_I a_I t_I t_I i_I n_I aa_I l_I eu_E
+iruvatu i_B r_I u_I v_I a_I t_I eu_E
+iruvatukku i_B r_I u_I v_I a_I t_I u_I k_I k_I eu_E
+iruyaa i_B r_I u_I y_I aa_E
+it'aitarakar i_B tx_I ai_I t_I a_I r_I a_I k_I a_I r_E
+it'am i_B tx_I a_I m_E
+itaiyum i_B t_I ai_I y_I u_I m_E
+itamaana i_B t_I a_I m_I aa_I n_I a_E
+itar'ku i_B t_I a_I rx_I k_I eu_E
+itoo i_B t_I oo_E
+itu i_B t_I eu_E
+itukku i_B t_I u_I k_I k_I eu_E
+itutaan i_B t_I u_I t_I aa_I n_E
+ivar i_B v_I a_I r_E
+iyakkam i_B y_I a_I k_I k_I a_I m_E
+iyar'kkai i_B y_I a_I rx_I k_I k_I ai_E
+izhachurut't'u i_B zh_I a_I c_I u_I r_I u_I tx_I tx_I eu_E
+izhai i_B zh_I ai_E
+ja j_B a_E
+jaanagiraaman j_B aa_I n_I a_I g_I i_I r_I aa_I m_I a_I n_E
+jalatoosam j_B a_I l_I a_I t_I oo_I s_I a_I m_E
+je j_B e_E
+jeel j_B ee_I l_E
+jei j_B ee_E
+ji j_B i_E
+jiech j_B i_I e_I c_E
+jii j_B ii_E
+jiin j_B ii_I n_E
+jiiroo j_B ii_I r_I oo_E
+jip j_B i_I p_E
+jipcham j_B i_I p_I c_I a_I m_E
+joram j_B o_I r_I a_I m_E
+joron~taan j_B o_I r_I o_I n_I t_I aa_I n_E
+juram j_B u_I r_I a_I m_E
+ka k_B a_E
+kaacha k_B aa_I c_I a_E
+kaachan~ooy k_B aa_I c_I a_I n_I oo_I y_E
+kaachchal k_B aa_I c_I c_I a_I l_E
+kaachu k_B aa_I c_I eu_E
+kaad'u k_B aa_I dx_I eu_E
+kaakila k_B aa_I k_I i_I l_I a_E
+kaal k_B aa_I l_E
+kaal'aan k_B aa_I lx_I aa_I n_E
+kaal'araa k_B aa_I lx_I a_I r_I aa_E
+kaal'i k_B aa_I lx_I i_E
+kaal'ipil'avar k_B aa_I lx_I i_I p_I i_I lx_I a_I v_I a_I r_E
+kaala k_B aa_I l_I a_E
+kaalam k_B aa_I l_I a_I m_E
+kaalaraa k_B aa_I l_I a_I r_I aa_E
+kaalchiyam k_B aa_I l_I c_I i_I y_I a_I m_E
+kaam k_B aa_I m_E
+kaamaal'ai k_B aa_I m_I aa_I lx_I ai_E
+kaamaalai k_B aa_I m_I aa_I l_I ai_E
+kaampil'aks k_B aa_I m_I p_I i_I lx_I a_I k_I s_E
+kaamplaks k_B aa_I m_I p_I l_I a_I k_I s_E
+kaampleks k_B aa_I m_I p_I l_I e_I k_I s_E
+kaampuri k_B aa_I m_I p_I u_I r_I i_E
+kaand~appad'ukir'atu k_B aa_I nx_I a_I p_I p_I a_I dx_I u_I k_I i_I rx_I a_I t_I eu_E
+kaand~appat'ukir'atu k_B aa_I nx_I a_I p_I p_I a_I tx_I u_I k_I i_I rx_I a_I t_I eu_E
+kaang~gaayam k_B aa_I ng_I g_I aa_I y_I a_I m_E
+kaanj~cha k_B aa_I nj_I c_I a_E
+kaanj~chamil'agaay k_B aa_I nj_I c_I a_I m_I i_I lx_I a_I g_I aa_I y_E
+kaanj~chipuram k_B aa_I nj_I c_I i_I p_I u_I r_I a_I m_E
+kaan~ti k_B aa_I n_I t_I i_E
+kaan~timati k_B aa_I n_I t_I i_I m_I a_I t_I i_E
+kaapi k_B aa_I p_I i_E
+kaappart'i k_B aa_I p_I p_I a_I r_I tx_I i_E
+kaar k_B aa_I r_E
+kaar'r'u k_B aa_I rx_I rx_I eu_E
+kaar'u k_B aa_I rx_I eu_E
+kaaraama k_B aa_I r_I aa_I m_I a_E
+kaaraamand~i k_B aa_I r_I aa_I m_I a_I nx_I i_E
+kaaraamand~ipayir'u k_B aa_I r_I aa_I m_I a_I nx_I i_I p_I a_I y_I i_I rx_I eu_E
+kaaraamand~ippayir k_B aa_I r_I aa_I m_I a_I nx_I i_I p_I p_I a_I y_I i_I r_E
+kaaraamand~ippayir'u k_B aa_I r_I aa_I m_I a_I nx_I i_I p_I p_I a_I y_I i_I rx_I eu_E
+kaaraampul'i k_B aa_I r_I aa_I m_I p_I u_I lx_I i_E
+kaaraappayir'u k_B aa_I r_I aa_I p_I p_I a_I y_I i_I rx_I eu_E
+kaaraikkaal k_B aa_I r_I ai_I k_I k_I aa_I l_E
+kaarakkuut'ar k_B aa_I r_I a_I k_I k_I uu_I tx_I a_I r_E
+kaaramand~ippayir'u k_B aa_I r_I a_I m_I a_I nx_I i_I p_I p_I a_I y_I i_I rx_I eu_E
+kaard'u k_B aa_I r_I dx_I eu_E
+kaarpookchin k_B aa_I r_I p_I oo_I k_I c_I i_I n_E
+kaat't'umannaar k_B aa_I tx_I tx_I u_I m_I a_I n_I n_I aa_I r_E
+kaat't'umannaarkooyil k_B aa_I tx_I tx_I u_I m_I a_I n_I n_I aa_I r_I k_I oo_I y_I i_I l_E
+kaat'u k_B aa_I tx_I eu_E
+kaaveiri k_B aa_I v_I ee_I r_I i_E
+kaaveirippat't'i k_B aa_I v_I ee_I r_I i_I p_I p_I a_I tx_I tx_I i_E
+kaay k_B aa_I y_E
+kaaychchal k_B aa_I y_I c_I c_I a_I l_E
+kaaychchalaal k_B aa_I y_I c_I c_I a_I l_I aa_I l_E
+kaaykar'i k_B aa_I y_I k_I a_I rx_I i_E
+kaaykar'igal' k_B aa_I y_I k_I a_I rx_I i_I g_I a_I lx_E
+kaaykar'ikal' k_B aa_I y_I k_I a_I rx_I i_I k_I a_I lx_E
+kaayn~ta k_B aa_I y_I n_I t_I a_E
+kaayn~tai k_B aa_I y_I n_I t_I ai_E
+kaayn~tamil'akaay k_B aa_I y_I n_I t_I a_I m_I i_I lx_I a_I k_I aa_I y_E
+kach k_B a_I c_E
+kachar k_B a_I c_I a_I r_E
+kachchal k_B a_I c_I c_I a_I l_E
+kad'a k_B a_I dx_I a_E
+kad'aga k_B a_I dx_I a_I g_I a_E
+kad'ai k_B a_I dx_I ai_E
+kad'aikarid'am k_B a_I dx_I ai_I k_I a_I r_I i_I dx_I a_I m_E
+kad'aiyala k_B a_I dx_I ai_I y_I a_I l_I a_E
+kad'aiyil k_B a_I dx_I ai_I y_I i_I l_E
+kad'al k_B a_I dx_I a_I l_E
+kad'ala k_B a_I dx_I a_I l_I a_E
+kad'alai k_B a_I dx_I a_I l_I ai_E
+kad'alan k_B a_I dx_I a_I l_I a_I n_E
+kad'alend~nd~ai k_B a_I dx_I a_I l_I e_I nx_I nx_I ai_E
+kad'aluur k_B a_I dx_I a_I l_I uu_I r_E
+kad'an k_B a_I dx_I a_I n_E
+kad'antan k_B a_I dx_I a_I n_I t_I a_I n_E
+kad'ayila k_B a_I dx_I a_I y_I i_I l_I a_E
+kad'ayilataan k_B a_I dx_I a_I y_I i_I l_I a_I t_I aa_I n_E
+kad'i k_B a_I dx_I i_E
+kad'ikr'atu k_B a_I dx_I i_I k_I rx_I a_I t_I eu_E
+kad'itta k_B a_I dx_I i_I t_I t_I a_E
+kad'ugu k_B a_I dx_I u_I g_I eu_E
+kad'uvaang~gud'i k_B a_I dx_I u_I v_I aa_I ng_I g_I u_I dx_I i_E
+kadavend~nd~ei k_B a_I d_I a_I v_I e_I nx_I nx_I ee_E
+kai k_B ai_E
+kaiparet' k_B ai_I p_I a_I r_I e_I tx_E
+kajaraamang~galam k_B a_I j_I a_I r_I aa_I m_I a_I ng_I g_I a_I l_I a_I m_E
+kal' k_B a_I lx_E
+kal'aikal' k_B a_I lx_I ai_I k_I a_I lx_E
+kal'l'ippaal'aiyam k_B a_I lx_I lx_I i_I p_I p_I aa_I lx_I ai_I y_I a_I m_E
+kalaichched'i k_B a_I l_I ai_I c_I c_I e_I dx_I i_E
+kalakkolli k_B a_I l_I a_I k_I k_I o_I ll_I i_E
+kalam k_B a_I l_I a_I m_E
+kalappina k_B a_I l_I a_I p_I p_I i_I n_I a_E
+kalappinai k_B a_I l_I a_I p_I p_I i_I n_I ai_E
+kalappinam k_B a_I l_I a_I p_I p_I i_I n_I a_I m_E
+kalappinavagai k_B a_I l_I a_I p_I p_I i_I n_I a_I v_I a_I g_I ai_E
+kalappinavakai k_B a_I l_I a_I p_I p_I i_I n_I a_I v_I a_I k_I ai_E
+kalappu k_B a_I l_I a_I p_I p_I eu_E
+kalappuuram k_B a_I l_I a_I p_I p_I uu_I r_I a_I m_E
+kalatinai k_B a_I l_I a_I t_I i_I n_I ai_E
+kalchar k_B a_I l_I c_I a_I r_E
+kalchchar k_B a_I l_I c_I c_I a_I r_E
+kalchcharin k_B a_I l_I c_I c_I a_I r_I i_I n_E
+kalchiyam k_B a_I l_I c_I i_I y_I a_I m_E
+kalla k_B a_I ll_I a_E
+kallu k_B a_I ll_I eu_E
+kallupud'aipaan k_B a_I ll_I u_I p_I u_I dx_I ai_I p_I aa_I n_E
+kalluur k_B a_I ll_I uu_I r_E
+kamal'ai k_B a_I m_I a_I lx_I ai_E
+kambu k_B a_I m_I b_I eu_E
+kampoon k_B a_I m_I p_I oo_I n_E
+kampu k_B a_I m_I p_I eu_E
+kamyut't'ar k_B a_I m_I y_I u_I tx_I tx_I a_I r_E
+kanagaambaram k_B a_I n_I a_I g_I aa_I m_I b_I a_I r_I a_I m_E
+kanakaamparam k_B a_I n_I a_I k_I aa_I m_I p_I a_I r_I a_I m_E
+kanaraa k_B a_I n_I a_I r_I aa_E
+kand~akka k_B a_I nx_I a_I k_I k_I a_E
+kand~akkil k_B a_I nx_I a_I k_I k_I i_I l_E
+kand~kkuttaan k_B a_I nx_I k_I k_I u_I t_I t_I aa_I n_E
+kand~nd~uvali k_B a_I nx_I nx_I u_I v_I a_I l_I i_E
+kannat'aa k_B a_I n_I n_I a_I tx_I aa_E
+kan~tarvakoot't'ai k_B a_I n_I t_I a_I r_I v_I a_I k_I oo_I tx_I tx_I ai_E
+kan~tuvat't'i k_B a_I n_I t_I u_I v_I a_I tx_I tx_I i_E
+kap k_B a_I p_E
+kappina k_B a_I p_I p_I i_I n_I a_E
+kar k_B a_I r_E
+kar'i k_B a_I rx_I i_E
+kar'puuram k_B a_I rx_I p_I uu_I r_I a_I m_E
+kar'uppinavagai k_B a_I rx_I u_I p_I p_I i_I n_I a_I v_I a_I g_I ai_E
+kar'uppu k_B a_I rx_I u_I p_I p_I eu_E
+kar'uttakkambu k_B a_I rx_I u_I t_I t_I a_I k_I k_I a_I m_I b_I eu_E
+karaat't'aa k_B a_I r_I aa_I tx_I tx_I aa_E
+karaattei k_B a_I r_I aa_I t_I t_I ee_E
+karakt'aa k_B a_I r_I a_I k_I tx_I aa_E
+karam k_B a_I r_I a_I m_E
+karat k_B a_I r_I a_I t_E
+karn~aat'akaa k_B a_I r_I n_I aa_I tx_I a_I k_I aa_E
+karu k_B a_I r_I eu_E
+karukkal k_B a_I r_I u_I k_I k_I a_I l_E
+karukutal k_B a_I r_I u_I k_I u_I t_I a_I l_E
+karumbu k_B a_I r_I u_I m_I b_I eu_E
+karumnu k_B a_I r_I u_I m_I n_I eu_E
+karumpu k_B a_I r_I u_I m_I p_I eu_E
+karund~ai k_B a_I r_I u_I nx_I ai_E
+karund~aikkizhang~gu k_B a_I r_I u_I nx_I ai_I k_I k_I i_I zh_I a_I ng_I g_I eu_E
+karund~aikkizhang~ku k_B a_I r_I u_I nx_I ai_I k_I k_I i_I zh_I a_I ng_I k_I eu_E
+karund~ei k_B a_I r_I u_I nx_I ee_E
+karuppu k_B a_I r_I u_I p_I p_I eu_E
+karuppung~ga k_B a_I r_I u_I p_I p_I u_I ng_I g_I a_E
+karuppuvel'l'am k_B a_I r_I u_I p_I p_I u_I v_I e_I lx_I lx_I a_I m_E
+karuppuvellam k_B a_I r_I u_I p_I p_I u_I v_I e_I ll_I a_I m_E
+karuttura k_B a_I r_I u_I t_I t_I u_I r_I a_E
+karuur k_B a_I r_I uu_I r_E
+karuurng~ga k_B a_I r_I uu_I r_I ng_I g_I a_E
+kas k_B a_I s_E
+kat' k_B a_I tx_E
+kat'a k_B a_I tx_I a_E
+kat'ai k_B a_I tx_I ai_E
+kat'aila k_B a_I tx_I ai_I l_I a_E
+kat'aiyil k_B a_I tx_I ai_I y_I i_I l_E
+kat'ala k_B a_I tx_I a_I l_I a_E
+kat'alai k_B a_I tx_I a_I l_I ai_E
+kat'aluur k_B a_I tx_I a_I l_I uu_I r_E
+kat'an k_B a_I tx_I a_I n_E
+kat'lai k_B a_I tx_I l_I ai_E
+kat't'i k_B a_I tx_I tx_I i_E
+kat't'u k_B a_I tx_I tx_I eu_E
+kat'uku k_B a_I tx_I u_I k_I eu_E
+katavu k_B a_I t_I a_I v_I eu_E
+katirik k_B a_I t_I i_I r_I i_I k_E
+kattaal'ai k_B a_I t_I t_I aa_I lx_I ai_E
+kattari k_B a_I t_I t_I a_I r_I i_E
+kattarikkaay k_B a_I t_I t_I a_I r_I i_I k_I k_I aa_I y_E
+katti k_B a_I t_I t_I i_E
+kattiri k_B a_I t_I t_I i_I r_I i_E
+kattirikaay k_B a_I t_I t_I i_I r_I i_I k_I aa_I y_E
+kattirikkaa k_B a_I t_I t_I i_I r_I i_I k_I k_I aa_E
+kattirikkaay k_B a_I t_I t_I i_I r_I i_I k_I k_I aa_I y_E
+kattukir'atu k_B a_I t_I t_I u_I k_I i_I rx_I a_I t_I eu_E
+kaurment' k_B a_I u_I r_I m_I e_I n_I tx_E
+kavarmant'u k_B a_I v_I a_I r_I m_I a_I n_I tx_I eu_E
+kavarmend~t' k_B a_I v_I a_I r_I m_I e_I nx_I tx_E
+kavarment' k_B a_I v_I a_I r_I m_I e_I n_I tx_E
+kavi k_B a_I v_I i_E
+kavin k_B a_I v_I i_I n_E
+kavund~d'am k_B a_I v_I u_I nx_I dx_I a_I m_E
+kavurnmend~t' k_B a_I v_I u_I r_I n_I m_I e_I nx_I tx_E
+kayin~tamil'agaay k_B a_I y_I i_I n_I t_I a_I m_I i_I lx_I a_I g_I aa_I y_E
+kazhakam k_B a_I zh_I a_I k_I a_I m_E
+kazhitta k_B a_I zh_I i_I t_I t_I a_E
+ke k_B e_E
+kei k_B ee_E
+keiem k_B e_I ee_I m_E
+keikkaatu k_B ee_I k_I k_I aa_I t_I eu_E
+keikkur'aang~ga k_B ee_I k_I k_I u_I rx_I aa_I ng_I g_I a_E
+keikkutu k_B ee_I k_I k_I u_I t_I eu_E
+keikkutut'a k_B ee_I k_I k_I u_I t_I u_I tx_I a_E
+keil' k_B ee_I lx_E
+keil'varaku k_B ee_I lx_I v_I a_I r_I a_I k_I eu_E
+keil'vi k_B ee_I lx_I v_I i_E
+keilvaragu k_B ee_I l_I v_I a_I r_I a_I g_I eu_E
+kein k_B ee_I n_E
+keippa k_B ee_I p_I p_I a_E
+keippang~kizhang~gu k_B ee_I p_I p_I a_I ng_I k_I i_I zh_I a_I ng_I g_I eu_E
+keippang~kizhang~ku k_B ee_I p_I p_I a_I ng_I k_I i_I zh_I a_I ng_I k_I eu_E
+keiraa k_B ee_I r_I aa_E
+keiral'am k_B ee_I r_I a_I lx_I a_I m_E
+keirat' k_B ee_I r_I a_I tx_E
+keirat't'u k_B ee_I r_I a_I tx_I tx_I eu_E
+keit'kala k_B ee_I tx_I k_I a_I l_I a_E
+keit'kutung~gal'a k_B ee_I tx_I k_I u_I t_I u_I ng_I g_I a_I lx_I a_E
+keit't'ang~ga k_B ee_I tx_I tx_I a_I ng_I g_I a_E
+keit't'ukkukond~t'u k_B ee_I tx_I tx_I u_I k_I k_I u_I k_I o_I nx_I tx_I eu_E
+keitir k_B ee_I t_I i_I r_E
+keizhvaraku k_B ee_I zh_I v_I a_I r_I a_I k_I eu_E
+kepipi k_B e_I p_I i_I p_I i_E
+ket't'aang~ka k_B e_I tx_I tx_I aa_I ng_I k_I a_E
+ki k_B i_E
+kid'aiyaatu k_B i_I dx_I ai_I y_I aa_I t_I eu_E
+kid'aiyatung~ga k_B i_I dx_I ai_I y_I a_I t_I u_I ng_I g_I a_E
+kid'ang~gu k_B i_I dx_I a_I ng_I g_I eu_E
+kiil k_B ii_I l_E
+kiila k_B ii_I l_I a_E
+kiiloo k_B ii_I l_I oo_E
+kiiplet' k_B ii_I p_I l_I e_I tx_E
+kiira k_B ii_I r_I a_E
+kiirai k_B ii_I r_I ai_E
+kiiraichchet'i k_B ii_I r_I ai_I c_I c_I e_I tx_I i_E
+kiiraigal' k_B ii_I r_I ai_I g_I a_I lx_E
+kiiraikal' k_B ii_I r_I ai_I k_I a_I lx_E
+kiiraivakai k_B ii_I r_I ai_I v_I a_I k_I ai_E
+kiiraiyil k_B ii_I r_I ai_I y_I i_I l_E
+kiizha k_B ii_I zh_I a_E
+kili k_B i_I l_I i_E
+kilokku k_B i_I l_I o_I k_I k_I eu_E
+kilomiit't'ar k_B i_I l_I o_I m_I ii_I tx_I tx_I a_I r_E
+kilomiit't'ars k_B i_I l_I o_I m_I ii_I tx_I tx_I a_I r_I s_E
+kilomiit't'aru k_B i_I l_I o_I m_I ii_I tx_I tx_I a_I r_I eu_E
+kiloo k_B i_I l_I oo_E
+kiloomiit't'ar k_B i_I l_I oo_I m_I ii_I tx_I tx_I a_I r_E
+kiloomiit't'arung~ga k_B i_I l_I oo_I m_I ii_I tx_I tx_I a_I r_I u_I ng_I g_I a_E
+kiloomit't'ar k_B i_I l_I oo_I m_I i_I tx_I tx_I a_I r_E
+kir'atu k_B i_I rx_I a_I t_I eu_E
+kir'oom k_B i_I rx_I oo_I m_E
+kiram k_B i_I r_I a_I m_E
+kiri k_B i_I r_I i_E
+kirushna k_B i_I r_I u_I sh_I n_I a_E
+kirushnd~agiri k_B i_I r_I u_I sh_I nx_I a_I g_I i_I r_I i_E
+kirushnd~akiri k_B i_I r_I u_I sh_I nx_I a_I k_I i_I r_I i_E
+kit'aar k_B i_I tx_I aa_I r_E
+kit'aikkizhinu k_B i_I tx_I ai_I k_I k_I i_I zh_I i_I n_I eu_E
+kit't'a k_B i_I tx_I tx_I a_E
+kiyuuv k_B i_I y_I uu_I v_E
+kizhang~gu k_B i_I zh_I a_I ng_I g_I eu_E
+kizhang~ku k_B i_I zh_I a_I ng_I k_I eu_E
+kkaay k_B k_I aa_I y_E
+ko k_B o_E
+kochcheiri k_B o_I c_I c_I ee_I r_I i_E
+kochu k_B o_I c_I eu_E
+kod'aila k_B o_I dx_I ai_I l_I a_E
+kod'aimil'agaay k_B o_I dx_I ai_I m_I i_I lx_I a_I g_I aa_I y_E
+kod'amil'agaay k_B o_I dx_I a_I m_I i_I lx_I a_I g_I aa_I y_E
+kol' k_B o_I lx_E
+kol'attuur k_B o_I lx_I a_I t_I t_I uu_I r_E
+kol'l'u k_B o_I lx_I lx_I eu_E
+kol'l'umaang~kot'i k_B o_I lx_I lx_I u_I m_I aa_I ng_I k_I o_I tx_I i_E
+kol'l'umaang~kut'i k_B o_I lx_I lx_I u_I m_I aa_I ng_I k_I u_I tx_I i_E
+kol'mudal k_B o_I lx_I m_I u_I d_I a_I l_E
+kol'mutal k_B o_I lx_I m_I u_I t_I a_I l_E
+kol'mutalil k_B o_I lx_I m_I u_I t_I a_I l_I i_I l_E
+kolai k_B o_I l_I ai_E
+kollaila k_B o_I ll_I ai_I l_I a_E
+kolli k_B o_I ll_I i_E
+kollu k_B o_I ll_I eu_E
+kollumaang~gud'i k_B o_I ll_I u_I m_I aa_I ng_I g_I u_I dx_I i_E
+koluttutuu k_B o_I l_I u_I t_I t_I u_I t_I u_I eu_E
+konaa k_B o_I n_I aa_E
+kond~d'irukkum k_B o_I nx_I dx_I i_I r_I u_I k_I k_I u_I m_E
+kond~d'u k_B o_I nx_I dx_I eu_E
+kond~t'aa k_B o_I nx_I tx_I aa_E
+kond~t'ai k_B o_I nx_I tx_I ai_E
+kond~t'atu k_B o_I nx_I tx_I a_I t_I eu_E
+kond~t'uvar'oom k_B o_I nx_I tx_I u_I v_I a_I rx_I oo_I m_E
+konj~cham k_B o_I nj_I c_I a_I m_E
+konj~chamaaga k_B o_I nj_I c_I a_I m_I aa_I g_I a_E
+kont'upoi k_B o_I n_I tx_I u_I p_I o_I i_E
+koo k_B oo_E
+kood'ailataa k_B oo_I dx_I ai_I l_I a_I t_I aa_E
+kood'u k_B oo_I dx_I eu_E
+koolmand~i k_B oo_I l_I m_I a_I nx_I i_E
+koolt'u k_B oo_I l_I tx_I eu_E
+koopal' k_B oo_I p_I a_I lx_E
+kooppirat' k_B oo_I p_I p_I i_I r_I a_I tx_E
+koopuram k_B oo_I p_I u_I r_I a_I m_E
+koopurama k_B oo_I p_I u_I r_I a_I m_I a_E
+koor k_B oo_I r_E
+koor'avum k_B oo_I rx_I a_I v_I u_I m_E
+koos k_B oo_I s_E
+koot'ai k_B oo_I tx_I ai_E
+koot'aiyila k_B oo_I tx_I ai_I y_I i_I l_I a_E
+koot'u k_B oo_I tx_I eu_E
+koottaari k_B oo_I t_I t_I aa_I r_I i_E
+kootuma k_B oo_I t_I u_I m_I a_E
+kootumai k_B oo_I t_I u_I m_I ai_E
+koovai k_B oo_I v_I ai_E
+koovanam k_B oo_I v_I a_I n_I a_I m_E
+koovil k_B oo_I v_I i_I l_E
+koovinampaakkam k_B oo_I v_I i_I n_I a_I m_I p_I aa_I k_I k_I a_I m_E
+kooya k_B oo_I y_I a_E
+kooyam k_B oo_I y_I a_I m_E
+kooyampattuur k_B oo_I y_I a_I m_I p_I a_I t_I t_I uu_I r_E
+kooyamputtuur k_B oo_I y_I a_I m_I p_I u_I t_I t_I uu_I r_E
+kooyamputtuuru k_B oo_I y_I a_I m_I p_I u_I t_I t_I uu_I r_I eu_E
+kooyamuttuur k_B oo_I y_I a_I m_I u_I t_I t_I uu_I r_E
+kooyil k_B oo_I y_I i_I l_E
+kopparai k_B o_I p_I p_I a_I r_I ai_E
+kopparaichchinnatu k_B o_I p_I p_I a_I r_I ai_I c_I c_I i_I n_I n_I a_I t_I eu_E
+kopparaip k_B o_I p_I p_I a_I r_I ai_I p_E
+kopparait k_B o_I p_I p_I a_I r_I ai_I t_E
+kopparaitteing~gaay k_B o_I p_I p_I a_I r_I ai_I t_I t_I ee_I ng_I g_I aa_I y_E
+kot k_B o_I t_E
+kot' k_B o_I tx_E
+kot'aikkaanal k_B o_I tx_I ai_I k_I k_I aa_I n_I a_I l_E
+kot't'a k_B o_I tx_I tx_I a_E
+kot't'ai k_B o_I tx_I tx_I ai_E
+kot't'aimuttu k_B o_I tx_I tx_I ai_I m_I u_I t_I t_I eu_E
+kot't'amalai k_B o_I tx_I tx_I a_I m_I a_I l_I ai_E
+kot't'u k_B o_I tx_I tx_I eu_E
+kot'ukka k_B o_I tx_I u_I k_I k_I a_E
+kot'ukkappat't'a k_B o_I tx_I u_I k_I k_I a_I p_I p_I a_I tx_I tx_I a_E
+kot'ukkappat't'ul'l'a k_B o_I tx_I u_I k_I k_I a_I p_I p_I a_I tx_I tx_I u_I lx_I lx_I a_E
+kot'uppa k_B o_I tx_I u_I p_I p_I a_E
+kot'uttu k_B o_I tx_I u_I t_I t_I eu_E
+kottai k_B o_I t_I t_I ai_E
+kottamalli k_B o_I t_I t_I a_I m_I a_I ll_I i_E
+kottamallik k_B o_I t_I t_I a_I m_I a_I ll_I i_I k_E
+kottamallikiirai k_B o_I t_I t_I a_I m_I a_I ll_I i_I k_I ii_I r_I ai_E
+kottamallikkiirai k_B o_I t_I t_I a_I m_I a_I ll_I i_I k_I k_I ii_I r_I ai_E
+kottamallivitai k_B o_I t_I t_I a_I m_I a_I ll_I i_I v_I i_I t_I ai_E
+kottavarai k_B o_I t_I t_I a_I v_I a_I r_I ai_E
+kottavarang~gaa k_B o_I t_I t_I a_I v_I a_I r_I a_I ng_I g_I aa_E
+kottavarang~gaay k_B o_I t_I t_I a_I v_I a_I r_I a_I ng_I g_I aa_I y_E
+kottavarang~kaa k_B o_I t_I t_I a_I v_I a_I r_I a_I ng_I k_I aa_E
+kottavarang~kaay k_B o_I t_I t_I a_I v_I a_I r_I a_I ng_I k_I aa_I y_E
+koyyaakaay k_B o_I y_I y_I aa_I k_I aa_I y_E
+koyyaakkaay k_B o_I y_I y_I aa_I k_I k_I aa_I y_E
+koyyaapalam k_B o_I y_I y_I aa_I p_I a_I l_I a_I m_E
+koyyaapazham k_B o_I y_I y_I aa_I p_I a_I zh_I a_I m_E
+koyyaappazham k_B o_I y_I y_I aa_I p_I p_I a_I zh_I a_I m_E
+koyyakkaa k_B o_I y_I y_I a_I k_I k_I aa_E
+krishnd~agiri k_B r_I i_I sh_I nx_I a_I g_I i_I r_I i_E
+ku k_B eu_E
+kuchchi k_B u_I c_I c_I i_E
+kuchchikkizhang~gu k_B u_I c_I c_I i_I k_I k_I i_I zh_I a_I ng_I g_I eu_E
+kuchchikkizhang~ku k_B u_I c_I c_I i_I k_I k_I i_I zh_I a_I ng_I k_I eu_E
+kud'ai k_B u_I dx_I ai_E
+kud'aimil'agaay k_B u_I dx_I ai_I m_I i_I lx_I a_I g_I aa_I y_E
+kud'i k_B u_I dx_I i_E
+kukan k_B u_I k_I a_I n_E
+kul'i k_B u_I lx_I i_E
+kul'ir k_B u_I lx_I i_I r_E
+kul'iraana k_B u_I lx_I i_I r_I aa_I n_I a_E
+kul'irkaalam k_B u_I lx_I i_I r_I k_I aa_I l_I a_I m_E
+kul'iviruchchaa k_B u_I lx_I i_I v_I i_I r_I u_I c_I c_I aa_E
+kul'l'am k_B u_I lx_I lx_I a_I m_E
+kul'oorait'u k_B u_I lx_I oo_I r_I ai_I tx_I eu_E
+kuli k_B u_I l_I i_E
+kuloorait'u k_B u_I l_I oo_I r_I ai_I tx_I eu_E
+kumaar k_B u_I m_I aa_I r_E
+kumbakoond~am k_B u_I m_I b_I a_I k_I oo_I nx_I a_I m_E
+kumili k_B u_I m_I i_I l_I i_E
+kumizh k_B u_I m_I i_I zh_E
+kumizhi k_B u_I m_I i_I zh_I i_E
+kumpakoond~am k_B u_I m_I p_I a_I k_I oo_I nx_I a_I m_E
+kumuzhi k_B u_I m_I u_I zh_I i_E
+kund~d'u k_B u_I nx_I dx_I eu_E
+kund~d'uvellam k_B u_I nx_I dx_I u_I v_I e_I ll_I a_I m_E
+kund~t'u k_B u_I nx_I tx_I eu_E
+kund~t'uvel'l'am k_B u_I nx_I tx_I u_I v_I e_I lx_I lx_I a_I m_E
+kuniyaa k_B u_I n_I i_I y_I aa_E
+kunnuur k_B u_I n_I n_I uu_I r_E
+kuppai k_B u_I p_I p_I ai_E
+kur'ai k_B u_I rx_I ai_E
+kur'ain~ta k_B u_I rx_I ai_I n_I t_I a_E
+kur'r'a k_B u_I rx_I rx_I a_E
+kur'r'aalam k_B u_I rx_I rx_I aa_I l_I a_I m_E
+kur'uttu k_B u_I rx_I u_I t_I t_I eu_E
+kur'uttupuuchchi k_B u_I rx_I u_I t_I t_I u_I p_I uu_I c_I c_I i_E
+kuravaa k_B u_I r_I a_I v_I aa_E
+kuravum k_B u_I r_I a_I v_I u_I m_E
+kurumaa k_B u_I r_I u_I m_I aa_E
+kurumbaa k_B u_I r_I u_I m_I b_I aa_E
+kurumpur k_B u_I r_I u_I m_I p_I u_I r_E
+kurund~a k_B u_I r_I u_I nx_I a_E
+kurund~ai k_B u_I r_I u_I nx_I ai_E
+kurut't'u k_B u_I r_I u_I tx_I tx_I eu_E
+kurut't'uppuuchchi k_B u_I r_I u_I tx_I tx_I u_I p_I p_I uu_I c_I c_I i_E
+kurut't'uppuuchchitaan k_B u_I r_I u_I tx_I tx_I u_I p_I p_I uu_I c_I c_I i_I t_I aa_I n_E
+kurut't'uppuuchchiyaa k_B u_I r_I u_I tx_I tx_I u_I p_I p_I uu_I c_I c_I i_I y_I aa_E
+kurut't'upuchchi k_B u_I r_I u_I tx_I tx_I u_I p_I u_I c_I c_I i_E
+kurutti k_B u_I r_I u_I t_I t_I i_E
+kuruttu k_B u_I r_I u_I t_I t_I eu_E
+kuruttuppuuchchi k_B u_I r_I u_I t_I t_I u_I p_I p_I uu_I c_I c_I i_E
+kuruttupuzhu k_B u_I r_I u_I t_I t_I u_I p_I u_I zh_I eu_E
+kuruvi k_B u_I r_I u_I v_I i_E
+kut'aimil'akaay k_B u_I tx_I ai_I m_I i_I lx_I a_I k_I aa_I y_E
+kut'am k_B u_I tx_I a_I m_E
+kut'amil'akaay k_B u_I tx_I a_I m_I i_I lx_I a_I k_I aa_I y_E
+kut'i k_B u_I tx_I i_E
+kut't'ai k_B u_I tx_I tx_I ai_E
+kut't'ikkizhang~gu k_B u_I tx_I tx_I i_I k_I k_I i_I zh_I a_I ng_I g_I eu_E
+kut't'ikkizhang~ku k_B u_I tx_I tx_I i_I k_I k_I i_I zh_I a_I ng_I k_I eu_E
+kut't'u k_B u_I tx_I tx_I eu_E
+kuttakai k_B u_I t_I t_I a_I k_I ai_E
+kuttavan~taa k_B u_I t_I t_I a_I v_I a_I n_I t_I aa_E
+kuttavaram k_B u_I t_I t_I a_I v_I a_I r_I a_I m_E
+kutti k_B u_I t_I t_I i_E
+kuttu k_B u_I t_I t_I eu_E
+kuud'ai k_B uu_I dx_I ai_E
+kuud'ar k_B uu_I dx_I a_I r_E
+kuud'i k_B uu_I dx_I i_E
+kuud'iya k_B uu_I dx_I i_I y_I a_E
+kuuniyaa k_B uu_I n_I i_I y_I aa_E
+kuur'a k_B uu_I rx_I a_E
+kuur'anaamei k_B uu_I rx_I a_I n_I aa_I m_I ee_E
+kuur'avum k_B uu_I rx_I a_I v_I u_I m_E
+kuur'avumaa k_B uu_I rx_I a_I v_I u_I m_I aa_E
+kuut'attil k_B uu_I tx_I a_I t_I t_I i_I l_E
+kuut'iya k_B uu_I tx_I i_I y_I a_E
+kuut't'am k_B uu_I tx_I tx_I a_I m_E
+kuut't'ur'avaa k_B uu_I tx_I tx_I u_I rx_I a_I v_I aa_E
+kuut't'ur'avu k_B uu_I tx_I tx_I u_I rx_I a_I v_I eu_E
+kuut't'uravu k_B uu_I tx_I tx_I u_I r_I a_I v_I eu_E
+kuuvatturaa k_B uu_I v_I a_I t_I t_I u_I r_I aa_E
+kuuvattuur k_B uu_I v_I a_I t_I t_I uu_I r_E
+kuvaatozham k_B u_I v_I aa_I t_I o_I zh_I a_I m_E
+kuval'ai k_B u_I v_I a_I lx_I ai_E
+kuzhan~tai k_B u_I zh_I a_I n_I t_I ai_E
+kuzhu k_B u_I zh_I eu_E
+kuzhuvulataaed'uttukkoom k_B u_I zh_I u_I v_I u_I l_I a_I t_I aa_I e_I dx_I u_I t_I t_I u_I k_I k_I oo_I m_E
+la l_B a_E
+laabattil l_B aa_I b_I a_I t_I t_I i_I l_E
+laam l_B aa_I m_E
+laapam l_B aa_I p_I a_I m_E
+laapattai l_B aa_I p_I a_I t_I t_I ai_E
+laapattula l_B aa_I p_I a_I t_I t_I u_I l_I a_E
+laari l_B aa_I r_I i_E
+lai l_B ai_E
+lait't'aa l_B ai_I tx_I tx_I aa_E
+lappar l_B a_I p_I p_I a_I r_E
+lat'chatti l_B a_I tx_I c_I a_I t_I t_I i_E
+lat'chumi l_B a_I tx_I c_I u_I m_I i_E
+leichaaga l_B ee_I c_I aa_I g_I a_E
+leichaana l_B ee_I c_I aa_I n_I a_E
+lii l_B ii_E
+liipajaar l_B ii_I p_I a_I j_I aa_I r_E
+lookkal l_B oo_I k_I k_I a_I l_E
+lookkala l_B oo_I k_I k_I a_I l_I a_E
+lookkalaa l_B oo_I k_I k_I a_I l_I aa_E
+loon l_B oo_I n_E
+loot'as l_B oo_I tx_I a_I s_E
+ma m_B a_E
+maa m_B aa_E
+maadul'ai m_B aa_I d_I u_I lx_I ai_E
+maadul'aippazham m_B aa_I d_I u_I lx_I ai_I p_I p_I a_I zh_I a_I m_E
+maadul'ampazham m_B aa_I d_I u_I lx_I a_I m_I p_I a_I zh_I a_I m_E
+maakkaachchool'am m_B aa_I k_I k_I aa_I c_I c_I oo_I lx_I a_I m_E
+maalai m_B aa_I l_I ai_E
+maalaikkand~ m_B aa_I l_I ai_I k_I k_I a_I nx_E
+maamaa m_B aa_I m_I aa_E
+maampalam m_B aa_I m_I p_I a_I l_I a_I m_E
+maampazham m_B aa_I m_I p_I a_I zh_I a_I m_E
+maang~gaay m_B aa_I ng_I g_I aa_I y_E
+maang~kaa m_B aa_I ng_I k_I aa_E
+maang~kaay m_B aa_I ng_I k_I aa_I y_E
+maang~kot't'ai m_B aa_I ng_I k_I o_I tx_I tx_I ai_E
+maankkot't'apaas m_B aa_I n_I k_I k_I o_I tx_I tx_I a_I p_I aa_I s_E
+maanoopot't'apaas m_B aa_I n_I oo_I p_I o_I tx_I tx_I a_I p_I aa_I s_E
+maappil'a m_B aa_I p_I p_I i_I lx_I a_E
+maar'r'am m_B aa_I rx_I rx_I a_I m_E
+maar'r'attaal m_B aa_I rx_I rx_I a_I t_I t_I aa_I l_E
+maar'r'avai m_B aa_I rx_I rx_I a_I v_I ai_E
+maarket' m_B aa_I r_I k_I e_I tx_E
+maarkket' m_B aa_I r_I k_I k_I e_I tx_E
+maat't'einkir'atu m_B aa_I tx_I tx_I ee_I n_I k_I i_I rx_I a_I t_I eu_E
+maat't'oom m_B aa_I tx_I tx_I oo_I m_E
+maat't'ung~kutu m_B aa_I tx_I tx_I u_I ng_I k_I u_I t_I eu_E
+maatiri m_B aa_I t_I i_I r_I i_E
+maattikka m_B aa_I t_I t_I i_I k_I k_I a_E
+maattit't'u m_B aa_I t_I t_I i_I tx_I tx_I eu_E
+maatul'ai m_B aa_I t_I u_I lx_I ai_E
+maatul'aipalam m_B aa_I t_I u_I lx_I ai_I p_I a_I l_I a_I m_E
+maatul'aippalam m_B aa_I t_I u_I lx_I ai_I p_I p_I a_I l_I a_I m_E
+maatul'aippazham m_B aa_I t_I u_I lx_I ai_I p_I p_I a_I zh_I a_I m_E
+maatul'am m_B aa_I t_I u_I lx_I a_I m_E
+maatul'ampazham m_B aa_I t_I u_I lx_I a_I m_I p_I a_I zh_I a_I m_E
+maavat't'a m_B aa_I v_I a_I tx_I tx_I a_E
+maavat't'akal'in m_B aa_I v_I a_I tx_I tx_I a_I k_I a_I lx_I i_I n_E
+maavat't'am m_B aa_I v_I a_I tx_I tx_I a_I m_E
+maavat't'ang~ga m_B aa_I v_I a_I tx_I tx_I a_I ng_I g_I a_E
+maavat't'ang~ka m_B aa_I v_I a_I tx_I tx_I a_I ng_I k_I a_E
+maavat't'ang~maa m_B aa_I v_I a_I tx_I tx_I a_I ng_I m_I aa_E
+maavat't'attil m_B aa_I v_I a_I tx_I tx_I a_I t_I t_I i_I l_E
+maavat't'ula m_B aa_I v_I a_I tx_I tx_I u_I l_I a_E
+madura m_B a_I d_I u_I r_I a_E
+madurai m_B a_I d_I u_I r_I ai_E
+madurataa m_B a_I d_I u_I r_I a_I t_I aa_E
+mai m_B ai_E
+mailaad'uturai m_B ai_I l_I aa_I dx_I u_I t_I u_I r_I ai_E
+maiya m_B ai_I y_I a_E
+maiyam m_B ai_I y_I a_I m_E
+makaapalipuram m_B a_I k_I aa_I p_I a_I l_I i_I p_I u_I r_I a_I m_E
+makkaa m_B a_I k_I k_I aa_E
+makkaachchool'am m_B a_I k_I k_I aa_I c_I c_I oo_I lx_I a_I m_E
+makkaachchool'amng~ga m_B a_I k_I k_I aa_I c_I c_I oo_I lx_I a_I m_I ng_I g_I a_E
+makkaachool'am m_B a_I k_I k_I aa_I c_I oo_I lx_I a_I m_E
+makkal' m_B a_I k_I k_I a_I lx_E
+makkarai m_B a_I k_I k_I a_I r_I ai_E
+malai m_B a_I l_I ai_E
+malar m_B a_I l_I a_I r_E
+malaraikkaay m_B a_I l_I a_I r_I ai_I k_I k_I aa_I y_E
+maleiriyaa m_B a_I l_I ee_I r_I i_I y_I aa_E
+maleiriyaala m_B a_I l_I ee_I r_I i_I y_I aa_I l_I a_E
+maleiriyaataan m_B a_I l_I ee_I r_I i_I y_I aa_I t_I aa_I n_E
+mallaat't'ai m_B a_I ll_I aa_I tx_I tx_I ai_E
+malli m_B a_I ll_I i_E
+malligai m_B a_I ll_I i_I g_I ai_E
+malligaippuu m_B a_I ll_I i_I g_I ai_I p_I p_I u_I eu_E
+malligappuu m_B a_I ll_I i_I g_I a_I p_I p_I u_I eu_E
+mallikai m_B a_I ll_I i_I k_I ai_E
+mallikaippuu m_B a_I ll_I i_I k_I ai_I p_I p_I u_I eu_E
+mallikappuu m_B a_I ll_I i_I k_I a_I p_I p_I u_I eu_E
+malvinai m_B a_I l_I v_I i_I n_I ai_E
+mand~d'i m_B a_I nx_I dx_I i_E
+mand~d'il m_B a_I nx_I dx_I i_I l_E
+mand~d'ila m_B a_I nx_I dx_I i_I l_I a_E
+mand~d'iyil m_B a_I nx_I dx_I i_I y_I i_I l_E
+mand~i m_B a_I nx_I i_E
+mand~innuta m_B a_I nx_I i_I n_I n_I u_I t_I a_E
+mand~itta m_B a_I nx_I i_I t_I t_I a_E
+mand~puzhu m_B a_I nx_I p_I u_I zh_I eu_E
+mand~t'i m_B a_I nx_I tx_I i_E
+mand~t'il m_B a_I nx_I tx_I i_I l_E
+mand~t'ila m_B a_I nx_I tx_I i_I l_I a_E
+mand~t'iyil m_B a_I nx_I tx_I i_I y_I i_I l_E
+mand~t'iyin m_B a_I nx_I tx_I i_I y_I i_I n_E
+mang~kan m_B a_I ng_I k_I a_I n_E
+mani m_B a_I n_I i_E
+manidaa m_B a_I n_I i_I d_I aa_E
+manj~cha m_B a_I nj_I c_I a_E
+manj~chakaamaal'ai m_B a_I nj_I c_I a_I k_I aa_I m_I aa_I lx_I ai_E
+manj~chakaamaalai m_B a_I nj_I c_I a_I k_I aa_I m_I aa_I l_I ai_E
+manj~chal' m_B a_I nj_I c_I a_I lx_E
+manj~chal'aa m_B a_I nj_I c_I a_I lx_I aa_E
+manj~chal'kaamaalai m_B a_I nj_I c_I a_I lx_I k_I aa_I m_I aa_I l_I ai_E
+manj~chal'kat't'i m_B a_I nj_I c_I a_I lx_I k_I a_I tx_I tx_I i_E
+manj~chal'kkat't'i m_B a_I nj_I c_I a_I lx_I k_I k_I a_I tx_I tx_I i_E
+mannaarkoovil m_B a_I n_I n_I aa_I r_I k_I oo_I v_I i_I l_E
+manookur'ud'apaal m_B a_I n_I oo_I k_I u_I rx_I u_I dx_I a_I p_I aa_I l_E
+manu m_B a_I n_I eu_E
+man~damaaga m_B a_I n_I d_I a_I m_I aa_I g_I a_E
+man~dila m_B a_I n_I d_I i_I l_I a_E
+man~ta m_B a_I n_I t_I a_E
+man~tamaa m_B a_I n_I t_I a_I m_I aa_E
+man~tamaaga m_B a_I n_I t_I a_I m_I aa_I g_I a_E
+man~tamaana m_B a_I n_I t_I a_I m_I aa_I n_I a_E
+man~tamamaa m_B a_I n_I t_I a_I m_I a_I m_I aa_E
+mappaaka m_B a_I p_I p_I aa_I k_I a_E
+mar'aivarachcheyti m_B a_I rx_I ai_I v_I a_I r_I a_I c_I c_I e_I y_I t_I i_E
+mar'an~tu m_B a_I rx_I a_I n_I t_I eu_E
+mar'an~tupoochchu m_B a_I rx_I a_I n_I t_I u_I p_I oo_I c_I c_I eu_E
+mar'r'a m_B a_I rx_I rx_I a_E
+mar'r'apat'i m_B a_I rx_I rx_I a_I p_I a_I tx_I i_E
+mar'r'atu m_B a_I rx_I rx_I a_I t_I eu_E
+mar'r'avai m_B a_I rx_I rx_I a_I v_I ai_E
+mar'r'um m_B a_I rx_I rx_I u_I m_E
+mar'r'vai m_B a_I rx_I rx_I v_I ai_E
+mara m_B a_I r_I a_E
+marak m_B a_I r_I a_I k_E
+marakkaanam m_B a_I r_I a_I k_I k_I aa_I n_I a_I m_E
+maraval'l'i m_B a_I r_I a_I v_I a_I lx_I lx_I i_E
+maraval'l'ikkizhang~gu m_B a_I r_I a_I v_I a_I lx_I lx_I i_I k_I k_I i_I zh_I a_I ng_I g_I eu_E
+maraval'l'ikkizhang~ku m_B a_I r_I a_I v_I a_I lx_I lx_I i_I k_I k_I i_I zh_I a_I ng_I k_I eu_E
+maru m_B a_I r_I eu_E
+marun~tu m_B a_I r_I u_I n_I t_I eu_E
+marun~tukal' m_B a_I r_I u_I n_I t_I u_I k_I a_I lx_E
+marutai m_B a_I r_I u_I t_I ai_E
+maruttuvamanai m_B a_I r_I u_I t_I t_I u_I v_I a_I m_I a_I n_I ai_E
+maruttuvamanaikku m_B a_I r_I u_I t_I t_I u_I v_I a_I m_I a_I n_I ai_I k_I k_I eu_E
+maruttuvamanaiyil m_B a_I r_I u_I t_I t_I u_I v_I a_I m_I a_I n_I ai_I y_I i_I l_E
+masram m_B a_I s_I r_I a_I m_E
+mat'ai m_B a_I tx_I ai_E
+mat't'ai m_B a_I tx_I tx_I ai_E
+mat't'iyaa m_B a_I tx_I tx_I i_I y_I aa_E
+mat't'um m_B a_I tx_I tx_I u_I m_E
+mat't'umaa m_B a_I tx_I tx_I u_I m_I aa_E
+mat't'umei m_B a_I tx_I tx_I u_I m_I ee_E
+mataakkal m_B a_I t_I aa_I k_I k_I a_I l_E
+mati m_B a_I t_I i_E
+matura m_B a_I t_I u_I r_I a_E
+maturai m_B a_I t_I u_I r_I ai_E
+mavaa m_B a_I v_I aa_E
+mayam m_B a_I y_I a_I m_E
+mayilaad'utur'ai m_B a_I y_I i_I l_I aa_I dx_I u_I t_I u_I rx_I ai_E
+mazh m_B a_I zh_E
+mazha m_B a_I zh_I a_E
+mazhai m_B a_I zh_I ai_E
+mazhaikkaalam m_B a_I zh_I ai_I k_I k_I aa_I l_I a_I m_E
+mazhaikkaalamaa m_B a_I zh_I ai_I k_I k_I aa_I l_I a_I m_I aa_E
+mazhaikkaalang~gal' m_B a_I zh_I ai_I k_I k_I aa_I l_I a_I ng_I g_I a_I lx_E
+mazhaipeyyum m_B a_I zh_I ai_I p_I e_I y_I y_I u_I m_E
+mazhaippozhivu m_B a_I zh_I ai_I p_I p_I o_I zh_I i_I v_I eu_E
+mazhaittuural m_B a_I zh_I ai_I t_I t_I uu_I r_I a_I l_E
+mazhaiyei m_B a_I zh_I ai_I y_I ee_E
+mazhaiyilai m_B a_I zh_I ai_I y_I i_I l_I ai_E
+mazhaiyillai m_B a_I zh_I ai_I y_I i_I ll_I ai_E
+mazhaiyin m_B a_I zh_I ai_I y_I i_I n_E
+mazhaiyinaal m_B a_I zh_I ai_I y_I i_I n_I aa_I l_E
+mazhaiyum m_B a_I zh_I ai_I y_I u_I m_E
+mazhavarutu m_B a_I zh_I a_I v_I a_I r_I u_I t_I eu_E
+meduvaappoo m_B e_I d_I u_I v_I aa_I p_I p_I oo_E
+mei m_B ee_E
+meid'am m_B ee_I dx_I a_I m_E
+meiga m_B ee_I g_I a_E
+meigakuut't'amaakavul'l'atu m_B ee_I g_I a_I k_I uu_I tx_I tx_I a_I m_I aa_I k_I a_I v_I u_I lx_I lx_I a_I t_I eu_E
+meigamut't'am m_B ee_I g_I a_I m_I u_I tx_I tx_I a_I m_E
+meigamut't'attud'an m_B ee_I g_I a_I m_I u_I tx_I tx_I a_I t_I t_I u_I dx_I a_I n_E
+meigamuut't'am m_B ee_I g_I a_I m_I uu_I tx_I tx_I a_I m_E
+meigamuut't'attud'an m_B ee_I g_I a_I m_I uu_I tx_I tx_I a_I t_I t_I u_I dx_I a_I n_E
+meika m_B ee_I k_I a_E
+meikam m_B ee_I k_I a_I m_E
+meikamum m_B ee_I k_I a_I m_I u_I m_E
+meikamuut't'am m_B ee_I k_I a_I m_I uu_I tx_I tx_I a_I m_E
+meikamuut't'amaa m_B ee_I k_I a_I m_I uu_I tx_I tx_I a_I m_I aa_E
+meikamuut't'amaaka m_B ee_I k_I a_I m_I uu_I tx_I tx_I a_I m_I aa_I k_I a_E
+meikamuut't'attut'an m_B ee_I k_I a_I m_I uu_I tx_I tx_I a_I t_I t_I u_I tx_I a_I n_E
+meil m_B ee_I l_E
+meilattarumpal'l'am m_B ee_I l_I a_I t_I t_I a_I r_I u_I m_I p_I a_I lx_I lx_I a_I m_E
+meipi m_B ee_I p_I i_E
+meit'am m_B ee_I tx_I a_I m_E
+mekniis m_B e_I k_I n_I ii_I s_E
+mella m_B e_I ll_I a_E
+merkkand~d'ail m_B e_I r_I k_I k_I a_I nx_I dx_I ai_I l_E
+merkkand~d'aiyil m_B e_I r_I k_I k_I a_I nx_I dx_I ai_I y_I i_I l_E
+met'ikals m_B e_I tx_I i_I k_I a_I l_I s_E
+met'raas m_B e_I tx_I r_I aa_I s_E
+met't'aachit' m_B e_I tx_I tx_I aa_I c_I i_I tx_E
+met't'aasit' m_B e_I tx_I tx_I aa_I s_I i_I tx_E
+met't'achit' m_B e_I tx_I tx_I a_I c_I i_I tx_E
+met't'ool m_B e_I tx_I tx_I oo_I l_E
+metuvaapaa m_B e_I t_I u_I v_I aa_I p_I aa_E
+meyin m_B e_I y_I i_I n_E
+meyinrood'u m_B e_I y_I i_I n_I r_I oo_I dx_I eu_E
+miit't'ar m_B ii_I tx_I tx_I a_I r_E
+miit't'aru m_B ii_I tx_I tx_I a_I r_I eu_E
+mikchat' m_B i_I k_I c_I a_I tx_E
+mil m_B i_I l_E
+mil'agaa m_B i_I lx_I a_I g_I aa_E
+mil'agaay m_B i_I lx_I a_I g_I aa_I y_E
+mil'agaayaa m_B i_I lx_I a_I g_I aa_I y_I aa_E
+mil'akaay m_B i_I lx_I a_I k_I aa_I y_E
+millai m_B i_I ll_I ai_E
+minnal m_B i_I n_I n_I a_I l_E
+minnalud'an m_B i_I n_I n_I a_I l_I u_I dx_I a_I n_E
+mit'aan m_B i_I tx_I aa_I n_E
+mitamaaga m_B i_I t_I a_I m_I aa_I g_I a_E
+mitamaan m_B i_I t_I a_I m_I aa_I n_E
+mitamaana m_B i_I t_I a_I m_I aa_I n_I a_E
+mitamaanavai m_B i_I t_I a_I m_I aa_I n_I a_I v_I ai_E
+mochchappayir'u m_B o_I c_I c_I a_I p_I p_I a_I y_I i_I rx_I eu_E
+mol'akaa m_B o_I lx_I a_I k_I aa_E
+mol'akaay m_B o_I lx_I a_I k_I aa_I y_E
+monookot't'appaas m_B o_I n_I oo_I k_I o_I tx_I tx_I a_I p_I p_I aa_I s_E
+monoopaas m_B o_I n_I oo_I p_I aa_I s_E
+moo m_B oo_E
+moolam m_B oo_I l_I a_I m_E
+moonapot't'a m_B oo_I n_I a_I p_I o_I tx_I tx_I a_E
+moonokuroot'aapaas m_B oo_I n_I o_I k_I u_I r_I oo_I tx_I aa_I p_I aa_I s_E
+moonookiroot't'ooppaas m_B oo_I n_I oo_I k_I i_I r_I oo_I tx_I tx_I oo_I p_I p_I aa_I s_E
+moonookoot'apas m_B oo_I n_I oo_I k_I oo_I tx_I a_I p_I a_I s_E
+moost'lii m_B oo_I s_I tx_I l_I ii_E
+motta m_B o_I t_I t_I a_E
+mu m_B eu_E
+mud'ippiing~ga m_B u_I dx_I i_I p_I p_I ii_I ng_I g_I a_E
+mul'l'ang~gi m_B u_I lx_I lx_I a_I ng_I g_I i_E
+mul'l'ang~ki m_B u_I lx_I lx_I a_I ng_I k_I i_E
+munnaat'i m_B u_I n_I n_I aa_I tx_I i_E
+munnu m_B u_I n_I n_I eu_E
+munnuutti m_B u_I n_I n_I uu_I t_I t_I i_E
+munr'u m_B u_I n_I rx_I eu_E
+mun~tiri m_B u_I n_I t_I i_I r_I i_E
+mup m_B u_I p_E
+mupatti m_B u_I p_I a_I t_I t_I i_E
+mupatu m_B u_I p_I a_I t_I eu_E
+muppattaar'u m_B u_I p_I p_I a_I t_I t_I aa_I rx_I eu_E
+muppattaaru m_B u_I p_I p_I a_I t_I t_I aa_I r_I eu_E
+muppatteizhu m_B u_I p_I p_I a_I t_I t_I ee_I zh_I eu_E
+muppattet't'u m_B u_I p_I p_I a_I t_I t_I e_I tx_I tx_I eu_E
+muppatti m_B u_I p_I p_I a_I t_I t_I i_E
+muppattiaar'u m_B u_I p_I p_I a_I t_I t_I i_I aa_I rx_I eu_E
+muppattiaaru m_B u_I p_I p_I a_I t_I t_I i_I aa_I r_I eu_E
+muppattieizhu m_B u_I p_I p_I a_I t_I t_I i_I ee_I zh_I eu_E
+muppattimuunu m_B u_I p_I p_I a_I t_I t_I i_I m_I uu_I n_I eu_E
+muppattin~aalu m_B u_I p_I p_I a_I t_I t_I i_I n_I aa_I l_I eu_E
+muppattiyaar'u m_B u_I p_I p_I a_I t_I t_I i_I y_I aa_I rx_I eu_E
+muppattiyeizhu m_B u_I p_I p_I a_I t_I t_I i_I y_I ee_I zh_I eu_E
+muppattozhu m_B u_I p_I p_I a_I t_I t_I o_I zh_I eu_E
+muppattu m_B u_I p_I p_I a_I t_I t_I eu_E
+muppatu m_B u_I p_I p_I a_I t_I eu_E
+mur'iyala m_B u_I rx_I i_I y_I a_I l_I a_E
+muraiyit'u m_B u_I r_I ai_I y_I i_I tx_I eu_E
+murchikkoos m_B u_I r_I c_I i_I k_I k_I oo_I s_E
+murung~gaikkaay m_B u_I r_I u_I ng_I g_I ai_I k_I k_I aa_I y_E
+murung~kaikaay m_B u_I r_I u_I ng_I k_I ai_I k_I aa_I y_E
+murung~kaikkaay m_B u_I r_I u_I ng_I k_I ai_I k_I k_I aa_I y_E
+murung~kakkaay m_B u_I r_I u_I ng_I k_I a_I k_I k_I aa_I y_E
+musppatti m_B u_I s_I p_I p_I a_I t_I t_I i_E
+mut'inchipaa m_B u_I tx_I i_I n_I c_I i_I p_I aa_E
+mut'iyaatu m_B u_I tx_I i_I y_I aa_I t_I eu_E
+mut't'ai m_B u_I tx_I tx_I ai_E
+mut't'aikkoos m_B u_I tx_I tx_I ai_I k_I k_I oo_I s_E
+mut't'aikoos m_B u_I tx_I tx_I ai_I k_I oo_I s_E
+mut't'ukkot't'ai m_B u_I tx_I tx_I u_I k_I k_I o_I tx_I tx_I ai_E
+mutalaana m_B u_I t_I a_I l_I aa_I n_I a_E
+muttu m_B u_I t_I t_I eu_E
+muttukkot't'ai m_B u_I t_I t_I u_I k_I k_I o_I tx_I tx_I ai_E
+muttuna m_B u_I t_I t_I u_I n_I a_E
+muttute m_B u_I t_I t_I u_I t_I e_E
+muttuur m_B u_I t_I t_I uu_I r_E
+muukutti m_B uu_I k_I u_I t_I t_I i_E
+muulam m_B uu_I l_I a_I m_E
+muulamaa m_B uu_I l_I a_I m_I aa_E
+muulamaaga m_B uu_I l_I a_I m_I aa_I g_I a_E
+muulamaagavan~tu m_B uu_I l_I a_I m_I aa_I g_I a_I v_I a_I n_I t_I eu_E
+muulamaaka m_B uu_I l_I a_I m_I aa_I k_I a_E
+muulikai m_B uu_I l_I i_I k_I ai_E
+muunnu m_B uu_I n_I n_I eu_E
+muunr'u m_B uu_I n_I rx_I eu_E
+muunu m_B uu_I n_I eu_E
+muunuu m_B uu_I n_I u_I eu_E
+muut't'am m_B uu_I tx_I tx_I a_I m_E
+muut't'amaa m_B uu_I tx_I tx_I a_I m_I aa_E
+muut't'amaayirukkutu m_B uu_I tx_I tx_I a_I m_I aa_I y_I i_I r_I u_I k_I k_I u_I t_I eu_E
+muut't'attut'an m_B uu_I tx_I tx_I a_I t_I t_I u_I tx_I a_I n_E
+muzhu m_B u_I zh_I eu_E
+muzhuparuppu m_B u_I zh_I u_I p_I a_I r_I u_I p_I p_I eu_E
+muzhupparuppu m_B u_I zh_I u_I p_I p_I a_I r_I u_I p_I p_I eu_E
+na n_B a_E
+naa n_B aa_E
+naala n_B aa_I l_I a_E
+nai n_B ai_E
+nalend~nd~ai n_B a_I l_I e_I nx_I nx_I ai_E
+nat'uvoom n_B a_I tx_I u_I v_I oo_I m_E
+nd~nd~aa nx_B nx_I aa_E
+nd~r'u nx_B rx_I eu_E
+ne n_B e_E
+nell n_B e_I ll_E
+nem n_B e_I m_E
+nj~aapagam nj_B aa_I p_I a_I g_I a_I m_E
+nu n_B eu_E
+nuukkal n_B uu_I k_I k_I a_I l_E
+nuutti n_B uu_I t_I t_I i_E
+n~a n_B a_E
+n~aa n_B aa_E
+n~aad'u n_B aa_I dx_I eu_E
+n~aagai n_B aa_I g_I ai_E
+n~aagappat't'inam n_B aa_I g_I a_I p_I p_I a_I tx_I tx_I i_I n_I a_I m_E
+n~aagarkoovil n_B aa_I g_I a_I r_I k_I oo_I v_I i_I l_E
+n~aaka n_B aa_I k_I a_E
+n~aakai n_B aa_I k_I ai_E
+n~aakappat't'inam n_B aa_I k_I a_I p_I p_I a_I tx_I tx_I i_I n_I a_I m_E
+n~aakar n_B aa_I k_I a_I r_E
+n~aakarkoovil n_B aa_I k_I a_I r_I k_I oo_I v_I i_I l_E
+n~aakarkooyil n_B aa_I k_I a_I r_I k_I oo_I y_I i_I l_E
+n~aakri n_B aa_I k_I r_I i_E
+n~aakuur n_B aa_I k_I uu_I r_E
+n~aal' n_B aa_I lx_E
+n~aal'aikku n_B aa_I lx_I ai_I k_I k_I eu_E
+n~aalarai n_B aa_I l_I a_I r_I ai_E
+n~aalu n_B aa_I l_I eu_E
+n~aalumaa n_B aa_I l_I u_I m_I aa_E
+n~aam n_B aa_I m_E
+n~aama n_B aa_I m_I a_E
+n~aamakkal n_B aa_I m_I a_I k_I k_I a_I l_E
+n~aamini n_B aa_I m_I i_I n_I i_E
+n~aamulutu n_B aa_I m_I u_I l_I u_I t_I eu_E
+n~aan n_B aa_I n_E
+n~aangu n_B aa_I ng_I eu_E
+n~aang~ga n_B aa_I ng_I g_I a_E
+n~aang~guri n_B aa_I ng_I g_I u_I r_I i_E
+n~aang~ku n_B aa_I ng_I k_I eu_E
+n~aanku n_B aa_I n_I k_I eu_E
+n~aanng~ku n_B aa_I n_I ng_I k_I eu_E
+n~aano n_B aa_I n_I o_E
+n~aanuutti n_B aa_I n_I uu_I t_I t_I i_E
+n~aanuuttionnu n_B aa_I n_I uu_I t_I t_I i_I o_I n_I n_I eu_E
+n~aappattanj~chu n_B aa_I p_I p_I a_I t_I t_I a_I nj_I c_I eu_E
+n~aappatti n_B aa_I p_I p_I a_I t_I t_I i_E
+n~aappattimuunu n_B aa_I p_I p_I a_I t_I t_I i_I m_I uu_I n_I eu_E
+n~aappattirand~t'u n_B aa_I p_I p_I a_I t_I t_I i_I r_I a_I nx_I tx_I eu_E
+n~aappattirend~t'u n_B aa_I p_I p_I a_I t_I t_I i_I r_I e_I nx_I tx_I eu_E
+n~aappattiyonpatu n_B aa_I p_I p_I a_I t_I t_I i_I y_I o_I n_I p_I a_I t_I eu_E
+n~aappatu n_B aa_I p_I p_I a_I t_I eu_E
+n~aapppatti n_B aa_I p_I p_I p_I a_I t_I t_I i_E
+n~aar n_B aa_I r_E
+n~aar'patti n_B aa_I rx_I p_I a_I t_I t_I i_E
+n~aar'patu n_B aa_I rx_I p_I a_I t_I eu_E
+n~aar'ppatti n_B aa_I rx_I p_I p_I a_I t_I t_I i_E
+n~aar'r'u n_B aa_I rx_I rx_I eu_E
+n~aarmalaa n_B aa_I r_I m_I a_I l_I aa_E
+n~aat't'u n_B aa_I tx_I tx_I eu_E
+n~aat't'uchool'am n_B aa_I tx_I tx_I u_I c_I oo_I lx_I a_I m_E
+n~aattu n_B aa_I t_I t_I eu_E
+n~aayan n_B aa_I y_I a_I n_E
+n~ad'ittal n_B a_I dx_I i_I t_I t_I a_I l_E
+n~ad'u n_B a_I dx_I eu_E
+n~ad'un~attam n_B a_I dx_I u_I n_I a_I t_I t_I a_I m_E
+n~ad'uttaram n_B a_I dx_I u_I t_I t_I a_I r_I a_I m_E
+n~agar n_B a_I g_I a_I r_E
+n~ain n_B ai_I n_E
+n~akar n_B a_I k_I a_I r_E
+n~al n_B a_I l_E
+n~alang~kut'i n_B a_I l_I a_I ng_I k_I u_I tx_I i_E
+n~alapula n_B a_I l_I a_I p_I u_I l_I a_E
+n~alla n_B a_I ll_I a_E
+n~allaa n_B a_I ll_I aa_E
+n~allaend~nd~ey n_B a_I ll_I a_I e_I nx_I nx_I e_I y_E
+n~allaen~nd~ai n_B a_I ll_I a_I e_I n_I nx_I ai_E
+n~allai n_B a_I ll_I ai_E
+n~allap n_B a_I ll_I a_I p_E
+n~allatu n_B a_I ll_I a_I t_I eu_E
+n~allend~nd~ay n_B a_I ll_I e_I nx_I nx_I a_I y_E
+n~allend~nd~ey n_B a_I ll_I e_I nx_I nx_I e_I y_E
+n~am n_B a_I m_E
+n~ambar n_B a_I m_I b_I a_I r_E
+n~ambara n_B a_I m_I b_I a_I r_I a_E
+n~ampalaala n_B a_I m_I p_I a_I l_I aa_I l_I a_E
+n~ampalei n_B a_I m_I p_I a_I l_I ee_E
+n~ampar n_B a_I m_I p_I a_I r_E
+n~amparraa n_B a_I m_I p_I a_I r_I r_I aa_E
+n~ampartaana n_B a_I m_I p_I a_I r_I t_I aa_I n_I a_E
+n~amparu n_B a_I m_I p_I a_I r_I eu_E
+n~ampatti n_B a_I m_I p_I a_I t_I t_I i_E
+n~ang~gai n_B a_I ng_I g_I ai_E
+n~ang~kan~alluur n_B a_I ng_I k_I a_I n_I a_I ll_I uu_I r_E
+n~anj~chai n_B a_I nj_I c_I ai_E
+n~annar'r'a n_B a_I n_I n_I a_I rx_I rx_I a_E
+n~ar'r'u n_B a_I rx_I rx_I eu_E
+n~at'akkutu n_B a_I tx_I a_I k_I k_I u_I t_I eu_E
+n~at'pu n_B a_I tx_I p_I eu_E
+n~at'rukkoo n_B a_I tx_I r_I u_I k_I k_I oo_E
+n~at't'am n_B a_I tx_I tx_I a_I m_E
+n~at'uttaram n_B a_I tx_I u_I t_I t_I a_I r_I a_I m_E
+n~at'uvoom n_B a_I tx_I u_I v_I oo_I m_E
+n~ayan n_B a_I y_I a_I n_E
+n~ayant'i n_B a_I y_I a_I n_I tx_I i_E
+n~ayin n_B a_I y_I i_I n_E
+n~e n_B e_E
+n~eir n_B ee_I r_E
+n~eirad'ikkol'mutal n_B ee_I r_I a_I dx_I i_I k_I k_I o_I lx_I m_I u_I t_I a_I l_E
+n~eirad'iyaaga n_B ee_I r_I a_I dx_I i_I y_I aa_I g_I a_E
+n~eiram n_B ee_I r_I a_I m_E
+n~eirang~gal'ai n_B ee_I r_I a_I ng_I g_I a_I lx_I ai_E
+n~eirat'i n_B ee_I r_I a_I tx_I i_E
+n~eiy n_B ee_I y_E
+n~eiyu n_B ee_I y_I eu_E
+n~ekst' n_B e_I k_I s_I tx_E
+n~el n_B e_I l_E
+n~elakkad'alai n_B e_I l_I a_I k_I k_I a_I dx_I a_I l_I ai_E
+n~elikkaay n_B e_I l_I i_I k_I k_I aa_I y_E
+n~ella n_B e_I ll_I a_E
+n~ellai n_B e_I ll_I ai_E
+n~ellakolai n_B e_I ll_I a_I k_I o_I l_I ai_E
+n~elli n_B e_I ll_I i_E
+n~ellikkaay n_B e_I ll_I i_I k_I k_I aa_I y_E
+n~ellu n_B e_I ll_I eu_E
+n~ellumaa n_B e_I ll_I u_I m_I aa_E
+n~ellung~ga n_B e_I ll_I u_I ng_I g_I a_E
+n~elluppoot't'u n_B e_I ll_I u_I p_I p_I oo_I tx_I tx_I eu_E
+n~ellutaa n_B e_I ll_I u_I t_I aa_E
+n~elluur n_B e_I ll_I uu_I r_E
+n~elppayir n_B e_I l_I p_I p_I a_I y_I i_I r_E
+n~embar n_B e_I m_I b_I a_I r_E
+n~embartaa n_B e_I m_I b_I a_I r_I t_I aa_E
+n~er n_B e_I r_E
+n~er'payir'u n_B e_I rx_I p_I a_I y_I i_I rx_I eu_E
+n~erayaa n_B e_I r_I a_I y_I aa_E
+n~ey n_B e_I y_E
+n~i n_B i_E
+n~ii n_B ii_E
+n~iila n_B ii_I l_I a_E
+n~iilaa n_B ii_I l_I aa_E
+n~iilagiri n_B ii_I l_I a_I g_I i_I r_I i_E
+n~iilakiri n_B ii_I l_I a_I k_I i_I r_I i_E
+n~iilam n_B ii_I l_I a_I m_E
+n~iilamaampazham n_B ii_I l_I a_I m_I aa_I m_I p_I a_I zh_I a_I m_E
+n~iilammaampazham n_B ii_I l_I a_I m_I m_I aa_I m_I p_I a_I zh_I a_I m_E
+n~iing~ga n_B ii_I ng_I g_I a_E
+n~iir n_B ii_I r_E
+n~iirinaal n_B ii_I r_I i_I n_I aa_I l_E
+n~iiyaa n_B ii_I y_I aa_E
+n~il n_B i_I l_E
+n~ilai n_B i_I l_I ai_E
+n~ilaiyam n_B i_I l_I ai_I y_I a_I m_E
+n~ilaiyattil n_B i_I l_I ai_I y_I a_I t_I t_I i_I l_E
+n~ilaiyattila n_B i_I l_I ai_I y_I a_I t_I t_I i_I l_I a_E
+n~ilak n_B i_I l_I a_I k_E
+n~ilakkad'ala n_B i_I l_I a_I k_I k_I a_I dx_I a_I l_I a_E
+n~ilakkad'alai n_B i_I l_I a_I k_I k_I a_I dx_I a_I l_I ai_E
+n~ilakkad'alaivitai n_B i_I l_I a_I k_I k_I a_I dx_I a_I l_I ai_I v_I i_I t_I ai_E
+n~ilakkat'ai n_B i_I l_I a_I k_I k_I a_I tx_I ai_E
+n~ilakkat'alai n_B i_I l_I a_I k_I k_I a_I tx_I a_I l_I ai_E
+n~ilakkat'alaitaan n_B i_I l_I a_I k_I k_I a_I tx_I a_I l_I ai_I t_I aa_I n_E
+n~ilang~kal' n_B i_I l_I a_I ng_I k_I a_I lx_E
+n~ilattukkiizh n_B i_I l_I a_I t_I t_I u_I k_I k_I ii_I zh_E
+n~ilayam n_B i_I l_I a_I y_I a_I m_E
+n~ir'a n_B i_I rx_I a_E
+n~ir'am n_B i_I rx_I a_I m_E
+n~ir'attula n_B i_I rx_I a_I t_I t_I u_I l_I a_E
+n~ir'uttit't'ukud'u n_B i_I rx_I u_I t_I t_I i_I tx_I tx_I u_I k_I u_I dx_I eu_E
+n~ir'uvanang~kal' n_B i_I rx_I u_I v_I a_I n_I a_I ng_I k_I a_I lx_E
+n~ir'uvanattil n_B i_I rx_I u_I v_I a_I n_I a_I t_I t_I i_I l_E
+n~iyuus n_B i_I y_I uu_I s_E
+n~oo n_B oo_E
+n~ooy n_B oo_I y_E
+n~ooyaal n_B oo_I y_I aa_I l_E
+n~ooyaala n_B oo_I y_I aa_I l_I a_E
+n~ooyinaal n_B oo_I y_I i_I n_I aa_I l_E
+n~ooykal' n_B oo_I y_I k_I a_I lx_E
+n~ooykal'aal n_B oo_I y_I k_I a_I lx_I aa_I l_E
+n~ooylaam n_B oo_I y_I l_I aa_I m_E
+n~ooyyattu n_B oo_I y_I y_I a_I t_I t_I eu_E
+n~u n_B eu_E
+n~ukarporul' n_B u_I k_I a_I r_I p_I o_I r_I u_I lx_E
+n~ukarvoor n_B u_I k_I a_I r_I v_I oo_I r_E
+n~und~nd~uut't'a n_B u_I nx_I nx_I uu_I tx_I tx_I a_E
+n~up n_B u_I p_E
+n~uppatteizhu n_B u_I p_I p_I a_I t_I t_I ee_I zh_I eu_E
+n~uppatti n_B u_I p_I p_I a_I t_I t_I i_E
+n~uppatu n_B u_I p_I p_I a_I t_I eu_E
+n~uptiet' n_B u_I p_I t_I i_I e_I tx_E
+n~uukkal n_B uu_I k_I k_I a_I l_E
+n~uukkal' n_B uu_I k_I k_I a_I lx_E
+n~uukkool n_B uu_I k_I k_I oo_I l_E
+n~uul n_B uu_I l_E
+n~uur'r'i n_B uu_I rx_I rx_I i_E
+n~uur'u n_B uu_I rx_I eu_E
+n~uutti n_B uu_I t_I t_I i_E
+n~uuttiyaaru n_B uu_I t_I t_I i_I y_I aa_I r_I eu_E
+n~uuttu n_B uu_I t_I t_I eu_E
+o o_S
+od'ambu o_B dx_I a_I m_I b_I eu_E
+od'ital o_B dx_I i_I t_I a_I l_E
+okei o_B k_I ee_E
+okeikak o_B k_I ee_I k_I a_I k_E
+okkei o_B k_I k_I ee_E
+okkuchchuur o_B k_I k_I u_I c_I c_I uu_I r_E
+ompatu o_B m_I p_I a_I t_I eu_E
+ompootu o_B m_I p_I oo_I t_I eu_E
+on o_B n_E
+ond~nd~u o_B nx_I nx_I eu_E
+onli o_B n_I l_I i_E
+onnarai o_B n_I n_I a_I r_I ai_E
+onnu o_B n_I n_I eu_E
+onnulla o_B n_I n_I u_I ll_I a_E
+onnum o_B n_I n_I u_I m_E
+onnumilla o_B n_I n_I u_I m_I i_I ll_I a_E
+onpatu o_B n_I p_I a_I t_I eu_E
+onpoot'u o_B n_I p_I oo_I tx_I eu_E
+onpootu o_B n_I p_I oo_I t_I eu_E
+onr'ai o_B n_I rx_I ai_E
+onr'ar'ai o_B n_I rx_I a_I rx_I ai_E
+onr'arai o_B n_I rx_I a_I r_I ai_E
+onr'u o_B n_I rx_I eu_E
+onr'um o_B n_I rx_I u_I m_E
+onr'umillai o_B n_I rx_I u_I m_I i_I ll_I ai_E
+onu o_B n_I eu_E
+oo oo_S
+ooppang~kot't'ai oo_B p_I p_I a_I ng_I k_I o_I tx_I tx_I ai_E
+oot't'am oo_B tx_I tx_I a_I m_E
+oot't'ukku oo_B tx_I tx_I u_I k_I k_I eu_E
+oot't'uveing~ga oo_B tx_I tx_I u_I v_I ee_I ng_I g_I a_E
+oovar oo_B v_I a_I r_E
+oovarchiis oo_B v_I a_I r_I c_I ii_I s_E
+oram o_B r_I a_I m_E
+oru o_B r_I eu_E
+oruttan o_B r_I u_I t_I t_I a_I n_E
+ot'it't'u o_B tx_I i_I tx_I tx_I eu_E
+ozhung~kumur'ai o_B zh_I u_I ng_I k_I u_I m_I u_I rx_I ai_E
+p p_S
+pa p_B a_E
+paa p_B aa_E
+paacha p_B aa_I c_I a_E
+paachar p_B aa_I c_I a_I r_E
+paachi p_B aa_I c_I i_E
+paachiparuppu p_B aa_I c_I i_I p_I a_I r_I u_I p_I p_I eu_E
+paachipayir p_B aa_I c_I i_I p_I a_I y_I i_I r_E
+paachipayir'u p_B aa_I c_I i_I p_I a_I y_I i_I rx_I eu_E
+paachippayar'u p_B aa_I c_I i_I p_I p_I a_I y_I a_I rx_I eu_E
+paachippu p_B aa_I c_I i_I p_I p_I eu_E
+paachumati p_B aa_I c_I u_I m_I a_I t_I i_E
+paagakkaay p_B aa_I g_I a_I k_I k_I aa_I y_E
+paagar'kaay p_B aa_I g_I a_I rx_I k_I aa_I y_E
+paakakkaay p_B aa_I k_I a_I k_I k_I aa_I y_E
+paakar'kaay p_B aa_I k_I a_I rx_I k_I aa_I y_E
+paakar'kkaay p_B aa_I k_I a_I rx_I k_I k_I aa_I y_E
+paakchait' p_B aa_I k_I c_I ai_I tx_E
+paakkoot't'ai p_B aa_I k_I k_I oo_I tx_I tx_I ai_E
+paakku p_B aa_I k_I k_I eu_E
+paakkukot't'ai p_B aa_I k_I k_I u_I k_I o_I tx_I tx_I ai_E
+paakkumat't'ai p_B aa_I k_I k_I u_I m_I a_I tx_I tx_I ai_E
+paakupat'la p_B aa_I k_I u_I p_I a_I tx_I l_I a_E
+paal p_B aa_I l_E
+paalam p_B aa_I l_I a_I m_E
+paalit'aayil p_B aa_I l_I i_I tx_I aa_I y_I i_I l_E
+paalt'aayil p_B aa_I l_I tx_I aa_I y_I i_I l_E
+paang~k p_B aa_I ng_I k_E
+paapat'la p_B aa_I p_I a_I tx_I l_I a_E
+paappan~aacham p_B aa_I p_I p_I a_I n_I aa_I c_I a_I m_E
+paappoom p_B aa_I p_I p_I oo_I m_E
+paar p_B aa_I r_E
+paaratipuram p_B aa_I r_I a_I t_I i_I p_I u_I r_I a_I m_E
+paarkalaam p_B aa_I r_I k_I a_I l_I aa_I m_E
+paarlapot't'i p_B aa_I r_I l_I a_I p_I o_I tx_I tx_I i_E
+paarpaaru p_B aa_I r_I p_I aa_I r_I eu_E
+paaru p_B aa_I r_I eu_E
+paarung~ka p_B aa_I r_I u_I ng_I k_I a_E
+paas p_B aa_I s_E
+paaskaran p_B aa_I s_I k_I a_I r_I a_I n_E
+paaspaas p_B aa_I s_I p_I aa_I s_E
+paaspait' p_B aa_I s_I p_I ai_I tx_E
+paasparas p_B aa_I s_I p_I a_I r_I a_I s_E
+paaspeid'u p_B aa_I s_I p_I ee_I dx_I eu_E
+paaspiret' p_B aa_I s_I p_I i_I r_I e_I tx_E
+paaspoot' p_B aa_I s_I p_I oo_I tx_E
+paat'i p_B aa_I tx_I i_E
+paat't'i p_B aa_I tx_I tx_I i_E
+paat't'ichavan p_B aa_I tx_I tx_I i_I c_I a_I v_I a_I n_E
+paati p_B aa_I t_I i_E
+paatichchurutu p_B aa_I t_I i_I c_I c_I u_I r_I u_I t_I eu_E
+paatikkaavillai p_B aa_I t_I i_I k_I k_I aa_I v_I i_I ll_I ai_E
+paatikkappad'ukir'atu p_B aa_I t_I i_I k_I k_I a_I p_I p_I a_I dx_I u_I k_I i_I rx_I a_I t_I eu_E
+paatikkappat't'atu p_B aa_I t_I i_I k_I k_I a_I p_I p_I a_I tx_I tx_I a_I t_I eu_E
+paatikkappat't'irukku p_B aa_I t_I i_I k_I k_I a_I p_I p_I a_I tx_I tx_I i_I r_I u_I k_I k_I eu_E
+paatikkappat't'ul'l'aarkal' p_B aa_I t_I i_I k_I k_I a_I p_I p_I a_I tx_I tx_I u_I lx_I lx_I aa_I r_I k_I a_I lx_E
+paatikkappat't'ul'l'an p_B aa_I t_I i_I k_I k_I a_I p_I p_I a_I tx_I tx_I u_I lx_I lx_I a_I n_E
+paatikkappat't'ul'l'atu p_B aa_I t_I i_I k_I k_I a_I p_I p_I a_I tx_I tx_I u_I lx_I lx_I a_I t_I eu_E
+paatikkappat't'urukkku p_B aa_I t_I i_I k_I k_I a_I p_I p_I a_I tx_I tx_I u_I r_I u_I k_I k_I k_I eu_E
+paatikkappat'ukinr'ana p_B aa_I t_I i_I k_I k_I a_I p_I p_I a_I tx_I u_I k_I i_I n_I rx_I a_I n_I a_E
+paatikkappat'uraang~ka p_B aa_I t_I i_I k_I k_I a_I p_I p_I a_I tx_I u_I r_I aa_I ng_I k_I a_E
+paatip p_B aa_I t_I i_I p_E
+paatippellaa p_B aa_I t_I i_I p_I p_I e_I ll_I aa_E
+paatippillai p_B aa_I t_I i_I p_I p_I i_I ll_I ai_E
+paatippu p_B aa_I t_I i_I p_I p_I eu_E
+paattu p_B aa_I t_I t_I eu_E
+paavakkaa p_B aa_I v_I a_I k_I k_I aa_E
+paavakkaay p_B aa_I v_I a_I k_I k_I aa_I y_E
+paavakkula p_B aa_I v_I a_I k_I k_I u_I l_I a_E
+paavar'r'a p_B aa_I v_I a_I rx_I rx_I a_E
+paavat'la p_B aa_I v_I a_I tx_I l_I a_E
+paayint'u p_B aa_I y_I i_I n_I tx_I eu_E
+pachcha p_B a_I c_I c_I a_E
+pachchai p_B a_I c_I c_I ai_E
+pachchaimil'agaay p_B a_I c_I c_I ai_I m_I i_I lx_I a_I g_I aa_I y_E
+pachchaip p_B a_I c_I c_I ai_I p_E
+pachchaipayir p_B a_I c_I c_I ai_I p_I a_I y_I i_I r_E
+pachchaipayir'u p_B a_I c_I c_I ai_I p_I a_I y_I i_I rx_I eu_E
+pachchaippayir'u p_B a_I c_I c_I ai_I p_I p_I a_I y_I i_I rx_I eu_E
+pachchamil'agaay p_B a_I c_I c_I a_I m_I i_I lx_I a_I g_I aa_I y_E
+pachchapayir'u p_B a_I c_I c_I a_I p_I a_I y_I i_I rx_I eu_E
+pachchappayir p_B a_I c_I c_I a_I p_I p_I a_I y_I i_I r_E
+pachchappayir'u p_B a_I c_I c_I a_I p_I p_I a_I y_I i_I rx_I eu_E
+pachchaveng~gaayam p_B a_I c_I c_I a_I v_I e_I ng_I g_I aa_I y_I a_I m_E
+pad'i p_B a_I dx_I i_E
+pad'ikkar'atukku p_B a_I dx_I i_I k_I k_I a_I rx_I a_I t_I u_I k_I k_I eu_E
+pad'ivatti p_B a_I dx_I i_I v_I a_I t_I t_I i_E
+pai p_B ai_E
+paichakuzham p_B ai_I c_I a_I k_I u_I zh_I a_I m_E
+pain p_B ai_I n_E
+pair'u p_B ai_I rx_I eu_E
+paiv p_B ai_I v_E
+paiyuur p_B ai_I y_I uu_I r_E
+pajaar p_B a_I j_I aa_I r_E
+pakkattula p_B a_I k_I k_I a_I t_I t_I u_I l_I a_E
+pakku p_B a_I k_I k_I eu_E
+pal'akka p_B a_I lx_I a_I k_I k_I a_E
+pal'am p_B a_I lx_I a_I m_E
+pal'l'i p_B a_I lx_I lx_I i_E
+pal'l'ipaal'ayam p_B a_I lx_I lx_I i_I p_I aa_I lx_I a_I y_I a_I m_E
+pala p_B a_I l_I a_E
+palaap p_B a_I l_I aa_I p_E
+palaappalam p_B a_I l_I aa_I p_I p_I a_I l_I a_I m_E
+palaappazham p_B a_I l_I aa_I p_I p_I a_I zh_I a_I m_E
+palam p_B a_I l_I a_I m_E
+palan~ooykal' p_B a_I l_I a_I n_I oo_I y_I k_I a_I lx_E
+palavakai p_B a_I l_I a_I v_I a_I k_I ai_E
+pallaat'i p_B a_I ll_I aa_I tx_I i_E
+palt'aayil p_B a_I l_I tx_I aa_I y_I i_I l_E
+palutta p_B a_I l_I u_I t_I t_I a_E
+panand~t'u p_B a_I n_I a_I nx_I tx_I eu_E
+pand~d'a p_B a_I nx_I dx_I a_E
+pand~i p_B a_I nx_I i_E
+pand~ivitai p_B a_I nx_I i_I v_I i_I t_I ai_E
+pand~nd~end~d'u p_B a_I nx_I nx_I e_I nx_I dx_I eu_E
+pand~nd~eyyilataa p_B a_I nx_I nx_I e_I y_I y_I i_I l_I a_I t_I aa_E
+pand~nd~iyaa p_B a_I nx_I nx_I i_I y_I aa_E
+pand~nd~u p_B a_I nx_I nx_I eu_E
+pand~nd~uvoom p_B a_I nx_I nx_I u_I v_I oo_I m_E
+pand~pai p_B a_I nx_I p_I ai_E
+pand~r'oom p_B a_I nx_I rx_I oo_I m_E
+pang~gaali p_B a_I ng_I g_I aa_I l_I i_E
+pang~gu p_B a_I ng_I g_I eu_E
+pani p_B a_I n_I i_E
+panikkaalam p_B a_I n_I i_I k_I k_I aa_I l_I a_I m_E
+panirend~ p_B a_I n_I i_I r_I e_I nx_E
+panirend~d'u p_B a_I n_I i_I r_I e_I nx_I dx_I eu_E
+panj~chakaaviyaa p_B a_I nj_I c_I a_I k_I aa_I v_I i_I y_I aa_E
+panj~chakavya p_B a_I nj_I c_I a_I k_I a_I v_I y_I a_E
+pannaa p_B a_I n_I n_I aa_E
+pannanaa p_B a_I n_I n_I a_I n_I aa_E
+pannand~d'u p_B a_I n_I n_I a_I nx_I dx_I eu_E
+pannand~t'u p_B a_I n_I n_I a_I nx_I tx_I eu_E
+pannend~d'u p_B a_I n_I n_I e_I nx_I dx_I eu_E
+pannend~t'u p_B a_I n_I n_I e_I nx_I tx_I eu_E
+panni p_B a_I n_I n_I i_E
+pannirand~t'u p_B a_I n_I n_I i_I r_I a_I nx_I tx_I eu_E
+pannirend~d'u p_B a_I n_I n_I i_I r_I e_I nx_I dx_I eu_E
+pannit't'urukkein p_B a_I n_I n_I i_I tx_I tx_I u_I r_I u_I k_I k_I ee_I n_E
+pannu p_B a_I n_I n_I eu_E
+panr'ang~kaa p_B a_I n_I rx_I a_I ng_I k_I aa_E
+panr'ikkaachchal p_B a_I n_I rx_I i_I k_I k_I aa_I c_I c_I a_I l_E
+panr'ikkaaychchal p_B a_I n_I rx_I i_I k_I k_I aa_I y_I c_I c_I a_I l_E
+panr'oom p_B a_I n_I rx_I oo_I m_E
+pappaal'i p_B a_I p_I p_I aa_I lx_I i_E
+pappaal'ipalam p_B a_I p_I p_I aa_I lx_I i_I p_I a_I l_I a_I m_E
+pappaal'ipazham p_B a_I p_I p_I aa_I lx_I i_I p_I a_I zh_I a_I m_E
+pappaal'ippalam p_B a_I p_I p_I aa_I lx_I i_I p_I p_I a_I l_I a_I m_E
+pappaal'ippazham p_B a_I p_I p_I aa_I lx_I i_I p_I p_I a_I zh_I a_I m_E
+pappat'el p_B a_I p_I p_I a_I tx_I e_I l_E
+par'ittakambu p_B a_I rx_I i_I t_I t_I a_I k_I a_I m_I b_I eu_E
+par'r'iya p_B a_I rx_I rx_I i_I y_I a_E
+parang~kikkaa p_B a_I r_I a_I ng_I k_I i_I k_I k_I aa_E
+paru p_B a_I r_I eu_E
+paruppu p_B a_I r_I u_I p_I p_I eu_E
+parutti p_B a_I r_I u_I t_I t_I i_E
+paruttikkot't'ai p_B a_I r_I u_I t_I t_I i_I k_I k_I o_I tx_I tx_I ai_E
+paruttikot't'ai p_B a_I r_I u_I t_I t_I i_I k_I o_I tx_I tx_I ai_E
+paruvamazhai p_B a_I r_I u_I v_I a_I m_I a_I zh_I ai_E
+pas p_B a_I s_E
+paschu p_B a_I s_I c_I eu_E
+past't'u p_B a_I s_I tx_I tx_I eu_E
+pat'akutur'ai p_B a_I tx_I a_I k_I u_I t_I u_I rx_I ai_E
+pat'ivattil p_B a_I tx_I i_I v_I a_I t_I t_I i_I l_E
+pat't'aachu p_B a_I tx_I tx_I aa_I c_I eu_E
+pat't'ai p_B a_I tx_I tx_I ai_E
+pat't'aipuuchchi p_B a_I tx_I tx_I ai_I p_I uu_I c_I c_I i_E
+pat't'am p_B a_I tx_I tx_I a_I m_E
+pat't'uppuuchchi p_B a_I tx_I tx_I u_I p_I p_I uu_I c_I c_I i_E
+pat't'uppuuchchiyaal p_B a_I tx_I tx_I u_I p_I p_I uu_I c_I c_I i_I y_I aa_I l_E
+pat'uttuvatu p_B a_I tx_I u_I t_I t_I u_I v_I a_I t_I eu_E
+pat'uvankut'i p_B a_I tx_I u_I v_I a_I n_I k_I u_I tx_I i_E
+pata p_B a_I t_I a_E
+patan p_B a_I t_I a_I n_E
+patanaar'u p_B a_I t_I a_I n_I aa_I rx_I eu_E
+pataneizhu p_B a_I t_I a_I n_I ee_I zh_I eu_E
+pataneizhukku p_B a_I t_I a_I n_I ee_I zh_I u_I k_I k_I eu_E
+patanet't'u p_B a_I t_I a_I n_I e_I tx_I tx_I eu_E
+patanonnu p_B a_I t_I a_I n_I o_I n_I n_I eu_E
+pati p_B a_I t_I i_E
+patimuunu p_B a_I t_I i_I m_I uu_I n_I eu_E
+patin p_B a_I t_I i_I n_E
+patinaanj~chu p_B a_I t_I i_I n_I aa_I nj_I c_I eu_E
+patinaar'u p_B a_I t_I i_I n_I aa_I rx_I eu_E
+patinain~tu p_B a_I t_I i_I n_I ai_I n_I t_I eu_E
+patinanj~chchu p_B a_I t_I i_I n_I a_I nj_I c_I c_I eu_E
+patinanj~chi p_B a_I t_I i_I n_I a_I nj_I c_I i_E
+patineizhu p_B a_I t_I i_I n_I ee_I zh_I eu_E
+patinet't'u p_B a_I t_I i_I n_I e_I tx_I tx_I eu_E
+patinonnu p_B a_I t_I i_I n_I o_I n_I n_I eu_E
+patinonr'u p_B a_I t_I i_I n_I o_I n_I rx_I eu_E
+patinor'u p_B a_I t_I i_I n_I o_I rx_I eu_E
+patin~aalu p_B a_I t_I i_I n_I aa_I l_I eu_E
+patin~aar'u p_B a_I t_I i_I n_I aa_I rx_I eu_E
+patin~onnu p_B a_I t_I i_I n_I o_I n_I n_I eu_E
+pativattil p_B a_I t_I i_I v_I a_I t_I t_I i_I l_E
+pativu p_B a_I t_I i_I v_I eu_E
+patiyonnu p_B a_I t_I i_I y_I o_I n_I n_I eu_E
+patmaavati p_B a_I t_I m_I aa_I v_I a_I t_I i_E
+pattal p_B a_I t_I t_I a_I l_E
+pattu p_B a_I t_I t_I eu_E
+pattumaa p_B a_I t_I t_I u_I m_I aa_E
+pavat't'ala p_B a_I v_I a_I tx_I tx_I a_I l_I a_E
+paya p_B a_I y_I a_E
+payan p_B a_I y_I a_I n_E
+payang~kara p_B a_I y_I a_I ng_I k_I a_I r_I a_E
+payanpat'um p_B a_I y_I a_I n_I p_I a_I tx_I u_I m_E
+payar'u p_B a_I y_I a_I rx_I eu_E
+payir p_B a_I y_I i_I r_E
+payir'u p_B a_I y_I i_I rx_I eu_E
+payirallaam p_B a_I y_I i_I r_I a_I ll_I aa_I m_E
+payirgal' p_B a_I y_I i_I r_I g_I a_I lx_E
+payirit't'appo p_B a_I y_I i_I r_I i_I tx_I tx_I a_I p_I p_I o_E
+payirkal' p_B a_I y_I i_I r_I k_I a_I lx_E
+payiru p_B a_I y_I i_I r_I eu_E
+payr'u p_B a_I y_I rx_I eu_E
+pazha p_B a_I zh_I a_E
+pazham p_B a_I zh_I a_I m_E
+pazhuttuppooy p_B a_I zh_I u_I t_I t_I u_I p_I p_I oo_I y_E
+pechikit't'u p_B e_I c_I i_I k_I i_I tx_I tx_I eu_E
+pei p_B ee_E
+peicha p_B ee_I c_I a_E
+peichan~aayan p_B ee_I c_I a_I n_I aa_I y_I a_I n_E
+peichi p_B ee_I c_I i_E
+peichikit't'u p_B ee_I c_I i_I k_I i_I tx_I tx_I eu_E
+peichir'a p_B ee_I c_I i_I rx_I a_E
+peichit'tei p_B ee_I c_I i_I tx_I t_I ee_E
+peichutu p_B ee_I c_I u_I t_I eu_E
+pein p_B ee_I n_E
+peing~k p_B ee_I ng_I k_E
+peing~kala p_B ee_I ng_I k_I a_I l_I a_E
+peing~kila p_B ee_I ng_I k_I i_I l_I a_E
+peing~ku p_B ee_I ng_I k_I eu_E
+peing~kula p_B ee_I ng_I k_I u_I l_I a_E
+peing~lata p_B ee_I ng_I l_I a_I t_I a_E
+peinj~chaa p_B ee_I nj_I c_I aa_E
+peippar p_B ee_I p_I p_I a_I r_E
+peir p_B ee_I r_E
+peir'u p_B ee_I rx_I eu_E
+peiraa p_B ee_I r_I aa_E
+peiral'am p_B ee_I r_I a_I lx_I a_I m_E
+peirappul'l'a p_B ee_I r_I a_I p_I p_I u_I lx_I lx_I a_E
+peirchchampazham p_B ee_I r_I c_I c_I a_I m_I p_I a_I zh_I a_I m_E
+peirichchai p_B ee_I r_I i_I c_I c_I ai_E
+peirichchaipazham p_B ee_I r_I i_I c_I c_I ai_I p_I a_I zh_I a_I m_E
+peirichchaippazham p_B ee_I r_I i_I c_I c_I ai_I p_I p_I a_I zh_I a_I m_E
+peirichcham p_B ee_I r_I i_I c_I c_I a_I m_E
+peirichchampal'am p_B ee_I r_I i_I c_I c_I a_I m_I p_I a_I lx_I a_I m_E
+peirichchampazham p_B ee_I r_I i_I c_I c_I a_I m_I p_I a_I zh_I a_I m_E
+peirit'chai p_B ee_I r_I i_I tx_I c_I ai_E
+peiru p_B ee_I r_I eu_E
+peirulam p_B ee_I r_I u_I l_I a_I m_E
+peiti p_B ee_I t_I i_E
+peivar p_B ee_I v_I a_I r_E
+pelvaalu p_B e_I l_I v_I aa_I l_I eu_E
+per'iya p_B e_I rx_I i_I y_I a_E
+per'iyatu p_B e_I rx_I i_I y_I a_I t_I eu_E
+perampaluur p_B e_I r_I a_I m_I p_I a_I l_I uu_I r_E
+perimaad'u p_B e_I r_I i_I m_I aa_I dx_I eu_E
+periya p_B e_I r_I i_I y_I a_E
+periyaar p_B e_I r_I i_I y_I aa_I r_E
+periyaaspattiri p_B e_I r_I i_I y_I aa_I s_I p_I a_I t_I t_I i_I r_I i_E
+periyak p_B e_I r_I i_I y_I a_I k_E
+periyakad'alai p_B e_I r_I i_I y_I a_I k_I a_I dx_I a_I l_I ai_E
+periyakat'alai p_B e_I r_I i_I y_I a_I k_I a_I tx_I a_I l_I ai_E
+periyammai p_B e_I r_I i_I y_I a_I m_I m_I ai_E
+periyatu p_B e_I r_I i_I y_I a_I t_I eu_E
+periyaveng~gaayam p_B e_I r_I i_I y_I a_I v_I e_I ng_I g_I aa_I y_I a_I m_E
+periyaveng~kaayam p_B e_I r_I i_I y_I a_I v_I e_I ng_I k_I aa_I y_I a_I m_E
+peruchu p_B e_I r_I u_I c_I eu_E
+pet' p_B e_I tx_E
+peyar p_B e_I y_I a_I r_E
+peyaru p_B e_I y_I a_I r_I eu_E
+peykir'atu p_B e_I y_I k_I i_I rx_I a_I t_I eu_E
+peynj~jataala p_B e_I y_I nj_I j_I a_I t_I aa_I l_I a_E
+peyt't'aa p_B e_I y_I tx_I tx_I aa_E
+peytu p_B e_I y_I t_I eu_E
+peyyaamal p_B e_I y_I y_I aa_I m_I a_I l_E
+peyyaatu p_B e_I y_I y_I aa_I t_I eu_E
+pi p_B i_E
+pichi p_B i_I c_I i_E
+pichie p_B i_I c_I i_I e_E
+pichit'i p_B i_I c_I i_I tx_I i_E
+piech p_B i_I e_I c_E
+pieipi p_B i_I ee_I p_I i_E
+piemvi p_B i_I e_I m_I v_I i_E
+pienchi p_B i_I e_I n_I c_I i_E
+piepi p_B i_I e_I p_I i_E
+pihchu p_B i_I h_I c_I eu_E
+pii p_B ii_E
+piikkang~gaay p_B ii_I k_I k_I a_I ng_I g_I aa_I y_E
+piil p_B ii_I l_E
+piip p_B ii_I p_E
+piirkkang~gaay p_B ii_I r_I k_I k_I a_I ng_I g_I aa_I y_E
+piirkkang~kaay p_B ii_I r_I k_I k_I a_I ng_I k_I aa_I y_E
+piis p_B ii_I s_E
+piit'ruut' p_B ii_I tx_I r_I uu_I tx_E
+piit'ruut't'u p_B ii_I tx_I r_I uu_I tx_I tx_I eu_E
+piivar p_B ii_I v_I a_I r_E
+pik p_B i_I k_E
+pikeem p_B i_I k_I ee_I m_E
+pil p_B i_I l_E
+pillaiyarkud'i p_B i_I ll_I ai_I y_I a_I r_I k_I u_I dx_I i_E
+pilluur p_B i_I ll_I uu_I r_E
+pin p_B i_I n_E
+pinichchai p_B i_I n_I i_I c_I c_I ai_E
+pinkood' p_B i_I n_I k_I oo_I dx_E
+pinkood'aa p_B i_I n_I k_I oo_I dx_I aa_E
+pinkood'ai p_B i_I n_I k_I oo_I dx_I ai_E
+pinkood'u p_B i_I n_I k_I oo_I dx_I eu_E
+pinkoot'u p_B i_I n_I k_I oo_I tx_I eu_E
+pinvarum p_B i_I n_I v_I a_I r_I u_I m_E
+pipit'i p_B i_I p_I i_I tx_I i_E
+pipt'i p_B i_I p_I tx_I i_E
+pir'a p_B i_I rx_I a_E
+pir'agu p_B i_I rx_I a_I g_I eu_E
+pir'avum p_B i_I rx_I a_I v_I u_I m_E
+pirai p_B i_I r_I ai_E
+piraiveit't'u p_B i_I r_I ai_I v_I ee_I tx_I tx_I eu_E
+piraivet't'u p_B i_I r_I ai_I v_I e_I tx_I tx_I eu_E
+pirans p_B i_I r_I a_I n_I s_E
+pirichchit't'u p_B i_I r_I i_I c_I c_I i_I tx_I tx_I eu_E
+pirikkaatu p_B i_I r_I i_I k_I k_I aa_I t_I eu_E
+piriyaa p_B i_I r_I i_I y_I aa_E
+pit'i p_B i_I tx_I i_E
+pit'las p_B i_I tx_I l_I a_I s_E
+pitilai p_B i_I t_I i_I l_I ai_E
+pivar p_B i_I v_I a_I r_E
+pl'am p_B lx_I a_I m_E
+plai p_B l_I ai_E
+plas p_B l_I a_I s_E
+pod'alang~gaay p_B o_I dx_I a_I l_I a_I ng_I g_I aa_I y_E
+pogaiyaan p_B o_I g_I ai_I y_I aa_I n_E
+pokaiyaan p_B o_I k_I ai_I y_I aa_I n_E
+pokayaa p_B o_I k_I a_I y_I aa_E
+pomand~i p_B o_I m_I a_I nx_I i_E
+pommani p_B o_I m_I m_I a_I n_I i_E
+pon p_B o_I n_E
+pond~mand~i p_B o_I nx_I m_I a_I nx_I i_E
+ponmand~i p_B o_I n_I m_I a_I nx_I i_E
+ponmani p_B o_I n_I m_I a_I n_I i_E
+ponna p_B o_I n_I n_I a_E
+ponni p_B o_I n_I n_I i_E
+ponninu p_B o_I n_I n_I i_I n_I eu_E
+ponnumani p_B o_I n_I n_I u_I m_I a_I n_I i_E
+ponr'a p_B o_I n_I rx_I a_E
+poo p_B oo_E
+poochchu p_B oo_I c_I c_I eu_E
+poochchung~ka p_B oo_I c_I c_I u_I ng_I k_I a_E
+pood'aatammaa p_B oo_I dx_I aa_I t_I a_I m_I m_I aa_E
+pood'anum p_B oo_I dx_I a_I n_I u_I m_E
+pood'uvoom p_B oo_I dx_I u_I v_I oo_I m_E
+pooganum p_B oo_I g_I a_I n_I u_I m_E
+poojyam p_B oo_I j_I y_I a_I m_E
+pooka p_B oo_I k_I a_E
+pookkal' p_B oo_I k_I k_I a_I lx_E
+pookku p_B oo_I k_I k_I eu_E
+pool p_B oo_I l_E
+poolaam p_B oo_I l_I aa_I m_E
+poolirukku p_B oo_I l_I i_I r_I u_I k_I k_I eu_E
+pooliyoo p_B oo_I l_I i_I y_I oo_E
+poomand~i p_B oo_I m_I a_I nx_I i_E
+poommani p_B oo_I m_I m_I a_I n_I i_E
+poon p_B oo_I n_E
+poonai p_B oo_I n_I ai_E
+poonr'avaitaan p_B oo_I n_I rx_I a_I v_I ai_I t_I aa_I n_E
+poonr'avum p_B oo_I n_I rx_I a_I v_I u_I m_E
+poonu p_B oo_I n_I eu_E
+poor p_B oo_I r_E
+poor'iyaa p_B oo_I rx_I i_I y_I aa_E
+pooratu p_B oo_I r_I a_I t_I eu_E
+poot'aa p_B oo_I tx_I aa_E
+poot'aak p_B oo_I tx_I aa_I k_E
+poot'aas p_B oo_I tx_I aa_I s_E
+poot'iin p_B oo_I tx_I ii_I n_E
+poot't'ein p_B oo_I tx_I tx_I ee_I n_E
+poot't'irukkoom p_B oo_I tx_I tx_I i_I r_I u_I k_I k_I oo_I m_E
+poot't'u p_B oo_I tx_I tx_I eu_E
+poot'uvaang~ka p_B oo_I tx_I u_I v_I aa_I ng_I k_I a_E
+poot'uvoom p_B oo_I tx_I u_I v_I oo_I m_E
+pootu p_B oo_I t_I eu_E
+pootum p_B oo_I t_I u_I m_E
+poovein p_B oo_I v_I ee_I n_E
+poovoom p_B oo_I v_I oo_I m_E
+poovoong~ga p_B oo_I v_I oo_I ng_I g_I a_E
+por p_B o_I r_E
+por'uttu p_B o_I rx_I u_I t_I t_I eu_E
+porookkar p_B o_I r_I oo_I k_I k_I a_I r_E
+pot'aach p_B o_I tx_I aa_I c_E
+pot't'a p_B o_I tx_I tx_I a_E
+pot't'aa p_B o_I tx_I tx_I aa_E
+pot't'aach p_B o_I tx_I tx_I aa_I c_E
+pot't'aachiyam p_B o_I tx_I tx_I aa_I c_I i_I y_I a_I m_E
+pot't'aachu p_B o_I tx_I tx_I aa_I c_I eu_E
+pot't'aas p_B o_I tx_I tx_I aa_I s_E
+pot't'aasiyam p_B o_I tx_I tx_I aa_I s_I i_I y_I a_I m_E
+pot't'aasu p_B o_I tx_I tx_I aa_I s_I eu_E
+pot't'ukad'alai p_B o_I tx_I tx_I u_I k_I a_I dx_I a_I l_I ai_E
+potinaa p_B o_I t_I i_I n_I aa_E
+potu p_B o_I t_I eu_E
+potumaruttuvam p_B o_I t_I u_I m_I a_I r_I u_I t_I t_I u_I v_I a_I m_E
+praivet' p_B r_I ai_I v_I e_I tx_E
+prookkar p_B r_I oo_I k_I k_I a_I r_E
+puchikezhang~ku p_B u_I c_I i_I k_I e_I zh_I a_I ng_I k_I eu_E
+pud'aimil'agaay p_B u_I dx_I ai_I m_I i_I lx_I a_I g_I aa_I y_E
+pud'alai p_B u_I dx_I a_I l_I ai_E
+pud'alang~gaa p_B u_I dx_I a_I l_I a_I ng_I g_I aa_E
+pud'alang~gaay p_B u_I dx_I a_I l_I a_I ng_I g_I aa_I y_E
+pudukkoot't'ai p_B u_I d_I u_I k_I k_I oo_I tx_I tx_I ai_E
+pugai p_B u_I g_I ai_E
+pugailai p_B u_I g_I ai_I l_I ai_E
+pugain~oot' p_B u_I g_I ai_I n_I oo_I tx_E
+pugaiyaan p_B u_I g_I ai_I y_I aa_I n_E
+pugaiyilai p_B u_I g_I ai_I y_I i_I l_I ai_E
+pukaiyaan p_B u_I k_I ai_I y_I aa_I n_E
+pukaiyilai p_B u_I k_I ai_I y_I i_I l_I ai_E
+pukkooriyan p_B u_I k_I k_I oo_I r_I i_I y_I a_I n_E
+pul'i p_B u_I lx_I i_E
+pul'iyam p_B u_I lx_I i_I y_I a_I m_E
+pul'iyampalam p_B u_I lx_I i_I y_I a_I m_I p_I a_I l_I a_I m_E
+pul'iyampazham p_B u_I lx_I i_I y_I a_I m_I p_I a_I zh_I a_I m_E
+pul'iyamvitai p_B u_I lx_I i_I y_I a_I m_I v_I i_I t_I ai_E
+pul'iyang~gaay p_B u_I lx_I i_I y_I a_I ng_I g_I aa_I y_E
+pul'iyang~kollam p_B u_I lx_I i_I y_I a_I ng_I k_I o_I ll_I a_I m_E
+pul'iyap p_B u_I lx_I i_I y_I a_I p_E
+pul'l'i p_B u_I lx_I lx_I i_E
+pul'l'u p_B u_I lx_I lx_I eu_E
+pullu p_B u_I ll_I eu_E
+pulu p_B u_I l_I eu_E
+pund~nd~aakku p_B u_I nx_I nx_I aa_I k_I k_I eu_E
+punj~chai p_B u_I nj_I c_I ai_E
+punnagai p_B u_I n_I n_I a_I g_I ai_E
+puppatti p_B u_I p_I p_I a_I t_I t_I i_E
+puram p_B u_I r_I a_I m_E
+puri p_B u_I r_I i_E
+purila p_B u_I r_I i_I l_I a_E
+puriyala p_B u_I r_I i_I y_I a_I l_I a_E
+puriyalang~ p_B u_I r_I i_I y_I a_I l_I a_I ng_E
+puriyalayei p_B u_I r_I i_I y_I a_I l_I a_I y_I ee_E
+purookkar p_B u_I r_I oo_I k_I k_I a_I r_E
+put'alang~kaay p_B u_I tx_I a_I l_I a_I ng_I k_I aa_I y_E
+putinaa p_B u_I t_I i_I n_I aa_E
+putinaay p_B u_I t_I i_I n_I aa_I y_E
+puttuur p_B u_I t_I t_I uu_I r_E
+putuchcheiri p_B u_I t_I u_I c_I c_I ee_I r_I i_E
+putuchu p_B u_I t_I u_I c_I eu_E
+putukkoot't'ai p_B u_I t_I u_I k_I k_I oo_I tx_I tx_I ai_E
+putukoot't'ai p_B u_I t_I u_I k_I oo_I tx_I tx_I ai_E
+putupeit't'ai p_B u_I t_I u_I p_I ee_I tx_I tx_I ai_E
+putuur p_B u_I t_I uu_I r_E
+puu p_B u_I eu_E
+puuchand~i p_B uu_I c_I a_I nx_I i_E
+puuchand~ikaay p_B uu_I c_I a_I nx_I i_I k_I aa_I y_E
+puuchand~ikkaay p_B uu_I c_I a_I nx_I i_I k_I k_I aa_I y_E
+puuchchi p_B uu_I c_I c_I i_E
+puuchchiarikratu p_B uu_I c_I c_I i_I a_I r_I i_I k_I r_I a_I t_I eu_E
+puuchchigal' p_B uu_I c_I c_I i_I g_I a_I lx_E
+puuchchigal'aal p_B uu_I c_I c_I i_I g_I a_I lx_I aa_I l_E
+puuchchikal'in p_B uu_I c_I c_I i_I k_I a_I lx_I i_I n_E
+puuchchikkal' p_B uu_I c_I c_I i_I k_I k_I a_I lx_E
+puuchchikkolli p_B uu_I c_I c_I i_I k_I k_I o_I ll_I i_E
+puuchchikkollikalai p_B uu_I c_I c_I i_I k_I k_I o_I ll_I i_I k_I a_I l_I ai_E
+puuchchikkollitaan p_B uu_I c_I c_I i_I k_I k_I o_I ll_I i_I t_I aa_I n_E
+puuchchikkud'i p_B uu_I c_I c_I i_I k_I k_I u_I dx_I i_E
+puuchchimarun~tu p_B uu_I c_I c_I i_I m_I a_I r_I u_I n_I t_I eu_E
+puuchchinaala p_B uu_I c_I c_I i_I n_I aa_I l_I a_E
+puuchchippattu p_B uu_I c_I c_I i_I p_I p_I a_I t_I t_I eu_E
+puuchchittit't'u p_B uu_I c_I c_I i_I t_I t_I i_I tx_I tx_I eu_E
+puuchchivet't'u p_B uu_I c_I c_I i_I v_I e_I tx_I tx_I eu_E
+puuchchiyaal p_B uu_I c_I c_I i_I y_I aa_I l_E
+puuchchiyaalataan p_B uu_I c_I c_I i_I y_I aa_I l_I a_I t_I aa_I n_E
+puuchchiyat'uchchuruchchu p_B uu_I c_I c_I i_I y_I a_I tx_I u_I c_I c_I u_I r_I u_I c_I c_I eu_E
+puuchchiyila p_B uu_I c_I c_I i_I y_I i_I l_I a_E
+puuchchiyinaal p_B uu_I c_I c_I i_I y_I i_I n_I aa_I l_E
+puuchi p_B uu_I c_I i_E
+puujiyam p_B uu_I j_I i_I y_I a_I m_E
+puujiyan p_B uu_I j_I i_I y_I a_I n_E
+puujjiyam p_B uu_I j_I j_I i_I y_I a_I m_E
+puujjiyamaar'u p_B uu_I j_I j_I i_I y_I a_I m_I aa_I rx_I eu_E
+puujyam p_B uu_I j_I y_I a_I m_E
+puukkal' p_B uu_I k_I k_I a_I lx_E
+puumbazham p_B uu_I m_I b_I a_I zh_I a_I m_E
+puund~d'i p_B uu_I nx_I dx_I i_E
+puund~d'u p_B uu_I nx_I dx_I eu_E
+puund~t'u p_B uu_I nx_I tx_I eu_E
+puung~kaa p_B uu_I ng_I k_I aa_E
+puun~toot't'am p_B uu_I n_I t_I oo_I tx_I tx_I a_I m_E
+puuvaa p_B uu_I v_I aa_E
+puuvai p_B uu_I v_I ai_E
+puuval p_B uu_I v_I a_I l_E
+puuvam p_B uu_I v_I a_I m_E
+puuvan p_B uu_I v_I a_I n_E
+puuvu p_B uu_I v_I eu_E
+puvi p_B u_I v_I i_E
+puyal p_B u_I y_I a_I l_E
+puzhu p_B u_I zh_I eu_E
+puzhukkal' p_B u_I zh_I u_I k_I k_I a_I lx_E
+puzhukkalaal p_B u_I zh_I u_I k_I k_I a_I l_I aa_I l_E
+ra r_B a_E
+raa r_B aa_E
+raachi r_B aa_I c_I i_E
+raagi r_B aa_I g_I i_E
+raagiyapatti r_B aa_I g_I i_I y_I a_I p_I a_I t_I t_I i_E
+raajam r_B aa_I j_I a_I m_E
+raajkumaar r_B aa_I j_I k_I u_I m_I aa_I r_E
+raaki r_B aa_I k_I i_E
+raakket' r_B aa_I k_I k_I e_I tx_E
+raam r_B aa_I m_E
+raamaan~aadapuram r_B aa_I m_I aa_I n_I aa_I d_I a_I p_I u_I r_I a_I m_E
+raaman~aadapuram r_B aa_I m_I a_I n_I aa_I d_I a_I p_I u_I r_I a_I m_E
+raaman~aatapuram r_B aa_I m_I a_I n_I aa_I t_I a_I p_I u_I r_I a_I m_E
+raamaraajaa r_B aa_I m_I a_I r_I aa_I j_I aa_E
+raameish r_B aa_I m_I ee_I sh_E
+raameisvaram r_B aa_I m_I ee_I s_I v_I a_I r_I a_I m_E
+raamn~aad'u r_B aa_I m_I n_I aa_I dx_I eu_E
+raamn~aat'u r_B aa_I m_I n_I aa_I tx_I eu_E
+raapattila r_B aa_I p_I a_I t_I t_I i_I l_I a_E
+raarais r_B aa_I r_I ai_I s_E
+raaras r_B aa_I r_I a_I s_E
+raatiivu r_B aa_I t_I ii_I v_I eu_E
+raavai r_B aa_I v_I ai_E
+ragam r_B a_I g_I a_I m_E
+rail r_B ai_I l_E
+rais r_B ai_I s_E
+rakam r_B a_I k_I a_I m_E
+rand~d'u r_B a_I nx_I dx_I eu_E
+rappar r_B a_I p_I p_I a_I r_E
+rarais r_B a_I r_I ai_I s_E
+rava r_B a_I v_I a_E
+ravai r_B a_I v_I ai_E
+ravar'r'ai r_B a_I v_I a_I rx_I rx_I ai_E
+ravi r_B a_I v_I i_E
+ravunt'ap r_B a_I v_I u_I n_I tx_I a_I p_E
+rayilvei r_B a_I y_I i_I l_I v_I ee_E
+red'i r_B e_I dx_I i_E
+reid'iyoo r_B ee_I dx_I i_I y_I oo_E
+reit's r_B ee_I tx_I s_E
+reit't'uku r_B ee_I tx_I tx_I u_I k_I eu_E
+rekkaalaat r_B e_I k_I k_I aa_I l_I aa_I t_E
+rekkaat'u r_B e_I k_I k_I aa_I tx_I eu_E
+rend~d'u r_B e_I nx_I dx_I eu_E
+rend~d'umei r_B e_I nx_I dx_I u_I m_I ee_E
+rend~r'a r_B e_I nx_I rx_I a_E
+rend~rai r_B e_I nx_I r_I ai_E
+rend~t'arai r_B e_I nx_I tx_I a_I r_I ai_E
+rend~t'u r_B e_I nx_I tx_I eu_E
+rend~t'upai r_B e_I nx_I tx_I u_I p_I ai_E
+ret'iyoo r_B e_I tx_I i_I y_I oo_E
+reyinpaal r_B e_I y_I i_I n_I p_I aa_I l_E
+riyaa r_B i_I y_I aa_E
+robert' r_B o_I b_I e_I r_I tx_E
+romba r_B o_I m_I b_I a_E
+roochaappuu r_B oo_I c_I aa_I p_I p_I u_I eu_E
+rood'am r_B oo_I dx_I a_I m_E
+rood'u r_B oo_I dx_I eu_E
+roojaa r_B oo_I j_I aa_E
+roojaamalar r_B oo_I j_I aa_I m_I a_I l_I a_I r_E
+roojaappuu r_B oo_I j_I aa_I p_I p_I u_I eu_E
+roojaapuu r_B oo_I j_I aa_I p_I u_I eu_E
+rookkaalullaa r_B oo_I k_I k_I aa_I l_I u_I ll_I aa_E
+rookkar r_B oo_I k_I k_I a_I r_E
+roona r_B oo_I n_I a_E
+ru r_B eu_E
+ruum r_B uu_I m_E
+ruupaay r_B uu_I p_I aa_I y_E
+s s_S
+salpar s_B a_I l_I p_I a_I r_E
+savi s_B a_I v_I i_E
+selva s_B e_I l_I v_I a_E
+selvam s_B e_I l_I v_I a_I m_E
+sevan s_B e_I v_I a_I n_E
+siks s_B i_I k_I s_E
+sollaamla s_B o_I ll_I aa_I m_I l_I a_E
+sosait'i s_B o_I s_I ai_I tx_I i_E
+spik s_B p_I i_I k_E
+st'aar s_B tx_I aa_I r_E
+st'atap s_B tx_I a_I t_I a_I p_E
+st'eishan s_B tx_I ee_I sh_I a_I n_E
+st'eit' s_B tx_I ee_I tx_E
+st'riit' s_B tx_I r_I ii_I tx_E
+steit'peing~k s_B t_I ee_I tx_I p_I ee_I ng_I k_E
+t'a tx_B a_E
+t'aarch tx_B aa_I r_I c_E
+t'abul' tx_B a_I b_I u_I lx_E
+t'ai tx_B ai_E
+t'aipaayd'u tx_B ai_I p_I aa_I y_I dx_I eu_E
+t'aipaayt' tx_B ai_I p_I aa_I y_I tx_E
+t'aipaayt'u tx_B ai_I p_I aa_I y_I tx_I eu_E
+t'aipaching~ tx_B ai_I p_I a_I c_I i_I ng_E
+t'aippaayt'u tx_B ai_I p_I p_I aa_I y_I tx_I eu_E
+t'aiyeiriyaa tx_B ai_I y_I ee_I r_I i_I y_I aa_E
+t'aiyoomoonoopaast'at' tx_B ai_I y_I oo_I m_I oo_I n_I oo_I p_I aa_I s_I tx_I a_I tx_E
+t'al tx_B a_I l_E
+t'am tx_B a_I m_E
+t'amakkaraan tx_B a_I m_I a_I k_I k_I a_I r_I aa_I n_E
+t'amakraan tx_B a_I m_I a_I k_I r_I aa_I n_E
+t'amat'aal tx_B a_I m_I a_I tx_I aa_I l_E
+t'ambu tx_B a_I m_I b_I eu_E
+t'ampalar tx_B a_I m_I p_I a_I l_I a_I r_E
+t'an tx_B a_I n_E
+t'ang~gu tx_B a_I ng_I g_I eu_E
+t'appul tx_B a_I p_I p_I u_I l_E
+t'appul' tx_B a_I p_I p_I u_I lx_E
+t'apul' tx_B a_I p_I u_I lx_E
+t'ayar tx_B a_I y_I a_I r_E
+t'aypaayd'u tx_B a_I y_I p_I aa_I y_I dx_I eu_E
+t'aypaayt' tx_B a_I y_I p_I aa_I y_I tx_E
+t'ei tx_B ee_E
+t'eiy tx_B ee_I y_E
+t'ekaares tx_B e_I k_I aa_I r_I e_I s_E
+t'elivichan tx_B e_I l_I i_I v_I i_I c_I a_I n_E
+t'en tx_B e_I n_E
+t'end~d'i tx_B e_I nx_I dx_I i_E
+t'eng~gukaaychal tx_B e_I ng_I g_I u_I k_I aa_I y_I c_I a_I l_E
+t'et' tx_B e_I tx_E
+t'eyli tx_B e_I y_I l_I i_E
+t'i tx_B i_E
+t'ichent'ri tx_B i_I c_I e_I n_I tx_I r_I i_E
+t'ichichi tx_B i_I c_I i_I c_I i_E
+t'ichiech tx_B i_I c_I i_I e_I c_E
+t'ieipi tx_B i_I ee_I p_I i_E
+t'iem tx_B i_I e_I m_E
+t'iemchi tx_B i_I e_I m_I c_I i_E
+t'iemvi tx_B i_I e_I m_I v_I i_E
+t'ien tx_B i_I e_I n_E
+t'ienpi tx_B i_I e_I n_I p_I i_E
+t'iepi tx_B i_I e_I p_I i_E
+t'iespi tx_B i_I e_I s_I p_I i_E
+t'iet'i tx_B i_I e_I tx_I i_E
+t'ii tx_B ii_E
+t'iilaks tx_B ii_I l_I a_I k_I s_E
+t'iilar tx_B ii_I l_I a_I r_E
+t'ike tx_B i_I k_I e_E
+t'ikeem tx_B i_I k_I ee_I m_E
+t'ikeen tx_B i_I k_I ee_I n_E
+t'ikiri tx_B i_I k_I i_I r_I i_E
+t'imookkaraan tx_B i_I m_I oo_I k_I k_I a_I r_I aa_I n_E
+t'ip tx_B i_I p_E
+t'ipichiks tx_B i_I p_I i_I c_I i_I k_I s_E
+t'ipil' tx_B i_I p_I i_I lx_E
+t'ipit'i tx_B i_I p_I i_I tx_I i_E
+t'ippoo tx_B i_I p_I p_I oo_E
+t'ippulud'i tx_B i_I p_I p_I u_I l_I u_I dx_I i_E
+t'ipul' tx_B i_I p_I u_I lx_E
+t'iraakt'ar tx_B i_I r_I aa_I k_I tx_I a_I r_E
+t'iripil tx_B i_I r_I i_I p_I i_I l_E
+t'ist'ik tx_B i_I s_I tx_I i_I k_E
+t'it'i tx_B i_I tx_I i_E
+t'it'ichi tx_B i_I tx_I i_I c_I i_E
+t'it'ies tx_B i_I tx_I i_I e_I s_E
+t'it'ipi tx_B i_I tx_I i_I p_I i_E
+t'it'it'i tx_B i_I tx_I i_I tx_I i_E
+t'ivi tx_B i_I v_I i_E
+t'ivilum tx_B i_I v_I i_I l_I u_I m_E
+t'omaakkaran tx_B o_I m_I aa_I k_I k_I a_I r_I a_I n_E
+t'ont'i tx_B o_I n_I tx_I i_E
+t'raakt'ar tx_B r_I aa_I k_I tx_I a_I r_E
+t'rai tx_B r_I ai_E
+t'ri tx_B r_I i_E
+t'ripil' tx_B r_I i_I p_I i_I lx_E
+t'rippil' tx_B r_I i_I p_I p_I i_I lx_E
+t'ripul' tx_B r_I i_I p_I u_I lx_E
+t't'u tx_B tx_I eu_E
+t'u tx_B eu_E
+t'upir tx_B u_I p_I i_I r_E
+t'upoor tx_B u_I p_I oo_I r_E
+t'utri tx_B u_I t_I r_I i_E
+t'uu tx_B u_I eu_E
+t'uval tx_B u_I v_I a_I l_E
+t'uvand~t'i tx_B u_I v_I a_I nx_I tx_I i_E
+ta t_B a_E
+taa t_B aa_E
+taakkal t_B aa_I k_I k_I a_I l_E
+taakkappat't'ul'l'atu t_B aa_I k_I k_I a_I p_I p_I a_I tx_I tx_I u_I lx_I lx_I a_I t_I eu_E
+taakkappattirukkir'atu t_B aa_I k_I k_I a_I p_I p_I a_I t_I t_I i_I r_I u_I k_I k_I i_I rx_I a_I t_I eu_E
+taakkutal t_B aa_I k_I k_I u_I t_I a_I l_E
+taakkutu t_B aa_I k_I k_I u_I t_I eu_E
+taalukaa t_B aa_I l_I u_I k_I aa_E
+taalukkaa t_B aa_I l_I u_I k_I k_I aa_E
+taan t_B aa_I n_E
+taana t_B aa_I n_I a_E
+taanaa t_B aa_I n_I aa_E
+taang~ga t_B aa_I ng_I g_I a_E
+taang~ka t_B aa_I ng_I k_I a_E
+taang~kal' t_B aa_I ng_I k_I a_I lx_E
+taaniyavakaikal' t_B aa_I n_I i_I y_I a_I v_I a_I k_I ai_I k_I a_I lx_E
+taanj~chaavuurung~ka t_B aa_I nj_I c_I aa_I v_I uu_I r_I u_I ng_I k_I a_E
+taar'u t_B aa_I rx_I eu_E
+tad'ichcha t_B a_I dx_I i_I c_I c_I a_E
+tad'ippaal t_B a_I dx_I i_I p_I p_I aa_I l_E
+tad'itta t_B a_I dx_I i_I t_I t_I a_E
+tad'ittai t_B a_I dx_I i_I t_I t_I ai_E
+tad'ittakambu t_B a_I dx_I i_I t_I t_I a_I k_I a_I m_I b_I eu_E
+tad'ittatu t_B a_I dx_I i_I t_I t_I a_I t_I eu_E
+tai t_B ai_E
+tairaayd'u t_B ai_I r_I aa_I y_I dx_I eu_E
+takkaal'i t_B a_I k_I k_I aa_I lx_I i_E
+takkaal'ippazham t_B a_I k_I k_I aa_I lx_I i_I p_I p_I a_I zh_I a_I m_E
+taku t_B a_I k_I eu_E
+tal'l'u t_B a_I lx_I lx_I eu_E
+tal'l'upat'ilaam t_B a_I lx_I lx_I u_I p_I a_I tx_I i_I l_I aa_I m_E
+talachuttiyirukku t_B a_I l_I a_I c_I u_I t_I t_I i_I y_I i_I r_I u_I k_I k_I eu_E
+talaivali t_B a_I l_I ai_I v_I a_I l_I i_E
+talippu t_B a_I l_I i_I p_I p_I eu_E
+tamanai t_B a_I m_I a_I n_I ai_E
+tambi t_B a_I m_I b_I i_E
+tamizh t_B a_I m_I i_I zh_E
+tamizhai t_B a_I m_I i_I zh_I ai_E
+tamizhiyoo t_B a_I m_I i_I zh_I i_I y_I oo_E
+tamizhn~aad'u t_B a_I m_I i_I zh_I n_I aa_I dx_I eu_E
+tamizhn~aat'u t_B a_I m_I i_I zh_I n_I aa_I tx_I eu_E
+tamparuppu t_B a_I m_I p_I a_I r_I u_I p_I p_I eu_E
+tan t_B a_I n_E
+tand~d'i t_B a_I nx_I dx_I i_E
+tand~d'u t_B a_I nx_I dx_I eu_E
+tand~d'uppuuchchi t_B a_I nx_I dx_I u_I p_I p_I uu_I c_I c_I i_E
+tand~nd~i t_B a_I nx_I nx_I i_E
+tand~t'uppuuchchi t_B a_I nx_I tx_I u_I p_I p_I uu_I c_I c_I i_E
+tanittatu t_B a_I n_I i_I t_I t_I a_I t_I eu_E
+tanittu t_B a_I n_I i_I t_I t_I eu_E
+taniyaar t_B a_I n_I i_I y_I aa_I r_E
+taniyaarit'am t_B a_I n_I i_I y_I aa_I r_I i_I tx_I a_I m_E
+tanj~chaavuur t_B a_I nj_I c_I aa_I v_I uu_I r_E
+tanj~chaavuuru t_B a_I nj_I c_I aa_I v_I uu_I r_I eu_E
+tanj~chai t_B a_I nj_I c_I ai_E
+tanj~chuur t_B a_I nj_I c_I uu_I r_E
+tappu t_B a_I p_I p_I eu_E
+tar'chamayam t_B a_I rx_I c_I a_I m_I a_I y_I a_I m_E
+tar'itta t_B a_I rx_I i_I t_I t_I a_E
+tar'pootaiya t_B a_I rx_I p_I oo_I t_I ai_I y_I a_E
+tar'pootu t_B a_I rx_I p_I oo_I t_I eu_E
+tar'ppa t_B a_I rx_I p_I p_I a_E
+tar'ppootu t_B a_I rx_I p_I p_I oo_I t_I eu_E
+taragar t_B a_I r_I a_I g_I a_I r_E
+taragarid'am t_B a_I r_I a_I g_I a_I r_I i_I dx_I a_I m_E
+taram t_B a_I r_I a_I m_E
+taramud'iyaatu t_B a_I r_I a_I m_I u_I dx_I i_I y_I aa_I t_I eu_E
+tarat't'aiyam t_B a_I r_I a_I tx_I tx_I ai_I y_I a_I m_E
+tari t_B a_I r_I i_E
+tarmapuri t_B a_I r_I m_I a_I p_I u_I r_I i_E
+tarmaspattiri t_B a_I r_I m_I a_I s_I p_I a_I t_I t_I i_I r_I i_E
+tarpootaya t_B a_I r_I p_I oo_I t_I a_I y_I a_E
+tarpuuchand~i t_B a_I r_I p_I uu_I c_I a_I nx_I i_E
+tarumapuri t_B a_I r_I u_I m_I a_I p_I u_I r_I i_E
+tat'itta t_B a_I tx_I i_I t_I t_I a_E
+tat'ittal t_B a_I tx_I i_I t_I t_I a_I l_E
+tat'ittu t_B a_I tx_I i_I t_I t_I eu_E
+tat'pa t_B a_I tx_I p_I a_E
+tat'paveppan~ilai t_B a_I tx_I p_I a_I v_I e_I p_I p_I a_I n_I i_I l_I ai_E
+tat't'a t_B a_I tx_I tx_I a_E
+tat't'ai t_B a_I tx_I tx_I ai_E
+tat't'aimuttu t_B a_I tx_I tx_I ai_I m_I u_I t_I t_I eu_E
+tat't'aipayir t_B a_I tx_I tx_I ai_I p_I a_I y_I i_I r_E
+tat't'aipayir'u t_B a_I tx_I tx_I ai_I p_I a_I y_I i_I rx_I eu_E
+tat't'aippayir'u t_B a_I tx_I tx_I ai_I p_I p_I a_I y_I i_I rx_I eu_E
+tat't'apayar'u t_B a_I tx_I tx_I a_I p_I a_I y_I a_I rx_I eu_E
+tat't'apayir t_B a_I tx_I tx_I a_I p_I a_I y_I i_I r_E
+tat't'appayir t_B a_I tx_I tx_I a_I p_I p_I a_I y_I i_I r_E
+tat't'appayir'u t_B a_I tx_I tx_I a_I p_I p_I a_I y_I i_I rx_I eu_E
+tat't'i t_B a_I tx_I tx_I i_E
+tauchan t_B a_I u_I c_I a_I n_E
+tavand~ai t_B a_I v_I a_I nx_I ai_E
+tavchan t_B a_I v_I c_I a_I n_E
+tavut't'u t_B a_I v_I u_I tx_I tx_I eu_E
+tayaar t_B a_I y_I aa_I r_E
+tayaarpanr'a t_B a_I y_I aa_I r_I p_I a_I n_I rx_I a_E
+tei t_B ee_E
+teichiyatu t_B ee_I c_I i_I y_I a_I t_I eu_E
+teimal t_B ee_I m_I a_I l_E
+tein t_B ee_I n_E
+teing~gaa t_B ee_I ng_I g_I aa_E
+teing~gaay t_B ee_I ng_I g_I aa_I y_E
+teing~gaaya t_B ee_I ng_I g_I aa_I y_I a_E
+teing~kaa t_B ee_I ng_I k_I aa_E
+teing~kaay t_B ee_I ng_I k_I aa_I y_E
+teing~kot't'ai t_B ee_I ng_I k_I o_I tx_I tx_I ai_E
+teing~ks t_B ee_I ng_I k_I s_E
+teini t_B ee_I n_I i_E
+teiniir t_B ee_I n_I ii_I r_E
+teiriyaatu t_B ee_I r_I i_I y_I aa_I t_I eu_E
+teit't'i t_B ee_I tx_I tx_I i_E
+teivappad'um t_B ee_I v_I a_I p_I p_I a_I dx_I u_I m_E
+teiyilai t_B ee_I y_I i_I l_I ai_E
+tel'ivaana t_B e_I lx_I i_I v_I aa_I n_I a_E
+temal'l'u t_B e_I m_I a_I lx_I lx_I eu_E
+ten t_B e_I n_E
+tennai t_B e_I n_I n_I ai_E
+tentiruppaar'ai t_B e_I n_I t_I i_I r_I u_I p_I p_I aa_I rx_I ai_E
+tentirupparai t_B e_I n_I t_I i_I r_I u_I p_I p_I a_I r_I ai_E
+terikir'atu t_B e_I r_I i_I k_I i_I rx_I a_I t_I eu_E
+terila t_B e_I r_I i_I l_I a_E
+terilang~ka t_B e_I r_I i_I l_I a_I ng_I k_I a_E
+teriliyei t_B e_I r_I i_I l_I i_I y_I ee_E
+terinj~chaataana t_B e_I r_I i_I nj_I c_I aa_I t_I aa_I n_I a_E
+terinj~chavarai t_B e_I r_I i_I nj_I c_I a_I v_I a_I r_I ai_E
+terinj~chevang~ka t_B e_I r_I i_I nj_I c_I e_I v_I a_I ng_I k_I a_E
+terinj~chukkaratukku t_B e_I r_I i_I nj_I c_I u_I k_I k_I a_I r_I a_I t_I u_I k_I k_I eu_E
+terin~tavar t_B e_I r_I i_I n_I t_I a_I v_I a_I r_E
+terin~tavarin t_B e_I r_I i_I n_I t_I a_I v_I a_I r_I i_I n_E
+teriyaatalla t_B e_I r_I i_I y_I aa_I t_I a_I ll_I a_E
+teriyaatei t_B e_I r_I i_I y_I aa_I t_I ee_E
+teriyaatu t_B e_I r_I i_I y_I aa_I t_I eu_E
+teriyaatung~ka t_B e_I r_I i_I y_I aa_I t_I u_I ng_I k_I a_E
+teriyala t_B e_I r_I i_I y_I a_I l_I a_E
+teriyalai t_B e_I r_I i_I y_I a_I l_I ai_E
+teriyaling~ga t_B e_I r_I i_I y_I a_I l_I i_I ng_I g_I a_E
+teriyavillai t_B e_I r_I i_I y_I a_I v_I i_I ll_I ai_E
+teriyum t_B e_I r_I i_I y_I u_I m_E
+terla t_B e_I r_I l_I a_E
+teru t_B e_I r_I eu_E
+test'u t_B e_I s_I tx_I eu_E
+tet't'i t_B e_I tx_I tx_I i_E
+ti t_B i_E
+tiik t_B ii_I k_E
+tiippet't'i t_B ii_I p_I p_I e_I tx_I tx_I i_E
+tiippizhang~ku t_B ii_I p_I p_I i_I zh_I a_I ng_I k_I eu_E
+til t_B i_I l_E
+tinai t_B i_I n_I ai_E
+tinaikkizhang~gu t_B i_I n_I ai_I k_I k_I i_I zh_I a_I ng_I g_I eu_E
+tinam t_B i_I n_I a_I m_E
+tind~ai t_B i_I nx_I ai_E
+tind~t'uk t_B i_I nx_I tx_I u_I k_E
+tind~t'ukkal t_B i_I nx_I tx_I u_I k_I k_I a_I l_E
+tinnai t_B i_I n_I n_I ai_E
+tinnam t_B i_I n_I n_I a_I m_E
+tiraachchai t_B i_I r_I aa_I c_I c_I ai_E
+tiraat'ch t_B i_I r_I aa_I tx_I c_E
+tiraat'chai t_B i_I r_I aa_I tx_I c_I ai_E
+tiraat'chchai t_B i_I r_I aa_I tx_I c_I c_I ai_E
+tiri t_B i_I r_I i_E
+tirikad'alai t_B i_I r_I i_I k_I a_I dx_I a_I l_I ai_E
+tiripul t_B i_I r_I i_I p_I u_I l_E
+tiru t_B i_I r_I eu_E
+tiruchcharaappal'l'i t_B i_I r_I u_I c_I c_I a_I r_I aa_I p_I p_I a_I lx_I lx_I i_E
+tiruchchi t_B i_I r_I u_I c_I c_I i_E
+tiruchchiraappal'l'i t_B i_I r_I u_I c_I c_I i_I r_I aa_I p_I p_I a_I lx_I lx_I i_E
+tiruchchraappal'l'i t_B i_I r_I u_I c_I c_I r_I aa_I p_I p_I a_I lx_I lx_I i_E
+tirukkad'aiyuur t_B i_I r_I u_I k_I k_I a_I dx_I ai_I y_I uu_I r_E
+tirukkanavuurng~ga t_B i_I r_I u_I k_I k_I a_I n_I a_I v_I uu_I r_I ng_I g_I a_E
+tirumand~am t_B i_I r_I u_I m_I a_I nx_I a_I m_E
+tirumand~amaayi t_B i_I r_I u_I m_I a_I nx_I a_I m_I aa_I y_I i_E
+tirunaar'u t_B i_I r_I u_I n_I aa_I rx_I eu_E
+tirun~alveili t_B i_I r_I u_I n_I a_I l_I v_I ee_I l_I i_E
+tirun~elveili t_B i_I r_I u_I n_I e_I l_I v_I ee_I l_I i_E
+tiruppaang~gud'i t_B i_I r_I u_I p_I p_I aa_I ng_I g_I u_I dx_I i_E
+tiruppattuur t_B i_I r_I u_I p_I p_I a_I t_I t_I uu_I r_E
+tiruppi t_B i_I r_I u_I p_I p_I i_E
+tiruppukaluur t_B i_I r_I u_I p_I p_I u_I k_I a_I l_I uu_I r_E
+tiruppul' t_B i_I r_I u_I p_I p_I u_I lx_E
+tiruppuur t_B i_I r_I u_I p_I p_I uu_I r_E
+tiruvaaruur t_B i_I r_I u_I v_I aa_I r_I uu_I r_E
+tiruval'l'uur t_B i_I r_I u_I v_I a_I lx_I lx_I uu_I r_E
+tiruval'l'uvar t_B i_I r_I u_I v_I a_I lx_I lx_I u_I v_I a_I r_E
+tiruvand~nd~aamalai t_B i_I r_I u_I v_I a_I nx_I nx_I aa_I m_I a_I l_I ai_E
+tiruvaruur t_B i_I r_I u_I v_I a_I r_I uu_I r_E
+tiruvel'l'uur t_B i_I r_I u_I v_I e_I lx_I lx_I uu_I r_E
+tittikkizhang~gu t_B i_I t_I t_I i_I k_I k_I i_I zh_I a_I ng_I g_I eu_E
+tiyuud'ai t_B i_I y_I uu_I dx_I ai_E
+tod'u t_B o_I dx_I eu_E
+tol'aikkaat'chchi t_B o_I lx_I ai_I k_I k_I aa_I tx_I c_I c_I i_E
+tol'l'aayiratti t_B o_I lx_I lx_I aa_I y_I i_I r_I a_I t_I t_I i_E
+tolaayiratti t_B o_I l_I aa_I y_I i_I r_I a_I t_I t_I i_E
+tolai t_B o_I l_I ai_E
+tolaikkaat'chi t_B o_I l_I ai_I k_I k_I aa_I tx_I c_I i_E
+tolaikkaat'chippet't'i t_B o_I l_I ai_I k_I k_I aa_I tx_I c_I i_I p_I p_I e_I tx_I tx_I i_E
+tolaipeichi t_B o_I l_I ai_I p_I ee_I c_I i_E
+tollai t_B o_I ll_I ai_E
+tommu t_B o_I m_I m_I eu_E
+tond~nd~ut t_B o_I nx_I nx_I u_I t_E
+tond~nd~uuru t_B o_I nx_I nx_I uu_I r_I eu_E
+tond~nd~uutti t_B o_I nx_I nx_I uu_I t_I t_I i_E
+tond~nd~uuttu t_B o_I nx_I nx_I uu_I t_I t_I eu_E
+tonnuttaar'u t_B o_I n_I n_I u_I t_I t_I aa_I rx_I eu_E
+tonnutti t_B o_I n_I n_I u_I t_I t_I i_E
+tonnuur'u t_B o_I n_I n_I uu_I rx_I eu_E
+tonnuuttanj~chu t_B o_I n_I n_I uu_I t_I t_I a_I nj_I c_I eu_E
+tonnuutteizhu t_B o_I n_I n_I uu_I t_I t_I ee_I zh_I eu_E
+tonnuuttet't'u t_B o_I n_I n_I uu_I t_I t_I e_I tx_I tx_I eu_E
+tonnuutti t_B o_I n_I n_I uu_I t_I t_I i_E
+tonnuuttieizhu t_B o_I n_I n_I uu_I t_I t_I i_I ee_I zh_I eu_E
+tonnuuttimuunu t_B o_I n_I n_I uu_I t_I t_I i_I m_I uu_I n_I eu_E
+tonnuuttin~aalu t_B o_I n_I n_I uu_I t_I t_I i_I n_I aa_I l_I eu_E
+tonnuuttiyonpatu t_B o_I n_I n_I uu_I t_I t_I i_I y_I o_I n_I p_I a_I t_I eu_E
+tonnuuttonnu t_B o_I n_I n_I uu_I t_I t_I o_I n_I n_I eu_E
+tonnuuttu t_B o_I n_I n_I uu_I t_I t_I eu_E
+toogaippuuchchi t_B oo_I g_I ai_I p_I p_I uu_I c_I c_I i_E
+tookai t_B oo_I k_I ai_E
+tookaichchurut't'u t_B oo_I k_I ai_I c_I c_I u_I r_I u_I tx_I tx_I eu_E
+toot't'a t_B oo_I tx_I tx_I a_E
+toot't'akkiirai t_B oo_I tx_I tx_I a_I k_I k_I ii_I r_I ai_E
+toot't'am t_B oo_I tx_I tx_I a_I m_E
+toot't'appayir t_B oo_I tx_I tx_I a_I p_I p_I a_I y_I i_I r_E
+toot't'avaaks t_B oo_I tx_I tx_I a_I v_I aa_I k_I s_E
+tooval t_B oo_I v_I a_I l_E
+tot'akka t_B o_I tx_I a_I k_I k_I a_E
+tovaramparuppu t_B o_I v_I a_I r_I a_I m_I p_I a_I r_I u_I p_I p_I eu_E
+tozhil t_B o_I zh_I i_I l_E
+tozhiln~ut'pam t_B o_I zh_I i_I l_I n_I u_I tx_I p_I a_I m_E
+tri t_B r_I i_E
+trii t_B r_I ii_E
+tu t_B eu_E
+tul'achi t_B u_I lx_I a_I c_I i_E
+tumai t_B u_I m_I ai_E
+tund~i t_B u_I nx_I i_E
+tur'ai t_B u_I rx_I ai_E
+tur'aiyuur t_B u_I rx_I ai_I y_I uu_I r_E
+tur'alum t_B u_I rx_I a_I l_I u_I m_E
+turai t_B u_I r_I ai_E
+turaliyuur t_B u_I r_I a_I l_I i_I y_I uu_I r_E
+tuung~gamut'iliing~ga t_B uu_I ng_I g_I a_I m_I u_I tx_I i_I l_I ii_I ng_I g_I a_E
+tuur t_B uu_I r_E
+tuuttukkod'i t_B uu_I t_I t_I u_I k_I k_I o_I dx_I i_E
+tuuttukkud'i t_B uu_I t_I t_I u_I k_I k_I u_I dx_I i_E
+tuuttukkut'i t_B uu_I t_I t_I u_I k_I k_I u_I tx_I i_E
+tuvarai t_B u_I v_I a_I r_I ai_E
+tuvarakkaa t_B u_I v_I a_I r_I a_I k_I k_I aa_E
+tuvaram t_B u_I v_I a_I r_I a_I m_E
+tuvaramparuppu t_B u_I v_I a_I r_I a_I m_I p_I a_I r_I u_I p_I p_I eu_E
+u e_B u_E
+ukkat'am u_B k_I k_I a_I tx_I a_I m_E
+ul'ar u_B lx_I a_I r_E
+ul'artiraat'chai u_B lx_I a_I r_I t_I i_I r_I aa_I tx_I c_I ai_E
+ul'avar u_B lx_I a_I v_I a_I r_E
+ul'l'a u_B lx_I lx_I a_E
+ul'l'atu u_B lx_I lx_I a_I t_I eu_E
+ul'l'u u_B lx_I lx_I eu_E
+ul'l'uraiyai u_B lx_I lx_I u_I r_I ai_I y_I ai_E
+ul'l'uur u_B lx_I lx_I uu_I r_E
+ul'un~ta u_B lx_I u_I n_I t_I a_E
+ul'un~tam u_B lx_I u_I n_I t_I a_I m_E
+ul'un~tamparuppu u_B lx_I u_I n_I t_I a_I m_I p_I a_I r_I u_I p_I p_I eu_E
+ul'un~tapparuppu u_B lx_I u_I n_I t_I a_I p_I p_I a_I r_I u_I p_I p_I eu_E
+ul'un~tu u_B lx_I u_I n_I t_I eu_E
+ul'un~tuppayir u_B lx_I u_I n_I t_I u_I p_I p_I a_I y_I i_I r_E
+ul'un~tuppayir'u u_B lx_I u_I n_I t_I u_I p_I p_I a_I y_I i_I rx_I eu_E
+ul'uttam u_B lx_I u_I t_I t_I a_I m_E
+ul'uttamparuppu u_B lx_I u_I t_I t_I a_I m_I p_I a_I r_I u_I p_I p_I eu_E
+ular u_B l_I a_I r_E
+ulartiraat'chai u_B l_I a_I r_I t_I i_I r_I aa_I tx_I c_I ai_E
+ulla u_B ll_I a_E
+unakku u_B n_I a_I k_I k_I eu_E
+und~t'u u_B nx_I tx_I eu_E
+ung~gal' u_B ng_I g_I a_I lx_E
+ung~gal'ukku u_B ng_I g_I a_I lx_I u_I k_I k_I eu_E
+ung~ka u_B ng_I k_I a_E
+ung~kal'ukku u_B ng_I k_I a_I lx_I u_I k_I k_I eu_E
+uppu u_B p_I p_I eu_E
+ur'ppatti u_B rx_I p_I p_I a_I t_I t_I i_E
+uram u_B r_I a_I m_E
+uramaa u_B r_I a_I m_I aa_E
+urang~gal' u_B r_I a_I ng_I g_I a_I lx_E
+urang~kal' u_B r_I a_I ng_I k_I a_I lx_E
+urul'ai u_B r_I u_I lx_I ai_E
+urul'aikkizhang~gu u_B r_I u_I lx_I ai_I k_I k_I i_I zh_I a_I ng_I g_I eu_E
+urul'aikkizhang~ku u_B r_I u_I lx_I ai_I k_I k_I i_I zh_I a_I ng_I k_I eu_E
+urund~t'ai u_B r_I u_I nx_I tx_I ai_E
+uruttukkut'i u_B r_I u_I t_I t_I u_I k_I k_I u_I tx_I i_E
+ut'anpaat'u u_B tx_I a_I n_I p_I aa_I tx_I eu_E
+utirippuukkal' u_B t_I i_I r_I i_I p_I p_I uu_I k_I k_I a_I lx_E
+uttaraand~t'aapal'aiyam u_B t_I t_I a_I r_I aa_I nx_I tx_I aa_I p_I a_I lx_I ai_I y_I a_I m_E
+uud'alvai uu_B dx_I a_I l_I v_I ai_E
+uur uu_B r_E
+uurin uu_B r_I i_I n_E
+uuru uu_B r_I eu_E
+uut't'i uu_B tx_I tx_I i_E
+uyariya u_B y_I a_I r_I i_I y_I a_E
+uyi u_B y_I i_E
+uzhan~taam u_B zh_I a_I n_I t_I aa_I m_E
+uzhavar u_B zh_I a_I v_I a_I r_E
+uzhavarchan~tai u_B zh_I a_I v_I a_I r_I c_I a_I n_I t_I ai_E
+va v_B a_E
+vaa v_B aa_E
+vaad'al v_B aa_I dx_I a_I l_E
+vaalai v_B aa_I l_I ai_E
+vaanam v_B aa_I n_I a_I m_E
+vaang~gu v_B aa_I ng_I g_I eu_E
+vaang~gum v_B aa_I ng_I g_I u_I m_E
+vaang~guvatu v_B aa_I ng_I g_I u_I v_I a_I t_I eu_E
+vaang~ka v_B aa_I ng_I k_I a_E
+vaang~kartu v_B aa_I ng_I k_I a_I r_I t_I eu_E
+vaang~kkivoo v_B aa_I ng_I k_I k_I i_I v_I oo_E
+vaang~kum v_B aa_I ng_I k_I u_I m_E
+vaang~kuvoom v_B aa_I ng_I k_I u_I v_I oo_I m_E
+vaani v_B aa_I n_I i_E
+vaanilai v_B aa_I n_I i_I l_I ai_E
+vaanilaich v_B aa_I n_I i_I l_I ai_I c_E
+vaanilaikeit'patillai v_B aa_I n_I i_I l_I ai_I k_I ee_I tx_I p_I a_I t_I i_I ll_I ai_E
+vaanilaiya v_B aa_I n_I i_I l_I ai_I y_I a_E
+vaanipa v_B aa_I n_I i_I p_I a_E
+vaanoli v_B aa_I n_I o_I l_I i_E
+vaanolippet't'i v_B aa_I n_I o_I l_I i_I p_I p_I e_I tx_I tx_I i_E
+vaan~ti v_B aa_I n_I t_I i_E
+vaar v_B aa_I r_E
+vaarai v_B aa_I r_I ai_E
+vaat' v_B aa_I tx_E
+vaat'ippat't'i v_B aa_I tx_I i_I p_I p_I a_I tx_I tx_I i_E
+vaatam v_B aa_I t_I a_I m_E
+vaattu v_B aa_I t_I t_I eu_E
+vaays v_B aa_I y_I s_E
+vaazha v_B aa_I zh_I a_E
+vaazhai v_B aa_I zh_I ai_E
+vaazhaikkaa v_B aa_I zh_I ai_I k_I k_I aa_E
+vaazhaikkaavaa v_B aa_I zh_I ai_I k_I k_I aa_I v_I aa_E
+vaazhaikkaay v_B aa_I zh_I ai_I k_I k_I aa_I y_E
+vaazhaikkad'alai v_B aa_I zh_I ai_I k_I k_I a_I dx_I a_I l_I ai_E
+vaazhaip v_B aa_I zh_I ai_I p_E
+vaazhaippachchai v_B aa_I zh_I ai_I p_I p_I a_I c_I c_I ai_E
+vaazhaippalam v_B aa_I zh_I ai_I p_I p_I a_I l_I a_I m_E
+vaazhaippazham v_B aa_I zh_I ai_I p_I p_I a_I zh_I a_I m_E
+vaazhaippuu v_B aa_I zh_I ai_I p_I p_I u_I eu_E
+vaazhaippuuvan v_B aa_I zh_I ai_I p_I p_I uu_I v_I a_I n_E
+vaazhakkaay v_B aa_I zh_I a_I k_I k_I aa_I y_E
+vaazhamaram v_B aa_I zh_I a_I m_I a_I r_I a_I m_E
+vad'i v_B a_I dx_I i_E
+vad'ivu v_B a_I dx_I i_I v_I eu_E
+vagai v_B a_I g_I ai_E
+vagaigal' v_B a_I g_I ai_I g_I a_I lx_E
+vairal v_B ai_I r_I a_I l_E
+vairas v_B ai_I r_I a_I s_E
+vaittiisvaran v_B ai_I t_I t_I ii_I s_I v_I a_I r_I a_I n_E
+vakai v_B a_I k_I ai_E
+vakaikal' v_B a_I k_I ai_I k_I a_I lx_E
+val'am v_B a_I lx_I a_I m_E
+val'l'alaar v_B a_I lx_I lx_I a_I l_I aa_I r_E
+val'l'ikkizhang~gu v_B a_I lx_I lx_I i_I k_I k_I i_I zh_I a_I ng_I g_I eu_E
+val'l'ikkizhang~ku v_B a_I lx_I lx_I i_I k_I k_I i_I zh_I a_I ng_I k_I eu_E
+val'l'uur v_B a_I lx_I lx_I uu_I r_E
+valakkai v_B a_I l_I a_I k_I k_I ai_E
+valam v_B a_I l_I a_I m_E
+valli v_B a_I ll_I i_E
+vand~d'i v_B a_I nx_I dx_I i_E
+vand~t'i v_B a_I nx_I tx_I i_E
+vang~garang~ga v_B a_I ng_I g_I a_I r_I a_I ng_I g_I a_E
+vang~gi v_B a_I ng_I g_I i_E
+vang~gigal' v_B a_I ng_I g_I i_I g_I a_I lx_E
+vang~ginaa v_B a_I ng_I g_I i_I n_I aa_E
+vang~gittozhil v_B a_I ng_I g_I i_I t_I t_I o_I zh_I i_I l_E
+vang~giyil v_B a_I ng_I g_I i_I y_I i_I l_E
+vang~ki v_B a_I ng_I k_I i_E
+van~ta v_B a_I n_I t_I a_E
+van~taan v_B a_I n_I t_I aa_I n_E
+van~tu v_B a_I n_I t_I eu_E
+var'a v_B a_I rx_I a_E
+var'agu v_B a_I rx_I a_I g_I eu_E
+vara v_B a_I r_I a_E
+varaataa v_B a_I r_I aa_I t_I aa_E
+varaatu v_B a_I r_I aa_I t_I eu_E
+varaguttirai v_B a_I r_I a_I g_I u_I t_I t_I i_I r_I ai_E
+varakat'ai v_B a_I r_I a_I k_I a_I tx_I ai_E
+varakizhuta v_B a_I r_I a_I k_I i_I zh_I u_I t_I a_E
+varaku v_B a_I r_I a_I k_I eu_E
+varalaam v_B a_I r_I a_I l_I aa_I m_E
+varalai v_B a_I r_I a_I l_I ai_E
+varam v_B a_I r_I a_I m_E
+varamaari v_B a_I r_I a_I m_I aa_I r_I i_E
+varamil'agaay v_B a_I r_I a_I m_I i_I lx_I a_I g_I aa_I y_E
+varamil'akaay v_B a_I r_I a_I m_I i_I lx_I a_I k_I aa_I y_E
+varamparuppu v_B a_I r_I a_I m_I p_I a_I r_I u_I p_I p_I eu_E
+varla v_B a_I r_I l_I a_E
+varukad'alai v_B a_I r_I u_I k_I a_I dx_I a_I l_I ai_E
+varul'iyaanu v_B a_I r_I u_I lx_I i_I y_I aa_I n_I eu_E
+varum v_B a_I r_I u_I m_E
+varumaa v_B a_I r_I u_I m_I aa_E
+varumnaa v_B a_I r_I u_I m_I n_I aa_E
+varumnu v_B a_I r_I u_I m_I n_I eu_E
+varutaa v_B a_I r_I u_I t_I aa_E
+varutu v_B a_I r_I u_I t_I eu_E
+vat'akku v_B a_I tx_I a_I k_I k_I eu_E
+vat'amil'akaay v_B a_I tx_I a_I m_I i_I lx_I a_I k_I aa_I y_E
+vat'avel'l'i v_B a_I tx_I a_I v_I e_I lx_I lx_I i_E
+vat't'attukkei v_B a_I tx_I tx_I a_I t_I t_I u_I k_I k_I ee_E
+vat't'i v_B a_I tx_I tx_I i_E
+vat't'ii v_B a_I tx_I tx_I ii_E
+vat't'ikkad'ai v_B a_I tx_I tx_I i_I k_I k_I a_I dx_I ai_E
+vat't'ikku v_B a_I tx_I tx_I i_I k_I k_I eu_E
+vat't'ikkutaan v_B a_I tx_I tx_I i_I k_I k_I u_I t_I aa_I n_E
+vayir'r'u v_B a_I y_I i_I rx_I rx_I eu_E
+vayir'r'uppookku v_B a_I y_I i_I rx_I rx_I u_I p_I p_I oo_I k_I k_I eu_E
+vayittu v_B a_I y_I i_I t_I t_I eu_E
+vazhaippuuvan v_B a_I zh_I ai_I p_I p_I uu_I v_I a_I n_E
+vechchirukkang~ka v_B e_I c_I c_I i_I r_I u_I k_I k_I a_I ng_I k_I a_E
+ved'ppoom v_B e_I dx_I p_I p_I oo_I m_E
+veel v_B ee_I l_E
+vei v_B ee_E
+veigamaa v_B ee_I g_I a_I m_I aa_E
+veil v_B ee_I l_E
+veil'aand~mai v_B ee_I lx_I aa_I nx_I m_I ai_E
+veil'aand~maikkuut't'ur'avu v_B ee_I lx_I aa_I nx_I m_I ai_I k_I k_I uu_I tx_I tx_I u_I rx_I a_I v_I eu_E
+veil'aiyal v_B ee_I lx_I ai_I y_I a_I l_E
+veil'l'ai v_B ee_I lx_I lx_I ai_E
+veilaikku v_B ee_I l_I ai_I k_I k_I eu_E
+veili v_B ee_I l_I i_E
+veiluur v_B ee_I l_I uu_I r_E
+veiluuru v_B ee_I l_I uu_I r_I eu_E
+veinaa v_B ee_I n_I aa_E
+veind~u v_B ee_I nx_I eu_E
+veinu v_B ee_I n_I eu_E
+veippa v_B ee_I p_I p_I a_E
+veippakkizhang~ku v_B ee_I p_I p_I a_I k_I k_I i_I zh_I a_I ng_I k_I eu_E
+veippam v_B ee_I p_I p_I a_I m_E
+veippamarun~tu v_B ee_I p_I p_I a_I m_I a_I r_I u_I n_I t_I eu_E
+veippamkizhang~gu v_B ee_I p_I p_I a_I m_I k_I i_I zh_I a_I ng_I g_I eu_E
+veippampund~nd~aakku v_B ee_I p_I p_I a_I m_I p_I u_I nx_I nx_I aa_I k_I k_I eu_E
+veippang~ v_B ee_I p_I p_I a_I ng_E
+veippang~gaay v_B ee_I p_I p_I a_I ng_I g_I aa_I y_E
+veippang~kezhang~ku v_B ee_I p_I p_I a_I ng_I k_I e_I zh_I a_I ng_I k_I eu_E
+veippang~kizhang~gu v_B ee_I p_I p_I a_I ng_I k_I i_I zh_I a_I ng_I g_I eu_E
+veippang~kizhang~ku v_B ee_I p_I p_I a_I ng_I k_I i_I zh_I a_I ng_I k_I eu_E
+veippang~kot't'ai v_B ee_I p_I p_I a_I ng_I k_I o_I tx_I tx_I ai_E
+veippang~kottu v_B ee_I p_I p_I a_I ng_I k_I o_I t_I t_I eu_E
+veir v_B ee_I r_E
+veir'a v_B ee_I rx_I a_E
+veir'u v_B ee_I rx_I eu_E
+veira v_B ee_I r_I a_E
+veiriyal v_B ee_I r_I i_I y_I a_I l_E
+veirkad'alai v_B ee_I r_I k_I a_I dx_I a_I l_I ai_E
+veirkal v_B ee_I r_I k_I a_I l_E
+veirkat'alai v_B ee_I r_I k_I a_I tx_I a_I l_I ai_E
+veirkkal'l'ai v_B ee_I r_I k_I k_I a_I lx_I lx_I ai_E
+veirkkat'alai v_B ee_I r_I k_I k_I a_I tx_I a_I l_I ai_E
+veiyei v_B ee_I y_I ee_E
+vel'aanma v_B e_I lx_I aa_I n_I m_I a_E
+vel'ichcham v_B e_I lx_I i_I c_I c_I a_I m_E
+vel'l'a v_B e_I lx_I lx_I a_E
+vel'l'achool'am v_B e_I lx_I lx_I a_I c_I oo_I lx_I a_I m_E
+vel'l'ai v_B e_I lx_I lx_I ai_E
+vel'l'aiponni v_B e_I lx_I lx_I ai_I p_I o_I n_I n_I i_E
+vel'l'aippuuchchi v_B e_I lx_I lx_I ai_I p_I p_I uu_I c_I c_I i_E
+vel'l'am v_B e_I lx_I lx_I a_I m_E
+vel'l'amat'ai v_B e_I lx_I lx_I a_I m_I a_I tx_I ai_E
+vel'l'ar'ikkaay v_B e_I lx_I lx_I a_I rx_I i_I k_I k_I aa_I y_E
+vel'l'ari v_B e_I lx_I lx_I a_I r_I i_E
+vel'l'arikkaa v_B e_I lx_I lx_I a_I r_I i_I k_I k_I aa_E
+vel'l'arikkaay v_B e_I lx_I lx_I a_I r_I i_I k_I k_I aa_I y_E
+vel'l'arippazham v_B e_I lx_I lx_I a_I r_I i_I p_I p_I a_I zh_I a_I m_E
+vel'l'attula v_B e_I lx_I lx_I a_I t_I t_I u_I l_I a_E
+vel'l'ayaa v_B e_I lx_I lx_I a_I y_I aa_E
+vel'l'erikkaay v_B e_I lx_I lx_I e_I r_I i_I k_I k_I aa_I y_E
+vel'l'eripazham v_B e_I lx_I lx_I e_I r_I i_I p_I a_I zh_I a_I m_E
+vel'l'irikkaay v_B e_I lx_I lx_I i_I r_I i_I k_I k_I aa_I y_E
+vel'l'u v_B e_I lx_I lx_I eu_E
+velai v_B e_I l_I ai_E
+vella v_B e_I ll_I a_E
+vellam v_B e_I ll_I a_I m_E
+vempuur v_B e_I m_I p_I uu_I r_E
+vend~d'aikkaay v_B e_I nx_I dx_I ai_I k_I k_I aa_I y_E
+vend~d'aikkaayng~ga v_B e_I nx_I dx_I ai_I k_I k_I aa_I y_I ng_I g_I a_E
+vend~d'akkaa v_B e_I nx_I dx_I a_I k_I k_I aa_E
+vend~d'akkaay v_B e_I nx_I dx_I a_I k_I k_I aa_I y_E
+vend~d'ikkaay v_B e_I nx_I dx_I i_I k_I k_I aa_I y_E
+vend~t'aikkaay v_B e_I nx_I tx_I ai_I k_I k_I aa_I y_E
+vend~t'akkaay v_B e_I nx_I tx_I a_I k_I k_I aa_I y_E
+vend~t'ikaa v_B e_I nx_I tx_I i_I k_I aa_E
+veng~gaayam v_B e_I ng_I g_I aa_I y_I a_I m_E
+veng~kaayam v_B e_I ng_I k_I aa_I y_I a_I m_E
+veng~kaayamum v_B e_I ng_I k_I aa_I y_I a_I m_I u_I m_E
+veppam v_B e_I p_I p_I a_I m_E
+veppan~ila v_B e_I p_I p_I a_I n_I i_I l_I a_E
+veppan~ilai v_B e_I p_I p_I a_I n_I i_I l_I ai_E
+veppan~ilaikal'ai v_B e_I p_I p_I a_I n_I i_I l_I ai_I k_I a_I lx_I ai_E
+veppatut'an v_B e_I p_I p_I a_I t_I u_I tx_I a_I n_E
+ver'i v_B e_I rx_I i_E
+ver'kku v_B e_I rx_I k_I k_I eu_E
+ver'pam v_B e_I rx_I p_I a_I m_E
+ver'ppa v_B e_I rx_I p_I p_I a_E
+ver'u v_B e_I rx_I eu_E
+verum v_B e_I r_I u_I m_E
+vet'pa v_B e_I tx_I p_I a_E
+vet'pan~ilai v_B e_I tx_I p_I a_I n_I i_I l_I ai_E
+vet't'u v_B e_I tx_I tx_I eu_E
+vet't'ukkil'i v_B e_I tx_I tx_I u_I k_I k_I i_I lx_I i_E
+vet't'up v_B e_I tx_I tx_I u_I p_E
+veta v_B e_I t_I a_E
+vetai v_B e_I t_I ai_E
+vettalai v_B e_I t_I t_I a_I l_I ai_E
+vevachaaya v_B e_I v_I a_I c_I aa_I y_I a_E
+veyil v_B e_I y_I i_I l_E
+veyilad'ikkutu v_B e_I y_I i_I l_I a_I dx_I i_I k_I k_I u_I t_I eu_E
+veyilkaalam v_B e_I y_I i_I l_I k_I aa_I l_I a_I m_E
+veyilkkaalam v_B e_I y_I i_I l_I k_I k_I aa_I l_I a_I m_E
+veyilu v_B e_I y_I i_I l_I eu_E
+veyilum v_B e_I y_I i_I l_I u_I m_E
+veyyal v_B e_I y_I y_I a_I l_E
+veyyil v_B e_I y_I y_I i_I l_E
+vi v_B i_E
+vichiel v_B i_I c_I i_I e_I l_E
+viem v_B i_I e_I m_E
+vigai v_B i_I g_I ai_E
+viira v_B ii_I r_I a_E
+viirapaand~t'i v_B ii_I r_I a_I p_I aa_I nx_I tx_I i_E
+viiti v_B ii_I t_I i_E
+vikkir'atu v_B i_I k_I k_I i_I rx_I a_I t_I eu_E
+vikkum v_B i_I k_I k_I u_I m_E
+vilaacha v_B i_I l_I aa_I c_I a_E
+vilai v_B i_I l_I ai_E
+vilaikal' v_B i_I l_I ai_I k_I a_I lx_E
+vilaikku v_B i_I l_I ai_I k_I k_I eu_E
+vilayil v_B i_I l_I a_I y_I i_I l_E
+viluppuram v_B i_I l_I u_I p_I p_I u_I r_I a_I m_E
+vinaa v_B i_I n_I aa_E
+vir'panai v_B i_I rx_I p_I a_I n_I ai_E
+virudun~agar v_B i_I r_I u_I d_I u_I n_I a_I g_I a_I r_E
+virutu v_B i_I r_I u_I t_I eu_E
+virutun~akar v_B i_I r_I u_I t_I u_I n_I a_I k_I a_I r_E
+vit't'u v_B i_I tx_I tx_I eu_E
+vit't'uru v_B i_I tx_I tx_I u_I r_I eu_E
+vit't'uvit't'u v_B i_I tx_I tx_I u_I v_I i_I tx_I tx_I eu_E
+vita v_B i_I t_I a_E
+vitai v_B i_I t_I ai_E
+vitairagam v_B i_I t_I ai_I r_I a_I g_I a_I m_E
+vivachaaya v_B i_I v_I a_I c_I aa_I y_I a_E
+vivachaayam v_B i_I v_I a_I c_I aa_I y_I a_I m_E
+vivachaayattin v_B i_I v_I a_I c_I aa_I y_I a_I t_I t_I i_I n_E
+vivachaayi v_B i_I v_I a_I c_I aa_I y_I i_E
+vivaram v_B i_I v_I a_I r_I a_I m_E
+viyaapaaram v_B i_I y_I aa_I p_I aa_I r_I a_I m_E
+viyaapaarigal'id'am v_B i_I y_I aa_I p_I aa_I r_I i_I g_I a_I lx_I i_I dx_I a_I m_E
+viyaapaarigal'muulam v_B i_I y_I aa_I p_I aa_I r_I i_I g_I a_I lx_I m_I uu_I l_I a_I m_E
+viyaapaarikal' v_B i_I y_I aa_I p_I aa_I r_I i_I k_I a_I lx_E
+viyaluur v_B i_I y_I a_I l_I uu_I r_E
+vizhupparam v_B i_I zh_I u_I p_I p_I a_I r_I a_I m_E
+vizhuppuram v_B i_I zh_I u_I p_I p_I u_I r_I a_I m_E
+vuut'ung~ka v_B uu_I tx_I u_I ng_I k_I a_E
+yaa y_B aa_E
+yaan y_B aa_I n_E
+yaar y_B aa_I r_E
+yaaratu y_B aa_I r_I a_I t_I eu_E
+yaaru y_B aa_I r_I eu_E
+yaarukku y_B aa_I r_I u_I k_I k_I eu_E
+yaarut'aa y_B aa_I r_I u_I tx_I aa_E
+yaavaaram y_B aa_I v_I aa_I r_I a_I m_E
+yakkaalis y_B a_I k_I k_I aa_I l_I i_I s_E
+yeilakkaay y_B ee_I l_I a_I k_I k_I aa_I y_E
+yil y_B i_I l_E
+yina y_B i_I n_I a_E
+yoot'a y_B oo_I tx_I a_E
+yoov y_B oo_I v_E
+yu y_B eu_E
+yupchaan y_B u_I p_I c_I aa_I n_E
+yuu y_B u_I eu_E
+yuuniyan y_B uu_I n_I i_I y_I a_I n_E
+yuuriyaa y_B uu_I r_I i_I y_I aa_E
+yuus y_B uu_I s_E
+zhai zh_B ai_E
+zham zh_B a_I m_E
+!SIL SIL_S
+<eps> SIL
